@@ -62,10 +62,10 @@ export const GameStart = ({ onStart, questionsCount, onQuestionsCountChange, que
         <div className="electric-border-inner p-8 text-center energy-pulse">
           <div className="mb-8">
             <h1 className="text-6xl font-bold mb-4 sting-gradient bg-clip-text text-transparent">
-              CSR ACTION QUIZ
+              Data Engineering & Platform Quiz
             </h1>
             <p className="text-xl text-sting-gold mb-2">
-              Every Act of Kindness Counts!
+              Test your skills!
             </p>
             <div className="flex items-center justify-center gap-2 text-electric-cyan">
               <Target className="w-5 h-5" />
