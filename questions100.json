@@ -1,0 +1,222 @@
+{
+  "quizTitle": "Brain Riddles and Wellness Quiz",
+  "description": "A quiz covering mental wellness, brain functions, logic puzzles, and health-related riddles.",
+  "sections": [
+    {
+      "sectionId": "section_1",
+      "title": "Category: Brain Riddles & Wellness",
+      "questions": [
+        {
+          "questionId": "q_1_1",
+          "corpus": "I slow your thoughts without stopping time, and I work best when you’re doing nothing. What am I?",
+          "options": [
+            { "text": "Sleep", "isCorrect": false },
+            { "text": "Exercise", "isCorrect": false },
+            { "text": "Meditation", "isCorrect": true },
+            { "text": "Music", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_2",
+          "corpus": "You can’t see me, but when I’m shallow, you feel stressed; when I’m deep, you feel calm. What am I?",
+          "options": [
+            { "text": "Thoughts", "isCorrect": false },
+            { "text": "Heartbeat", "isCorrect": false },
+            { "text": "Air", "isCorrect": false },
+            { "text": "Breathing", "isCorrect": true }
+          ]
+        },
+        {
+          "questionId": "q_1_3",
+          "corpus": "I’m not a battery, but I recharge you daily. Ignore me, and everything slows down. What am I?",
+          "options": [
+            { "text": "Food", "isCorrect": false },
+            { "text": "Coffee", "isCorrect": false },
+            { "text": "Sleep", "isCorrect": true },
+            { "text": "Break", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_4",
+          "corpus": "You lose me when distracted, and find me when fully aware. What am I?",
+          "options": [
+            { "text": "Energy", "isCorrect": false },
+            { "text": "Memory", "isCorrect": false },
+            { "text": "Focus", "isCorrect": true },
+            { "text": "Strength", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_5",
+          "corpus": "People break me without touching me, and once broken, I take time to rebuild. What am I?",
+          "options": [
+            { "text": "Confidence", "isCorrect": false },
+            { "text": "Trust", "isCorrect": true },
+            { "text": "Motivation", "isCorrect": false },
+            { "text": "Discipline", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_6",
+          "corpus": "I grow stronger every time you say “yes” to yourself and “no” to what drains you. What am I?",
+          "options": [
+            { "text": "Boundaries", "isCorrect": true },
+            { "text": "Pressure", "isCorrect": false },
+            { "text": "Fear", "isCorrect": false },
+            { "text": "Discipline", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_7",
+          "corpus": "I reward you when you achieve something and keep you motivated to do more. What am I?",
+          "options": [
+            { "text": "Endorphins", "isCorrect": false },
+            { "text": "Dopamine", "isCorrect": true },
+            { "text": "Oxytocin", "isCorrect": false },
+            { "text": "Cortisol", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_8",
+          "corpus": "I increase when you connect with others and help build trust and bonding. What am I?",
+          "options": [
+            { "text": "Dopamine", "isCorrect": false },
+            { "text": "Serotonin", "isCorrect": false },
+            { "text": "Oxytocin", "isCorrect": true },
+            { "text": "Melatonin", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_9",
+          "corpus": "I regulate your mood, sleep, and emotions. Too little of me can make you feel low. What am I?",
+          "options": [
+            { "text": "Dopamine", "isCorrect": false },
+            { "text": "Cortisol", "isCorrect": false },
+            { "text": "Melatonin", "isCorrect": false },
+            { "text": "Serotonin", "isCorrect": true }
+          ]
+        },
+        {
+          "questionId": "q_1_10",
+          "corpus": "A person sleeps only 5 hours every night for 4 days. If adults ideally need 8 hours of sleep, how many total hours of sleep have they missed?",
+          "options": [
+            { "text": "9", "isCorrect": false },
+            { "text": "10", "isCorrect": false },
+            { "text": "12", "isCorrect": true },
+            { "text": "15", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_11",
+          "corpus": "I carry oxygen in your blood. When I am low, you feel tired and weak. What am I?",
+          "options": [
+            { "text": "Platelets", "isCorrect": false },
+            { "text": "Hemoglobin", "isCorrect": true },
+            { "text": "Glucose", "isCorrect": false },
+            { "text": "Protein", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_12",
+          "corpus": "A therapist told her client: “Half of your stress comes from things that never happen.” If the client worries about 20 things this week, how many probably never happen?",
+          "options": [
+            { "text": "5", "isCorrect": false },
+            { "text": "10", "isCorrect": true },
+            { "text": "15", "isCorrect": false },
+            { "text": "20", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_13",
+          "corpus": "I am the body’s natural clock that controls sleep and wake cycles. What am I?",
+          "options": [
+            { "text": "Metabolism", "isCorrect": false },
+            { "text": "Nervous System", "isCorrect": false },
+            { "text": "Circadian Rhythm", "isCorrect": true },
+            { "text": "Hormone Cycle", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_14",
+          "corpus": "I am a mineral that helps your muscles work and prevents cramps. Bananas are rich in me. What am I?",
+          "options": [
+            { "text": "Calcium", "isCorrect": false },
+            { "text": "Iron", "isCorrect": false },
+            { "text": "Sodium", "isCorrect": false },
+            { "text": "Potassium", "isCorrect": true }
+          ]
+        },
+        {
+          "questionId": "q_1_15",
+          "corpus": "I am the part of your brain responsible for decision-making and focus. What am I?",
+          "options": [
+            { "text": "Cerebellum", "isCorrect": false },
+            { "text": "Brainstem", "isCorrect": false },
+            { "text": "Amygdala", "isCorrect": false },
+            { "text": "Prefrontal Cortex", "isCorrect": true }
+          ]
+        },
+        {
+          "questionId": "q_1_16",
+          "corpus": "I am a simple habit of drinking enough water daily to keep your body functioning well. What am I called?",
+          "options": [
+            { "text": "Detox", "isCorrect": false },
+            { "text": "Dieting", "isCorrect": false },
+            { "text": "Hydration", "isCorrect": true },
+            { "text": "Fasting", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_17",
+          "corpus": "If 3 people can complete a task in 3 days, how many days will 1 person take (same pace)?",
+          "options": [
+            { "text": "1", "isCorrect": false },
+            { "text": "3", "isCorrect": false },
+            { "text": "6", "isCorrect": false },
+            { "text": "9", "isCorrect": true }
+          ]
+        },
+        {
+          "questionId": "q_1_18",
+          "corpus": "I am the response your body activates during danger or pressure, increasing heart rate and alertness. What am I called?",
+          "options": [
+            { "text": "Relaxation Response", "isCorrect": false },
+            { "text": "Recovery Mode", "isCorrect": false },
+            { "text": "Fight or Flight Response", "isCorrect": true },
+            { "text": "Sleep Cycle", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_19",
+          "corpus": "I am an odd number. Take away one letter and I become even. What number am I?",
+          "options": [
+            { "text": "One", "isCorrect": false },
+            { "text": "Three", "isCorrect": false },
+            { "text": "Five", "isCorrect": false },
+            { "text": "Seven", "isCorrect": true }
+          ]
+        },
+        {
+          "questionId": "q_1_20",
+          "corpus": "If you have a cube with all sides painted and cut into 27 smaller cubes, how many small cubes will have paint on exactly 2 faces?",
+          "options": [
+            { "text": "6", "isCorrect": false },
+            { "text": "8", "isCorrect": false },
+            { "text": "12", "isCorrect": true },
+            { "text": "18", "isCorrect": false }
+          ]
+        },
+        {
+          "questionId": "q_1_21",
+          "corpus": "I’m the body’s natural alarm system. I prepare you to fight, run, or react during danger. What response am I?",
+          "options": [
+            { "text": "Digest and Rest", "isCorrect": false },
+            { "text": "Fight or Flight", "isCorrect": true },
+            { "text": "Sleep Cycle", "isCorrect": false },
+            { "text": "Recovery Mode", "isCorrect": false }
+          ]
+        }
+      ]
+    }
+  ]
+}

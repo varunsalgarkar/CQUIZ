@@ -1,0 +1,5224 @@
+{
+  "quizTitle": "PepsiCo Company, Brands, and Sustainability Quiz",
+  "description": "A comprehensive quiz covering PepsiCo, its brands, values, and sustainability initiatives (pep+).",
+  "sections": [
+    {
+      "sectionId": "section_1",
+      "title": "Category: Blooad Donation",
+      "questions": [
+        {
+          "questionId": "q_1_1",
+          "corpus": "Out of every 100 people, how many give blood?",
+          "options": [
+            {"text": "Less than 5", "isCorrect": true},
+            {"text": "Between 10 and 15", "isCorrect": false},
+            {"text": "Between 20 and 25", "isCorrect": false},
+            {"text": "Between 25 and 30", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_2",
+          "corpus": "What is the most common blood type?",
+          "options": [
+            {"text": "Type A", "isCorrect": false},
+            {"text": "Type O", "isCorrect": true},
+            {"text": "Type AB", "isCorrect": false},
+            {"text": "Type B", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_3",
+          "corpus": "How many pints of blood does the average adult have?",
+          "options": [
+            {"text": "10 pints", "isCorrect": true},
+            {"text": "15 pints", "isCorrect": false},
+            {"text": "20 pints", "isCorrect": false},
+            {"text": "5 pints", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_4",
+          "corpus": "How much blood is typically given when someone donates?",
+          "options": [
+            {"text": "1 pint", "isCorrect": true},
+            {"text": "2 pints", "isCorrect": false},
+            {"text": "3 pints", "isCorrect": false},
+            {"text": "4 pints", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_5",
+          "corpus": "How many major blood groups exist?",
+          "options": [
+            {"text": "2", "isCorrect": false},
+            {"text": "3", "isCorrect": false},
+            {"text": "4", "isCorrect": true},
+            {"text": "5", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_6",
+          "corpus": "Red blood cells can be used up to six months after they are donated.",
+          "options": [
+            {"text": "True", "isCorrect": false},
+            {"text": "False", "isCorrect": true}
+          ]
+        },
+        {
+          "questionId": "q_1_7",
+          "corpus": "One donation can help save the lives of how many people?",
+          "options": [
+            {"text": "One", "isCorrect": false},
+            {"text": "Two", "isCorrect": false},
+            {"text": "Three", "isCorrect": true},
+            {"text": "Four", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_8",
+          "corpus": "How often can a donor give blood?",
+          "options": [
+            {"text": "At any time", "isCorrect": false},
+            {"text": "Every 2 months", "isCorrect": false},
+            {"text": "Every 3 months", "isCorrect": true},
+            {"text": "Every 4 months", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_9",
+          "corpus": "What is the rarest blood type?",
+          "options": [
+            {"text": "Type A+", "isCorrect": false},
+            {"text": "Type O+", "isCorrect": false},
+            {"text": "Type AB-", "isCorrect": true},
+            {"text": "Type B-", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_10",
+          "corpus": "On which day is World Blood Donor Day celebrated?",
+          "options": [
+            {"text": "15 Jan", "isCorrect": false},
+            {"text": "16 Jun", "isCorrect": true},
+            {"text": "15 Aug", "isCorrect": false},
+            {"text": "15 Dec", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_11",
+          "corpus": "How much % of blood donations are given by women every year?",
+          "options": [
+            {"text": "38%", "isCorrect": false},
+            {"text": "42%", "isCorrect": false},
+            {"text": "33%", "isCorrect": true},
+            {"text": "39%", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_12",
+          "corpus": "In one year, a male blood donor can give no more than how many donations?",
+          "options": [
+            {"text": "3", "isCorrect": false},
+            {"text": "4", "isCorrect": false},
+            {"text": "5", "isCorrect": false},
+            {"text": "6", "isCorrect": true}
+          ]
+        },
+        {
+          "questionId": "q_1_13",
+          "corpus": "Blood donor must be how old?",
+          "options": [
+            {"text": "16", "isCorrect": false},
+            {"text": "18", "isCorrect": true},
+            {"text": "21", "isCorrect": false},
+            {"text": "No age restriction", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_14",
+          "corpus": "Which component of blood helps in clotting?",
+          "options": [
+            {"text": "Plasma", "isCorrect": false},
+            {"text": "White blood cells", "isCorrect": false},
+            {"text": "Platelets", "isCorrect": true},
+            {"text": "Red blood cells", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_15",
+          "corpus": "Which organ produces red blood cells?",
+          "options": [
+            {"text": "Liver", "isCorrect": false},
+            {"text": "Bone marrow", "isCorrect": true},
+            {"text": "Heart", "isCorrect": false},
+            {"text": "Kidney", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_16",
+          "corpus": "Which blood component carries oxygen?",
+          "options": [
+            {"text": "Plasma", "isCorrect": false},
+            {"text": "Platelets", "isCorrect": false},
+            {"text": "Red blood cells", "isCorrect": true},
+            {"text": "White blood cells", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_17",
+          "corpus": "How long does donated plasma last when frozen?",
+          "options": [
+            {"text": "1 week", "isCorrect": false},
+            {"text": "1 month", "isCorrect": false},
+            {"text": "6 months", "isCorrect": false},
+            {"text": "Up to 1 year", "isCorrect": true}
+          ]
+        },
+        {
+          "questionId": "q_1_18",
+          "corpus": "Which blood type is known as the universal donor?",
+          "options": [
+            {"text": "O negative", "isCorrect": true},
+            {"text": "AB positive", "isCorrect": false},
+            {"text": "A positive", "isCorrect": false},
+            {"text": "B negative", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_19",
+          "corpus": "Which blood type is known as the universal recipient?",
+          "options": [
+            {"text": "O positive", "isCorrect": false},
+            {"text": "A negative", "isCorrect": false},
+            {"text": "AB positive", "isCorrect": true},
+            {"text": "B positive", "isCorrect": false}
+          ]
+        },
+        {
+      "questionId": "q_1_20",
+      "corpus": "Can you donate blood if you have a cold or flu",
+      "options": [
+        {"text": "Yes", "isCorrect": false},
+        {"text": "No", "isCorrect": true},
+        {"text": "Only with a doctor’s note", "isCorrect": false},
+        {"text": "Only if symptoms are mild", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_21",
+      "corpus": "How long should you wait after surgery before donating blood?",
+      "options": [
+        {"text": "1 week", "isCorrect": false},
+        {"text": "1 month", "isCorrect": false},
+        {"text": "3 months", "isCorrect": true},
+        {"text": "6 months", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_22",
+      "corpus": "What is the shelf life of donated red blood cells?",
+      "options": [
+        {"text": "21 days", "isCorrect": false},
+        {"text": "42 days", "isCorrect": true},
+        {"text": "60 days", "isCorrect": false},
+        {"text": "90 days", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_23",
+      "corpus": "Which blood component is mostly water?",
+      "options": [
+        {"text": "Plasma", "isCorrect": true},
+        {"text": "Platelets", "isCorrect": false},
+        {"text": "Red blood cells", "isCorrect": false},
+        {"text": "White blood cells", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_24",
+      "corpus": "How many liters of blood does the human body contain?",
+      "options": [
+        {"text": "3-4 liters", "isCorrect": false},
+        {"text": "4-5 liters", "isCorrect": false},
+        {"text": "5-6 liters", "isCorrect": true},
+        {"text": "6-7 liters", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_25",
+      "corpus": "Which blood type is most in demand?",
+      "options": [
+        {"text": "A+", "isCorrect": false},
+        {"text": "B+", "isCorrect": false},
+        {"text": "O+", "isCorrect": true},
+        {"text": "AB-", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_26",
+      "corpus": "Can you donate blood after receiving a vaccine?",
+      "options": [
+        {"text": "Yes", "isCorrect": false},
+        {"text": "No", "isCorrect": false},
+        {"text": "After 48 hours", "isCorrect": true},
+        {"text": "After 1 week", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_27",
+      "corpus": "What is the function of plasma in blood?",
+      "options": [
+        {"text": "Carry oxygen", "isCorrect": false},
+        {"text": "Fight infection", "isCorrect": false},
+        {"text": "Transport nutrients", "isCorrect": true},
+        {"text": "Clot blood", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_28",
+      "corpus": "How often can platelets be donated?",
+      "options": [
+        {"text": "Every 2 weeks", "isCorrect": true},
+        {"text": "Every 4 weeks", "isCorrect": false},
+        {"text": "Every 6 weeks", "isCorrect": false},
+        {"text": "Every 8 weeks", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_29",
+      "corpus": "Which blood component is yellowish in color?",
+      "options": [
+        {"text": "Plasma", "isCorrect": true},
+        {"text": "Platelets", "isCorrect": false},
+        {"text": "Red blood cells", "isCorrect": false},
+        {"text": "White blood cells", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_30",
+      "corpus": "Can smokers donate blood?",
+      "options": [
+        {"text": "Yes", "isCorrect": true},
+        {"text": "No", "isCorrect": false},
+        {"text": "Only after quitting", "isCorrect": false},
+        {"text": "Only with doctor’s approval", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_31",
+      "corpus": "What is the main reason people don’t donate blood?",
+      "options": [
+        {"text": "Fear of needles", "isCorrect": true},
+        {"text": "Lack of time", "isCorrect": false},
+        {"text": "Health issues", "isCorrect": false},
+        {"text": "Not aware", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_32",
+      "corpus": "How long does it take to replenish donated blood?",
+      "options": [
+        {"text": "1 day", "isCorrect": true},
+        {"text": "3 days", "isCorrect": false},
+        {"text": "1 week", "isCorrect": false},
+        {"text": "2 weeks", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_33",
+      "corpus": "Can you donate blood if you have high blood pressure?",
+      "options": [
+        {"text": "Yes", "isCorrect": false},
+        {"text": "No", "isCorrect": false},
+        {"text": "Only if controlled", "isCorrect": true},
+        {"text": "Only with doctor’s note", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_34",
+      "corpus": "What is the temperature requirement for storing blood?",
+      "options": [
+        {"text": "0-4°C", "isCorrect": true},
+        {"text": "5-10°C", "isCorrect": false},
+        {"text": "10-15°C", "isCorrect": false},
+        {"text": "15-20°C", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_35",
+      "corpus": "Which blood component is used in burn treatment?",
+      "options": [
+        {"text": "Plasma", "isCorrect": true},
+        {"text": "Platelets", "isCorrect": false},
+        {"text": "Red blood cells", "isCorrect": false},
+        {"text": "White blood cells", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_36",
+      "corpus": "Can diabetics donate blood?",
+      "options": [
+        {"text": "Yes", "isCorrect": true},
+        {"text": "No", "isCorrect": false},
+        {"text": "Only if insulin-dependent", "isCorrect": false},
+        {"text": "Only with doctor’s note", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_37",
+      "corpus": "How many blood donations are needed daily worldwide?",
+      "options": [
+        {"text": "100,000", "isCorrect": false},
+        {"text": "500,000", "isCorrect": false},
+        {"text": "1 million", "isCorrect": true},
+        {"text": "5 million", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_38",
+      "corpus": "How long should you wait after getting a tattoo before donating blood?",
+      "options": [
+        {"text": "1 month", "isCorrect": false},
+        {"text": "3 months", "isCorrect": false},
+        {"text": "6 months", "isCorrect": true},
+        {"text": "1 year", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_39",
+      "corpus": "Which vitamin is essential for red blood cell production?",
+      "options": [
+        {"text": "Vitamin C", "isCorrect": false},
+        {"text": "Vitamin B12", "isCorrect": true},
+        {"text": "Vitamin D", "isCorrect": false},
+        {"text": "Vitamin A", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_40",
+      "corpus": "What is the minimum weight required to donate blood?",
+      "options": [
+        {"text": "45 kg", "isCorrect": false},
+        {"text": "48 kg", "isCorrect": false},
+        {"text": "50 kg", "isCorrect": true},
+        {"text": "55 kg", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_41",
+      "corpus": "How many types of blood components can be donated?",
+      "options": [
+        {"text": "1", "isCorrect": false},
+        {"text": "2", "isCorrect": false},
+        {"text": "3", "isCorrect": false},
+        {"text": "4", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_1_42",
+      "corpus": "Which blood component is used to treat cancer patients?",
+      "options": [
+        {"text": "Plasma", "isCorrect": false},
+        {"text": "Platelets", "isCorrect": true},
+        {"text": "Red blood cells", "isCorrect": false},
+        {"text": "White blood cells", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_43",
+      "corpus": "How long do platelets last after donation?",
+      "options": [
+        {"text": "5 days", "isCorrect": true},
+        {"text": "10 days", "isCorrect": false},
+        {"text": "15 days", "isCorrect": false},
+        {"text": "30 days", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_44",
+      "corpus": "Which blood component helps fight infection?",
+      "options": [
+        {"text": "Red blood cells", "isCorrect": false},
+        {"text": "White blood cells", "isCorrect": true},
+        {"text": "Platelets", "isCorrect": false},
+        {"text": "Plasma", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_1_45",
+      "corpus": "Can pregnant women donate blood?",
+      "options": [
+        {"text": "Yes", "isCorrect": false},
+        {"text": "No", "isCorrect": true},
+        {"text": "Only in first trimester", "isCorrect": false},
+        {"text": "Only with doctor’s approval", "isCorrect": false}
+      ]
+    }
+      ]
+    },
+    {
+      "sectionId": "section_2",
+      "title": "Category: PepsiCo Partners",
+      "questions": [
+    {
+      "questionId": "q_2_1_E",
+      "corpus": "When was Nirmaan Organization founded?",
+      "options": [
+        {
+          "text": "2003",
+          "isCorrect": false
+        },
+        {
+          "text": "2005",
+          "isCorrect": true
+        },
+        {
+          "text": "2007",
+          "isCorrect": false
+        },
+        {
+          "text": "2010",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_2_E",
+      "corpus": "Who inspired the formation of Nirmaan Organization?",
+      "options": [
+        {
+          "text": "Mahatma Gandhi and Jawaharlal Nehru",
+          "isCorrect": false
+        },
+        {
+          "text": "Abdul Kalam and Swami Vivekananda",
+          "isCorrect": true
+        },
+        {
+          "text": "Mother Teresa and Baba Amte",
+          "isCorrect": false
+        },
+        {
+          "text": "Nelson Mandela and Rabindranath Tagore",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_3_E",
+      "corpus": "What is the vision of Nirmaan Organization?",
+      "options": [
+        {
+          "text": "To become India’s largest NGO",
+          "isCorrect": false
+        },
+        {
+          "text": "To empower only rural communities",
+          "isCorrect": false
+        },
+        {
+          "text": "To build a knowledge-driven, economically empowered society free from illiteracy and poverty",
+          "isCorrect": true
+        },
+        {
+          "text": "To provide only skill development training",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_4_E",
+      "corpus": "What is the motto of Nirmaan Organization?",
+      "options": [
+        {
+          "text": "Empower through education",
+          "isCorrect": false
+        },
+        {
+          "text": "We have only one passion, to build a great nation",
+          "isCorrect": true
+        },
+        {
+          "text": "Together for tomorrow",
+          "isCorrect": false
+        },
+        {
+          "text": "Learn, Lead, Inspire",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_5_E",
+      "corpus": "How many beneficiaries has Nirmaan impacted in 18 years?",
+      "options": [
+        {
+          "text": "1+ million",
+          "isCorrect": false
+        },
+        {
+          "text": "2+ million",
+          "isCorrect": false
+        },
+        {
+          "text": "3+ million",
+          "isCorrect": true
+        },
+        {
+          "text": "5+ million",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_6_E",
+      "corpus": "In how many states of India does Nirmaan operate?",
+      "options": [
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "20",
+          "isCorrect": false
+        },
+        {
+          "text": "25",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_7_E",
+      "corpus": "Which groups benefit from Nirmaan’s programs?",
+      "options": [
+        {
+          "text": "Only children",
+          "isCorrect": false
+        },
+        {
+          "text": "Only farmers",
+          "isCorrect": false
+        },
+        {
+          "text": "Children, Women, Girls, PwDs, LGBTQ+, and Farmers",
+          "isCorrect": true
+        },
+        {
+          "text": "Only women and girls",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_8_E",
+      "corpus": "Apart from India, in which countries does Nirmaan operate?",
+      "options": [
+        {
+          "text": "USA, UAE, UK, and Australia",
+          "isCorrect": true
+        },
+        {
+          "text": "USA, Canada, Singapore, and Australia",
+          "isCorrect": false
+        },
+        {
+          "text": "UAE, UK, Singapore, and Germany",
+          "isCorrect": false
+        },
+        {
+          "text": "UK, USA, Canada, and Dubai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_9_E",
+      "corpus": "How many corporate, government, and philanthropic partners work with Nirmaan?",
+      "options": [
+        {
+          "text": "100+",
+          "isCorrect": false
+        },
+        {
+          "text": "150+",
+          "isCorrect": false
+        },
+        {
+          "text": "200+",
+          "isCorrect": true
+        },
+        {
+          "text": "250+",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_10_E",
+      "corpus": "In which year was Nirmaan officially registered as an organization?",
+      "options": [
+        {
+          "text": "2003",
+          "isCorrect": false
+        },
+        {
+          "text": "2005",
+          "isCorrect": false
+        },
+        {
+          "text": "2007",
+          "isCorrect": true
+        },
+        {
+          "text": "2009",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_11_E",
+      "corpus": "Which of the following is NOT one of Nirmaan’s focus areas?",
+      "options": [
+        {
+          "text": "Education",
+          "isCorrect": false
+        },
+        {
+          "text": "Skill Development & Entrepreneurship",
+          "isCorrect": false
+        },
+        {
+          "text": "Health & Wellbeing",
+          "isCorrect": false
+        },
+        {
+          "text": "Wildlife Protection",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_12_E",
+      "corpus": "What is Nirmaan’s mission?",
+      "options": [
+        {
+          "text": "To run schools across India",
+          "isCorrect": false
+        },
+        {
+          "text": "To promote grassroots social innovations, volunteering spirit, and social leadership",
+          "isCorrect": true
+        },
+        {
+          "text": "To provide free food to underprivileged children",
+          "isCorrect": false
+        },
+        {
+          "text": "To establish more NGOs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_13_E",
+      "corpus": "Nirmaan Organization was started by alumni of which institute?",
+      "options": [
+        {
+          "text": "IIT-Delhi",
+          "isCorrect": false
+        },
+        {
+          "text": "BITS-Pilani",
+          "isCorrect": true
+        },
+        {
+          "text": "IIM-Bangalore",
+          "isCorrect": false
+        },
+        {
+          "text": "JNU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_14_E",
+      "corpus": "How many years has Nirmaan been impacting communities?",
+      "options": [
+        {
+          "text": "10 years",
+          "isCorrect": false
+        },
+        {
+          "text": "15 years",
+          "isCorrect": false
+        },
+        {
+          "text": "18 years",
+          "isCorrect": true
+        },
+        {
+          "text": "20 years",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_15_E",
+      "corpus": "Which of these best describes Nirmaan’s approach?",
+      "options": [
+        {
+          "text": "Only top-down government programs",
+          "isCorrect": false
+        },
+        {
+          "text": "Grassroots innovation, youth engagement, and collaboration",
+          "isCorrect": true
+        },
+        {
+          "text": "Charity without community participation",
+          "isCorrect": false
+        },
+        {
+          "text": "Focus only on corporate funding",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_16_E",
+      "corpus": "Which of the following groups does Nirmaan explicitly include in its beneficiaries?",
+      "options": [
+        {
+          "text": "Only students and unemployed youth",
+          "isCorrect": false
+        },
+        {
+          "text": "LGBTQ+ community",
+          "isCorrect": true
+        },
+        {
+          "text": "Only senior citizens",
+          "isCorrect": false
+        },
+        {
+          "text": "Only rural farmers",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_17_E",
+      "corpus": "Nirmaan operates in how many countries apart from India?",
+      "options": [
+        {
+          "text": "2",
+          "isCorrect": false
+        },
+        {
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "isCorrect": true
+        },
+        {
+          "text": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_18_E",
+      "corpus": "What kind of partners has Nirmaan collaborated with?",
+      "options": [
+        {
+          "text": "Only NGOs",
+          "isCorrect": false
+        },
+        {
+          "text": "Only Corporates",
+          "isCorrect": false
+        },
+        {
+          "text": "Corporate, Government, and Philanthropic Partners",
+          "isCorrect": true
+        },
+        {
+          "text": "Only International Agencies",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_19_E",
+      "corpus": "Which statement best captures Nirmaan’s motto?",
+      "options": [
+        {
+          "text": "Education is Power",
+          "isCorrect": false
+        },
+        {
+          "text": "We have only one passion, to build a great nation",
+          "isCorrect": true
+        },
+        {
+          "text": "Transforming Lives Together",
+          "isCorrect": false
+        },
+        {
+          "text": "Empowering Rural India",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_20_E",
+      "corpus": "What is the ultimate goal of Nirmaan’s vision?",
+      "options": [
+        {
+          "text": "To remove poverty and illiteracy, leading to a developed India",
+          "isCorrect": true
+        },
+        {
+          "text": "To create world-class universities",
+          "isCorrect": false
+        },
+        {
+          "text": "To send students abroad for education",
+          "isCorrect": false
+        },
+        {
+          "text": "To provide free technology to everyone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_21_E",
+      "corpus": "Which UN SDG goal is linked to water?",
+      "options": [
+        {
+          "text": "UN SDG Goal 6 – Clean Water & Sanitation",
+          "isCorrect": true
+        },
+        {
+          "text": "UN SDG Goal 3 – Good Health & Well-being",
+          "isCorrect": false
+        },
+        {
+          "text": "UN SDG Goal 13 – Climate Action",
+          "isCorrect": false
+        },
+        {
+          "text": "UN SDG Goal 15 – Life on Land",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_22_E",
+      "corpus": "How long should you wash your hands?",
+      "options": [
+        {
+          "text": "10 sec",
+          "isCorrect": false
+        },
+        {
+          "text": "20 sec",
+          "isCorrect": true
+        },
+        {
+          "text": "5 sec",
+          "isCorrect": false
+        },
+        {
+          "text": "60 sec",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_23_E",
+      "corpus": "Recommended water an adult should drink daily?",
+      "options": [
+        {
+          "text": "1 Litre",
+          "isCorrect": false
+        },
+        {
+          "text": "2 Litres",
+          "isCorrect": true
+        },
+        {
+          "text": "3 Litres",
+          "isCorrect": false
+        },
+        {
+          "text": "5 Litres",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_24_E",
+      "corpus": "Most common symptom of waterborne disease?",
+      "options": [
+        {
+          "text": "Fever",
+          "isCorrect": false
+        },
+        {
+          "text": "Diarrhea",
+          "isCorrect": true
+        },
+        {
+          "text": "Headache",
+          "isCorrect": false
+        },
+        {
+          "text": "Cough",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_25_E",
+      "corpus": "What % of Earth's surface is water?",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "71%",
+          "isCorrect": true
+        },
+        {
+          "text": "80%",
+          "isCorrect": false
+        },
+        {
+          "text": "90%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_26_E",
+      "corpus": "What % of total water is fresh water?",
+      "options": [
+        {
+          "text": "1%",
+          "isCorrect": false
+        },
+        {
+          "text": "3%",
+          "isCorrect": true
+        },
+        {
+          "text": "10%",
+          "isCorrect": false
+        },
+        {
+          "text": "25%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_27_E",
+      "corpus": "What % of fresh water is accessible for drinking?",
+      "options": [
+        {
+          "text": "5%",
+          "isCorrect": false
+        },
+        {
+          "text": "0.5%",
+          "isCorrect": true
+        },
+        {
+          "text": "10%",
+          "isCorrect": false
+        },
+        {
+          "text": "25%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_28_E",
+      "corpus": "How many people lack access to safe drinking water?",
+      "options": [
+        {
+          "text": "1 billion",
+          "isCorrect": false
+        },
+        {
+          "text": "2.2 billion",
+          "isCorrect": true
+        },
+        {
+          "text": "3 billion",
+          "isCorrect": false
+        },
+        {
+          "text": "500 million",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_29_E",
+      "corpus": "Which industry consumes most fresh water?",
+      "options": [
+        {
+          "text": "Industry",
+          "isCorrect": false
+        },
+        {
+          "text": "Agriculture",
+          "isCorrect": true
+        },
+        {
+          "text": "Domestic use",
+          "isCorrect": false
+        },
+        {
+          "text": "Manufacturing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_30_E",
+      "corpus": "What is Grey water?",
+      "options": [
+        {
+          "text": "Wastewater from kitchens",
+          "isCorrect": true
+        },
+        {
+          "text": "Wastewater from factories",
+          "isCorrect": false
+        },
+        {
+          "text": "Wastewater from rainwater harvesting",
+          "isCorrect": false
+        },
+        {
+          "text": "Wastewater from industries",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_31_E",
+      "corpus": "What is Black water?",
+      "options": [
+        {
+          "text": "Wastewater from toilets",
+          "isCorrect": true
+        },
+        {
+          "text": "Wastewater from showers",
+          "isCorrect": false
+        },
+        {
+          "text": "Wastewater from washing machines",
+          "isCorrect": false
+        },
+        {
+          "text": "Wastewater from taps",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_32_E",
+      "corpus": "How much water is used to make a pair of jeans?",
+      "options": [
+        {
+          "text": "7,600 Litres",
+          "isCorrect": true
+        },
+        {
+          "text": "1,000 Litres",
+          "isCorrect": false
+        },
+        {
+          "text": "20 Litres",
+          "isCorrect": false
+        },
+        {
+          "text": "500 Litres",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_33_E",
+      "corpus": "What is the Mission of the Akshaya Patra Foundation?",
+      "options": [
+        {
+          "text": "To Feed 3 Million Children Everyday by 2025",
+          "isCorrect": true
+        },
+        {
+          "text": "To Promote Environmental Sustainability",
+          "isCorrect": false
+        },
+        {
+          "text": "To Provide Healthcare Services",
+          "isCorrect": false
+        },
+        {
+          "text": "To Support Animal Welfare",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_34_E",
+      "corpus": "In what year was Akshaya Patra Foundation founded?",
+      "options": [
+        {
+          "text": "1995",
+          "isCorrect": false
+        },
+        {
+          "text": "2000",
+          "isCorrect": true
+        },
+        {
+          "text": "2005",
+          "isCorrect": false
+        },
+        {
+          "text": "2010",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_35_E",
+      "corpus": "Where is the headquarters of the Akshaya Patra Foundation located?",
+      "options": [
+        {
+          "text": "Bengaluru, India",
+          "isCorrect": true
+        },
+        {
+          "text": "Mumbai, India",
+          "isCorrect": false
+        },
+        {
+          "text": "New Delhi, India",
+          "isCorrect": false
+        },
+        {
+          "text": "Chennai, India",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_36_E",
+      "corpus": "What is the vision of Akshaya Patra kitchens?",
+      "options": [
+        {
+          "text": "No child in India shall be deprived of education because of clothing",
+          "isCorrect": false
+        },
+        {
+          "text": "No child in India shall be deprived of education because of shelter",
+          "isCorrect": false
+        },
+        {
+          "text": "No child in India shall be deprived of education because of hunger",
+          "isCorrect": true
+        },
+        {
+          "text": "No child in India shall be deprived of education because of books",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_37_E",
+      "corpus": "How many schools does Akshaya Patra Foundation currently serve?",
+      "options": [
+        {
+          "text": "18,000+",
+          "isCorrect": false
+        },
+        {
+          "text": "10,000+",
+          "isCorrect": false
+        },
+        {
+          "text": "25,000+",
+          "isCorrect": false
+        },
+        {
+          "text": "23,111+",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_38_E",
+      "corpus": "How many states in India does Akshaya Patra Foundation operate in?",
+      "options": [
+        {
+          "text": "16 states and 2 union territories",
+          "isCorrect": true
+        },
+        {
+          "text": "20 states and 3 union territories",
+          "isCorrect": false
+        },
+        {
+          "text": "5 states and 2 union territories",
+          "isCorrect": false
+        },
+        {
+          "text": "8 states and 2 union territories",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_39_E",
+      "corpus": "What is the name of Akshaya Patra Foundation's mid-day meal program?",
+      "options": [
+        {
+          "text": "Food for Education",
+          "isCorrect": true
+        },
+        {
+          "text": "Hunger Free India",
+          "isCorrect": false
+        },
+        {
+          "text": "Feed the Future",
+          "isCorrect": false
+        },
+        {
+          "text": "Nourish India",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_40_E",
+      "corpus": "How many children benefit from Akshaya Patra Foundation's mid-day meal program?",
+      "options": [
+        {
+          "text": "500,000+",
+          "isCorrect": false
+        },
+        {
+          "text": "3 million+",
+          "isCorrect": false
+        },
+        {
+          "text": "2.2 Million Children",
+          "isCorrect": true
+        },
+        {
+          "text": "100,000+",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_41_E",
+      "corpus": "How many kitchens does Akshaya Patra Foundation currently operate?",
+      "options": [
+        {
+          "text": "52 kitchens",
+          "isCorrect": false
+        },
+        {
+          "text": "72 kitchens",
+          "isCorrect": true
+        },
+        {
+          "text": "30 kitchens",
+          "isCorrect": false
+        },
+        {
+          "text": "75 kitchens",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_42_E",
+      "corpus": "How many meals has Akshaya Patra Foundation served since its inception?",
+      "options": [
+        {
+          "text": "500 million+",
+          "isCorrect": false
+        },
+        {
+          "text": "1 billion+",
+          "isCorrect": false
+        },
+        {
+          "text": "4 billion+",
+          "isCorrect": true
+        },
+        {
+          "text": "5 billion+",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_43_E",
+      "corpus": "Which Indian state was the first to implement a mid-day meal program in schools?",
+      "options": [
+        {
+          "text": "Karnataka",
+          "isCorrect": true
+        },
+        {
+          "text": "Tamil Nadu",
+          "isCorrect": false
+        },
+        {
+          "text": "Kerala",
+          "isCorrect": false
+        },
+        {
+          "text": "Gujarat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_44_E",
+      "corpus": "What certification does Akshaya Patra Foundation hold for its Food Safety Management System?",
+      "options": [
+        {
+          "text": "ISO 9001:2015",
+          "isCorrect": false
+        },
+        {
+          "text": "ISO 14001:2015",
+          "isCorrect": false
+        },
+        {
+          "text": "ISO 22000:2018",
+          "isCorrect": true
+        },
+        {
+          "text": "ISO 27001:2013",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_45_E",
+      "corpus": "What principles does Akshaya Patra Foundation follow when issuing food raw materials to production?",
+      "options": [
+        {
+          "text": "FIFO (First In, First out) only",
+          "isCorrect": false
+        },
+        {
+          "text": "FEFO (First Expiry, First Out) only",
+          "isCorrect": false
+        },
+        {
+          "text": "LIFO (Last In, First Out) and FIFO",
+          "isCorrect": false
+        },
+        {
+          "text": "FIFO and FEFO",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": "q_2_46_E",
+      "corpus": "How does Akshaya Patra Foundation ensure the quality and safety of its food?",
+      "options": [
+        {
+          "text": "By using organic ingredients",
+          "isCorrect": false
+        },
+        {
+          "text": "By conducting regular taste tests",
+          "isCorrect": false
+        },
+        {
+          "text": "By following strict hygiene and sanitation protocols as per ISO",
+          "isCorrect": true
+        },
+        {
+          "text": "By outsourcing food production to third-party vendors",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+    },
+    {
+      "sectionId": "section_3",
+      "title": "Category: Safe Water & Wash",
+      "questions": [
+    {
+      "questionId": "q_3_1_E",
+      "corpus": "What is the mission of Safe Water Network?",
+      "options": [
+        {"text": "Provide bottled water to rural areas", "isCorrect": false},
+        {"text": "Ensure communities manage their own safe water sustainably", "isCorrect": true},
+        {"text": "Build dams in urban cities", "isCorrect": false},
+        {"text": "Promote desalination", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_2_E",
+      "corpus": "By 2026, how many people does Safe Water Network aim to reach?",
+      "options": [
+        {"text": "5 million", "isCorrect": false},
+        {"text": "20 million", "isCorrect": false},
+        {"text": "50 million", "isCorrect": true},
+        {"text": "100 million", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_3_E",
+      "corpus": "Which countries are key focus areas for Safe Water Network?",
+      "options": [
+        {"text": "Brazil and Kenya", "isCorrect": false},
+        {"text": "Ghana and India", "isCorrect": true},
+        {"text": "USA and UK", "isCorrect": false},
+        {"text": "China and South Africa", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_4_E",
+      "corpus": "What are some challenges Safe Water Network addresses?",
+      "options": [
+        {"text": "Water privatization", "isCorrect": false},
+        {"text": "High operating costs and weak enabling environments", "isCorrect": true},
+        {"text": "Climate change", "isCorrect": false},
+        {"text": "Urban migration", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_5_E",
+      "corpus": "What is the name of the digital water station initiative in Telangana?",
+      "options": [
+        {"text": "JalNet", "isCorrect": false},
+        {"text": "iJal Stations", "isCorrect": true},
+        {"text": "AquaSafe", "isCorrect": false},
+        {"text": "WaterLink", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_6_E",
+      "corpus": "Which of the following is a key principle of Safe Water Network’s approach?",
+      "options": [
+        {"text": "Centralized water distribution", "isCorrect": false},
+        {"text": "Community-led water management", "isCorrect": true},
+        {"text": "Free water for all", "isCorrect": false},
+        {"text": "Government-only control", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_7_E",
+      "corpus": "What does “iJal” stand for in Safe Water Network’s India initiative?",
+      "options": [
+        {"text": "Intelligent Jal", "isCorrect": false},
+        {"text": "Internet Jal", "isCorrect": false},
+        {"text": "Innovative Jal", "isCorrect": true},
+        {"text": "Inclusive Jal", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_8_E",
+      "corpus": "Which technology is commonly used in Safe Water Network’s water stations?",
+      "options": [
+        {"text": "Reverse osmosis", "isCorrect": true},
+        {"text": "UV filtration", "isCorrect": false},
+        {"text": "Boiling", "isCorrect": false},
+        {"text": "Chlorination", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_9_E",
+      "corpus": "What is one major benefit of decentralized water systems promoted by Safe Water Network?",
+      "options": [
+        {"text": "Lower water pressure", "isCorrect": false},
+        {"text": "Reduced community involvement", "isCorrect": false},
+        {"text": "Increased sustainability", "isCorrect": true},
+        {"text": "Higher government dependency", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_10_E",
+      "corpus": "Which of the following is a challenge Safe Water Network aims to overcome?",
+      "options": [
+        {"text": "Overuse of bottled water", "isCorrect": false},
+        {"text": "Lack of community awareness", "isCorrect": true},
+        {"text": "Excess rainfall", "isCorrect": false},
+        {"text": "Urban water surplus", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_11_E",
+      "corpus": "Which of the following is a key metric used by Safe Water Network to measure impact?",
+      "options": [
+        {"text": "Number of water stations built", "isCorrect": false},
+        {"text": "Liters of water distributed", "isCorrect": false},
+        {"text": "People reached with safe water", "isCorrect": true},
+        {"text": "Number of government partnerships", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_12_E",
+      "corpus": "What is one way Safe Water Network ensures long-term sustainability of water stations?",
+      "options": [
+        {"text": "Outsourcing operations to private companies", "isCorrect": false},
+        {"text": "Training local entrepreneurs", "isCorrect": true},
+        {"text": "Providing free maintenance forever", "isCorrect": false},
+        {"text": "Relying solely on donations", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_13_E",
+      "corpus": "Which of the following is a benefit of using digital monitoring in water stations?",
+      "options": [
+        {"text": "Reduces water quality", "isCorrect": false},
+        {"text": "Increases downtime", "isCorrect": false},
+        {"text": "Enables real-time performance tracking", "isCorrect": true},
+        {"text": "Eliminates the need for local staff", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_14_E",
+      "corpus": "What is the role of community engagement in Safe Water Network’s model?",
+      "options": [
+        {"text": "Minimal involvement", "isCorrect": false},
+        {"text": "Full ownership and participation", "isCorrect": true},
+        {"text": "Occasional feedback", "isCorrect": false},
+        {"text": "Only during setup", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_15_E",
+      "corpus": "Which of the following is a common source of contamination in rural water supplies?",
+      "options": [
+        {"text": "Rainwater", "isCorrect": false},
+        {"text": "Groundwater", "isCorrect": false},
+        {"text": "Open defecation near water sources", "isCorrect": true},
+        {"text": "Chlorination", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_16_E",
+      "corpus": "Which of the following best describes Safe Water Network’s model of water delivery?",
+      "options": [
+        {"text": "Free water distribution", "isCorrect": false},
+        {"text": "Government-run water plants", "isCorrect": false},
+        {"text": "Decentralized, small-scale water enterprises", "isCorrect": true},
+        {"text": "Rainwater harvesting only", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_17_E",
+      "corpus": "What is a key benefit of Safe Water Network’s public-private partnership approach?",
+      "options": [
+        {"text": "Reduces community involvement", "isCorrect": false},
+        {"text": "Ensures long-term financial sustainability", "isCorrect": true},
+        {"text": "Limits innovation", "isCorrect": false},
+        {"text": "Focuses only on urban areas", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_18_E",
+      "corpus": "Which of the following is a common barrier to safe water access in rural India?",
+      "options": [
+        {"text": "Excess water supply", "isCorrect": false},
+        {"text": "Lack of mobile phones", "isCorrect": false},
+        {"text": "Poor infrastructure and maintenance", "isCorrect": true},
+        {"text": "High literacy rates", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_19_E",
+      "corpus": "How does Safe Water Network promote transparency in operations?",
+      "options": [
+        {"text": "Avoids public reporting", "isCorrect": false},
+        {"text": "Uses digital dashboards and data sharing", "isCorrect": true},
+        {"text": "Keeps data private", "isCorrect": false},
+        {"text": "Relies on verbal updates", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_20_E",
+      "corpus": "What is one way Safe Water Network supports gender inclusion?",
+      "options": [
+        {"text": "Hiring only male technicians", "isCorrect": false},
+        {"text": "Ignoring gender roles", "isCorrect": false},
+        {"text": "Empowering women as water station operators", "isCorrect": true},
+        {"text": "Avoiding women in leadership roles", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_21_E",
+      "corpus": "Which of the following best describes the “last mile” challenge in water access?",
+      "options": [
+        {"text": "Delivering water to urban centers", "isCorrect": false},
+        {"text": "Reaching remote and underserved communities", "isCorrect": true},
+        {"text": "Building large dams", "isCorrect": false},
+        {"text": "Reducing water tariffs", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_22_E",
+      "corpus": "What is one way Safe Water Network ensures affordability of water?",
+      "options": [
+        {"text": "Government subsidies only", "isCorrect": false},
+        {"text": "Tiered pricing models based on usage", "isCorrect": true},
+        {"text": "Free water for all", "isCorrect": false},
+        {"text": "Monthly subscription plans", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_23_E",
+      "corpus": "Which of the following is a key outcome of Safe Water Network’s monitoring systems?",
+      "options": [
+        {"text": "Reduced water consumption", "isCorrect": false},
+        {"text": "Improved operational efficiency", "isCorrect": true},
+        {"text": "Elimination of water stations", "isCorrect": false},
+        {"text": "Increased water waste", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_24_E",
+      "corpus": "What role do local entrepreneurs play in Safe Water Network’s model?",
+      "options": [
+        {"text": "They fund the entire project", "isCorrect": false},
+        {"text": "They manage and operate water stations", "isCorrect": true},
+        {"text": "They act as government liaisons", "isCorrect": false},
+        {"text": "They provide bottled water", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_25_E",
+      "corpus": "Which of the following is a long-term goal of Safe Water Network?",
+      "options": [
+        {"text": "Privatize all water systems", "isCorrect": false},
+        {"text": "Scale sustainable water solutions globally", "isCorrect": true},
+        {"text": "Focus only on emergency relief", "isCorrect": false},
+        {"text": "Replace traditional water sources", "isCorrect": false}
+      ]
+    },
+    {
+          "questionId": "q_3_26_E",
+          "corpus": "How long should you wash your hands to ensure they are properly cleaned?",
+          "options": [
+            {
+              "text": "10 Seconds",
+              "isCorrect": false
+            },
+            {
+              "text": "20 Seconds",
+              "isCorrect": true
+            },
+            {
+              "text": "30 Seconds",
+              "isCorrect": false
+            },
+            {
+              "text": "60 Seconds",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_27_E",
+          "corpus": "How long should you wash your hands to ensure they are properly cleaned?",
+          "options": [
+            {
+              "text": "10 Seconds",
+              "isCorrect": false
+            },
+            {
+              "text": "20 Seconds",
+              "isCorrect": true
+            },
+            {
+              "text": "30 Seconds",
+              "isCorrect": false
+            },
+            {
+              "text": "60 Seconds",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_28_E",
+          "corpus": "What is the recommended minimum amount of water an adult person should drink daily?",
+          "options": [
+            {
+              "text": "1 Litre",
+              "isCorrect": false
+            },
+            {
+              "text": "2 Litres",
+              "isCorrect": true
+            },
+            {
+              "text": "3 Litres",
+              "isCorrect": false
+            },
+            {
+              "text": "5 Litres",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_29_E",
+          "corpus": "What is the most common symptom of waterborne disease?",
+          "options": [
+            {
+              "text": "Fever",
+              "isCorrect": false
+            },
+            {
+              "text": "Headache",
+              "isCorrect": false
+            },
+            {
+              "text": "Cough",
+              "isCorrect": false
+            },
+            {
+              "text": "Diarrhea",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_30_E",
+          "corpus": "How much water is there on earth’s surface?",
+          "options": [
+            {
+              "text": "50%",
+              "isCorrect": false
+            },
+            {
+              "text": "71%",
+              "isCorrect": true
+            },
+            {
+              "text": "80%",
+              "isCorrect": false
+            },
+            {
+              "text": "90%",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_31_E",
+          "corpus": "Out of total water on earth, how many percent is the fresh water?",
+          "options": [
+            {
+              "text": "1%",
+              "isCorrect": false
+            },
+            {
+              "text": "3%",
+              "isCorrect": true
+            },
+            {
+              "text": "5%",
+              "isCorrect": false
+            },
+            {
+              "text": "10%",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_32_E",
+          "corpus": "Out of total fresh water on earth, how much water is accessible for drinking?",
+          "options": [
+            {
+              "text": "0.5%",
+              "isCorrect": true
+            },
+            {
+              "text": "1%",
+              "isCorrect": false
+            },
+            {
+              "text": "5%",
+              "isCorrect": false
+            },
+            {
+              "text": "10%",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_33_E",
+          "corpus": "How many people on earth do not have access to safely managed drinking water services?",
+          "options": [
+            {
+              "text": "1 billion",
+              "isCorrect": false
+            },
+            {
+              "text": "2.2 billion",
+              "isCorrect": true
+            },
+            {
+              "text": "3 billion",
+              "isCorrect": false
+            },
+            {
+              "text": "500 million",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_34_E",
+          "corpus": "Which industry consumes the highest amount of fresh water?",
+          "options": [
+            {
+              "text": "Industry",
+              "isCorrect": false
+            },
+            {
+              "text": "Agriculture",
+              "isCorrect": true
+            },
+            {
+              "text": "Domestic use",
+              "isCorrect": false
+            },
+            {
+              "text": "Manufacturing",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_35_E",
+          "corpus": "What is grey water?",
+          "options": [
+            {
+              "text": "Wastewater from toilets",
+              "isCorrect": false
+            },
+            {
+              "text": "Waste water generated from houses from dishwashing, kitchen etc.",
+              "isCorrect": true
+            },
+            {
+              "text": "Industrial wastewater from factories",
+              "isCorrect": false
+            },
+            {
+              "text": "Stormwater runoff",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_36_E",
+          "corpus": "What is black water?",
+          "options": [
+            {
+              "text": "Waste water generated from toilets that contains faecal matter and urine",
+              "isCorrect": true
+            },
+            {
+              "text": "Wastewater from showers",
+              "isCorrect": false
+            },
+            {
+              "text": "Wastewater from washing machines",
+              "isCorrect": false
+            },
+            {
+              "text": "Kitchen sink water without fecal matter",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3_37_E",
+          "corpus": "How much water is used in creating a pair of jeans?",
+          "options": [
+            {
+              "text": "500 litres",
+              "isCorrect": false
+            },
+            {
+              "text": "1,000 litres",
+              "isCorrect": false
+            },
+            {
+              "text": "7,600 litres",
+              "isCorrect": true
+            },
+            {
+              "text": "10,000 litres",
+              "isCorrect": false
+            }
+          ]
+        },
+    {
+      "questionId": "q_3_38_E",
+      "corpus": "What does “safely managed drinking water” mean according to WHO/UNICEF?",
+      "options": [
+        {"text": "Water supplied in bottles", "isCorrect": false},
+        {"text": "Water available on premises, available when needed, and free from contamination", "isCorrect": true},
+        {"text": "Water from any nearby source", "isCorrect": false},
+        {"text": "Water that is boiled before drinking", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_39_E",
+      "corpus": "Which of the following is NOT part of Safe Water Network’s focus?",
+      "options": [
+        {"text": "Affordability of water", "isCorrect": false},
+        {"text": "Community ownership", "isCorrect": false},
+        {"text": "Digital monitoring", "isCorrect": false},
+        {"text": "Luxury bottled water branding", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_40_E",
+      "corpus": "Which waterborne disease is often linked to contaminated drinking water?",
+      "options": [
+        {"text": "Cholera", "isCorrect": true},
+        {"text": "Asthma", "isCorrect": false},
+        {"text": "Arthritis", "isCorrect": false},
+        {"text": "Diabetes", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_41_E",
+      "corpus": "Which renewable energy is sometimes used to power water purification systems?",
+      "options": [
+        {"text": "Solar energy", "isCorrect": true},
+        {"text": "Nuclear energy", "isCorrect": false},
+        {"text": "Wind tunnels", "isCorrect": false},
+        {"text": "Diesel engines only", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_42_E",
+      "corpus": "Safe Water Network promotes which type of water solutions?",
+      "options": [
+        {"text": "Short-term emergency only", "isCorrect": false},
+        {"text": "Long-term sustainable solutions", "isCorrect": true},
+        {"text": "Luxury solutions", "isCorrect": false},
+        {"text": "Exclusive private networks", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_43_E",
+      "corpus": "What is one of the Sustainable Development Goals (SDG 6) related to water?",
+      "options": [
+        {"text": "Affordable housing", "isCorrect": false},
+        {"text": "Clean water and sanitation for all", "isCorrect": true},
+        {"text": "Free bottled water in cities", "isCorrect": false},
+        {"text": "Global electricity supply", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_44_E",
+      "corpus": "Which of these is an example of water reuse?",
+      "options": [
+        {"text": "Using treated wastewater for irrigation", "isCorrect": true},
+        {"text": "Throwing wastewater into rivers", "isCorrect": false},
+        {"text": "Allowing leakage in pipelines", "isCorrect": false},
+        {"text": "Storing rainwater in open drains", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_45_E",
+      "corpus": "Which factor most affects the quality of groundwater in rural India?",
+      "options": [
+        {"text": "Plastic pollution", "isCorrect": false},
+        {"text": "Industrial discharge and poor sanitation", "isCorrect": true},
+        {"text": "Internet usage", "isCorrect": false},
+        {"text": "Air conditioning units", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_46_E",
+      "corpus": "Which is a common method for rainwater harvesting?",
+      "options": [
+        {"text": "Storing in overhead tanks", "isCorrect": true},
+        {"text": "Collecting in open fields", "isCorrect": false},
+        {"text": "Allowing it to evaporate", "isCorrect": false},
+        {"text": "Pumping into sewage", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_47_E",
+      "corpus": "Which global day is observed to highlight the importance of water?",
+      "options": [
+        {"text": "World Water Day (March 22)", "isCorrect": true},
+        {"text": "Earth Hour", "isCorrect": false},
+        {"text": "World Food Day", "isCorrect": false},
+        {"text": "World Environment Day", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_48_E",
+      "corpus": "Why is community training important in Safe Water Network’s model?",
+      "options": [
+        {"text": "To reduce electricity bills", "isCorrect": false},
+        {"text": "To empower locals to manage water stations", "isCorrect": true},
+        {"text": "To outsource work abroad", "isCorrect": false},
+        {"text": "To avoid using technology", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_49_E",
+      "corpus": "Which of the following is a benefit of household water connections from community stations?",
+      "options": [
+        {"text": "Increases wastage", "isCorrect": false},
+        {"text": "Saves time spent on fetching water", "isCorrect": true},
+        {"text": "Reduces community involvement", "isCorrect": false},
+        {"text": "Makes water more expensive", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_50_E",
+      "corpus": "Which of these contaminants is most dangerous in drinking water?",
+      "options": [
+        {"text": "Calcium", "isCorrect": false},
+        {"text": "Fluoride in excess", "isCorrect": true},
+        {"text": "Oxygen", "isCorrect": false},
+        {"text": "Magnesium", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_51_E",
+      "corpus": "Which age group is most vulnerable to unsafe water?",
+      "options": [
+        {"text": "Children under 5 years", "isCorrect": true},
+        {"text": "Adults aged 40–60", "isCorrect": false},
+        {"text": "Teenagers", "isCorrect": false},
+        {"text": "Elderly above 70 only", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_52_E",
+      "corpus": "Which natural resource is most directly linked to safe water availability?",
+      "options": [
+        {"text": "Forest cover", "isCorrect": true},
+        {"text": "Gold deposits", "isCorrect": false},
+        {"text": "Coal mines", "isCorrect": false},
+        {"text": "Petroleum reserves", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_53_E",
+      "corpus": "What is the average percentage of household income often spent on water in rural poor communities?",
+      "options": [
+        {"text": "Less than 1%", "isCorrect": false},
+        {"text": "5–10%", "isCorrect": true},
+        {"text": "50%", "isCorrect": false},
+        {"text": "No expenditure", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_54_E",
+      "corpus": "What is a common cause of water station failures in rural areas?",
+      "options": [
+        {"text": "Strong community ownership", "isCorrect": false},
+        {"text": "Lack of maintenance and funding", "isCorrect": true},
+        {"text": "Government support", "isCorrect": false},
+        {"text": "Abundant water supply", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_55_E",
+      "corpus": "Safe Water Network’s digital dashboards are primarily used for:",
+      "options": [
+        {"text": "Social media promotions", "isCorrect": false},
+        {"text": "Real-time monitoring and data sharing", "isCorrect": true},
+        {"text": "Selling bottled water", "isCorrect": false},
+        {"text": "Online advertisements", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_56_E",
+      "corpus": "Which of these actions can individuals take to save water at home?",
+      "options": [
+        {"text": "Fixing leaking taps", "isCorrect": true},
+        {"text": "Using washing machines for half-loads", "isCorrect": false},
+        {"text": "Leaving taps open while brushing", "isCorrect": false},
+        {"text": "Wasting rainwater", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_57_E",
+      "corpus": "Why are decentralized water systems more effective in rural areas?",
+      "options": [
+        {"text": "They are easier to manage locally and require lower infrastructure costs", "isCorrect": true},
+        {"text": "They depend only on big cities", "isCorrect": false},
+        {"text": "They always use bottled water", "isCorrect": false},
+        {"text": "They are controlled only by central governments", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_58_E",
+      "corpus": "What role does technology play in safe water networks?",
+      "options": [
+        {"text": "Spreads entertainment", "isCorrect": false},
+        {"text": "Monitors and manages water systems", "isCorrect": true},
+        {"text": "Provides online shopping", "isCorrect": false},
+        {"text": "Stops rainfall", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_59_E",
+      "corpus": "Which of these is a benefit of community-managed water systems?",
+      "options": [
+        {"text": "High cost of water", "isCorrect": false},
+        {"text": "Greater sustainability", "isCorrect": true},
+        {"text": "Limited access for people", "isCorrect": false},
+        {"text": "Water wastage", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_60_E",
+      "corpus": "Which natural disaster often contaminates safe water sources?",
+      "options": [
+        {"text": "Earthquake", "isCorrect": false},
+        {"text": "Flood", "isCorrect": true},
+        {"text": "Volcano", "isCorrect": false},
+        {"text": "Sandstorm", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_61_E",
+      "corpus": "Why is safe water important for children?",
+      "options": [
+        {"text": "Improves internet access", "isCorrect": false},
+        {"text": "Reduces waterborne diseases", "isCorrect": true},
+        {"text": "Provides better play areas", "isCorrect": false},
+        {"text": "Increases entertainment", "isCorrect": false}
+      ]
+    }
+  ]
+
+
+    },
+    {
+      "sectionId": "section_4",
+      "title": "Category: Food for Good",
+      "questions": [
+    {
+      "questionId": "q_4_1_E",
+      "corpus": "------------------ allowed PepsiCo Hyderabad employees to contribute meals through physical activity.",
+      "options": [
+        {"text": "Food for Good", "isCorrect": false},
+        {"text": "Move for Food", "isCorrect": false},
+        {"text": "Move for Good", "isCorrect": true},
+        {"text": "Good to Move", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_2_E",
+      "corpus": "What is the primary goal of PepsiCo’s Food for Good initiative?",
+      "options": [
+        {"text": "Promote packaged snacks globally", "isCorrect": false},
+        {"text": "Deliver nutritious meals to underserved communities", "isCorrect": true},
+        {"text": "Increase PepsiCo’s market share", "isCorrect": false},
+        {"text": "Launch new beverage products", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_3_E",
+      "corpus": "Which initiative allowed PepsiCo Hyderabad employees to contribute meals through physical activity?",
+      "options": [
+        {"text": "Eat for Good", "isCorrect": false},
+        {"text": "Run for Hunger", "isCorrect": false},
+        {"text": "Move for Good", "isCorrect": true},
+        {"text": "Steps for Snacks", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_4_E",
+      "corpus": "How many meals were generated through the Move for Good initiative across India and South Asia?",
+      "options": [
+        {"text": "1 million", "isCorrect": false},
+        {"text": "2.5 million", "isCorrect": false},
+        {"text": "4 million", "isCorrect": true},
+        {"text": "10 million", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_5_E",
+      "corpus": "What app did PepsiCo employees use to track their steps during the Move for Good campaign?",
+      "options": [
+        {"text": "Fitbit", "isCorrect": false},
+        {"text": "MyFitnessPal", "isCorrect": false},
+        {"text": "Virgin Pulse", "isCorrect": true},
+        {"text": "StepUp", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_6_E",
+      "corpus": "Which transformation strategy does Food for Good align with at PepsiCo?",
+      "options": [
+        {"text": "pep+ (PepsiCo Positive)", "isCorrect": true},
+        {"text": "Go Green", "isCorrect": false},
+        {"text": "Fit for Future", "isCorrect": false},
+        {"text": "PepsiCo Cares", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_7_E",
+      "corpus": "What is one way Food for Good contributing to sustainability?",
+      "options": [
+        {"text": "Promoting sugary drinks", "isCorrect": false},
+        {"text": "Using eco-friendly packaging", "isCorrect": true},
+        {"text": "Increasing advertising budgets", "isCorrect": false},
+        {"text": "Reducing employee benefits", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_8_E",
+      "corpus": "Which foundation leads PepsiCo’s philanthropic efforts in India?",
+      "options": [
+        {"text": "PepsiCo India Trust", "isCorrect": false},
+        {"text": "PepsiCo Foundation", "isCorrect": true},
+        {"text": "PepsiCo Cares", "isCorrect": false},
+        {"text": "PepsiCo Outreach", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_9_E",
+      "corpus": "Which of the following is the primary function of carbohydrates in the body?",
+      "options": [
+        {"text": "To build and repair body tissues", "isCorrect": false},
+        {"text": "To provide the body with energy", "isCorrect": true},
+        {"text": "To insulate the body's organs", "isCorrect": false},
+        {"text": "To help carry out metabolic reactions", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_10_E",
+      "corpus": "Which nutrient is essential for the formation of healthy red blood cells, and a deficiency can lead to anaemia?",
+      "options": [
+        {"text": "Calcium", "isCorrect": false},
+        {"text": "Iodine", "isCorrect": false},
+        {"text": "Iron", "isCorrect": true},
+        {"text": "Sodium", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_11_E",
+      "corpus": "What is a balanced diet?",
+      "options": [
+        {"text": "A diet consisting only of fruits and vegetables", "isCorrect": false},
+        {"text": "A diet that includes a variety of foods in the right amounts", "isCorrect": true},
+        {"text": "A diet of junk food and processed snacks", "isCorrect": false},
+        {"text": "A diet that skips one or more meals", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_12_E",
+      "corpus": "Which of the following is a fat-soluble vitamin?",
+      "options": [
+        {"text": "Vitamin C", "isCorrect": false},
+        {"text": "Vitamin D", "isCorrect": true},
+        {"text": "Vitamin B2 (Riboflavin)", "isCorrect": false},
+        {"text": "Folic acid", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_13_E",
+      "corpus": "A deficiency of Vitamin C is associated with which disease?",
+      "options": [
+        {"text": "Anaemia", "isCorrect": false},
+        {"text": "Rickets", "isCorrect": false},
+        {"text": "Scurvy", "isCorrect": true},
+        {"text": "Night blindness", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_14_E",
+      "corpus": "Which food group is the most important source of protein for building and repairing body tissues?",
+      "options": [
+        {"text": "Grains", "isCorrect": false},
+        {"text": "Fruits", "isCorrect": false},
+        {"text": "Meats and beans", "isCorrect": true},
+        {"text": "Fats, oils, and sweets", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_15_E",
+      "corpus": "Which of these is NOT considered a nutrient?",
+      "options": [
+        {"text": "Vitamins", "isCorrect": false},
+        {"text": "Fiber", "isCorrect": true},
+        {"text": "Fats", "isCorrect": false},
+        {"text": "Minerals", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_16_E",
+      "corpus": "The process of changing a liquid fat to a solid fat chemically is called:",
+      "options": [
+        {"text": "Pasteurization", "isCorrect": false},
+        {"text": "Hydrogenation", "isCorrect": true},
+        {"text": "Oxidation", "isCorrect": false},
+        {"text": "Dehydration", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_17_E",
+      "corpus": "Which mineral is primarily known for building strong bones and teeth?",
+      "options": [
+        {"text": "Iron", "isCorrect": false},
+        {"text": "Calcium", "isCorrect": true},
+        {"text": "Iodine", "isCorrect": false},
+        {"text": "Sodium", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_18_E",
+      "corpus": "Roughage, or dietary fibre, is important for which function?",
+      "options": [
+        {"text": "Providing the body with energy", "isCorrect": false},
+        {"text": "Helping with digestion and preventing constipation", "isCorrect": true},
+        {"text": "Building and repairing body tissues", "isCorrect": false},
+        {"text": "Insulating the body's organs", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_19_E",
+      "corpus": "What is the Mission of the Akshaya Patra Foundation?",
+      "options": [
+        {"text": "To Feed 3 Million Children Everyday by 2025", "isCorrect": true},
+        {"text": "To Promote Environmental Sustainability", "isCorrect": false},
+        {"text": "To Provide Healthcare Services", "isCorrect": false},
+        {"text": "To Support Animal Welfare", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_20_E",
+      "corpus": "In what year was Akshaya Patra Foundation founded?",
+      "options": [
+        {"text": "1995", "isCorrect": false},
+        {"text": "2000", "isCorrect": true},
+        {"text": "2005", "isCorrect": false},
+        {"text": "2010", "isCorrect": false}
+      ]
+    },
+     {
+      "questionId": "q_4_21_E",
+      "corpus": "Where is the headquarters of the Akshaya Patra Foundation located?",
+      "options": [
+        {"text": "Bengaluru, India", "isCorrect": true},
+        {"text": "Mumbai, India", "isCorrect": false},
+        {"text": "New Delhi, India", "isCorrect": false},
+        {"text": "Chennai, India", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_22_E",
+      "corpus": "What is the vision of Akshaya Patra kitchens?",
+      "options": [
+        {"text": "No child in India shall be deprived of education because of clothing", "isCorrect": false},
+        {"text": "No child in India shall be deprived of education because of shelter", "isCorrect": false},
+        {"text": "No child in India shall be deprived of education because of hunger", "isCorrect": true},
+        {"text": "No child in India shall be deprived of education because of books", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_23_E",
+      "corpus": "How many schools do Akshaya Patra Foundation currently serve?",
+      "options": [
+        {"text": "18,000+", "isCorrect": false},
+        {"text": "10,000+", "isCorrect": false},
+        {"text": "25,000+", "isCorrect": false},
+        {"text": "23,111+", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_4_24_E",
+      "corpus": "How many states in India does Akshaya Patra Foundation operate in?",
+      "options": [
+        {"text": "16 states and 2 union territories", "isCorrect": true},
+        {"text": "20 states and 3 union territories", "isCorrect": false},
+        {"text": "5 states and 2 union territories", "isCorrect": false},
+        {"text": "8 states and 2 union territories", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_25_E",
+      "corpus": "What is the name of Akshaya Patra Foundation's mid-day meal program?",
+      "options": [
+        {"text": "Food for Education", "isCorrect": true},
+        {"text": "Hunger Free India", "isCorrect": false},
+        {"text": "Feed the Future", "isCorrect": false},
+        {"text": "Nourish India", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_26_E",
+      "corpus": "How many children benefit from Akshaya Patra Foundation's mid-day meal program?",
+      "options": [
+        {"text": "500,000+", "isCorrect": false},
+        {"text": "3 million+", "isCorrect": false},
+        {"text": "2.2 million Children", "isCorrect": true},
+        {"text": "100,000+", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_27_E",
+      "corpus": "How many kitchens does Akshaya Patra Foundation currently operate?",
+      "options": [
+        {"text": "52 kitchens", "isCorrect": false},
+        {"text": "72 kitchens", "isCorrect": true},
+        {"text": "30 kitchens", "isCorrect": false},
+        {"text": "75 kitchens", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_28_E",
+      "corpus": "What is the main goal of the Food for Good initiative?",
+      "options": [
+        {"text": "Promote organic farming", "isCorrect": true},
+        {"text": "Reduce food waste and fight hunger", "isCorrect": false},
+        {"text": "Support local restaurants", "isCorrect": false},
+        {"text": "Encourage cooking at home", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_29_E",
+      "corpus": "Which company launched the Food for Good program?",
+      "options": [
+        {"text": "Nestlé", "isCorrect": true},
+        {"text": "PepsiCo", "isCorrect": false},
+        {"text": "Unilever", "isCorrect": false},
+        {"text": "Kellogg’s", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_30_E",
+      "corpus": "Food for Good partners with which types of organizations to distribute meals?",
+      "options": [
+        {"text": "Tech startups", "isCorrect": true},
+        {"text": "NGOs and food banks", "isCorrect": false},
+        {"text": "Retail stores", "isCorrect": false},
+        {"text": "Schools only", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_31_E",
+      "corpus": "Which of the following is a key strategy used by Food for Good to reduce food waste?",
+      "options": [
+        {"text": "Composting", "isCorrect": true},
+        {"text": "Repurposing surplus food", "isCorrect": false},
+        {"text": "Banning plastic packaging", "isCorrect": false},
+        {"text": "Promoting fasting", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_32_E",
+      "corpus": "Which of the following is NOT a benefit of the Food for Good initiative?",
+      "options": [
+        {"text": "Reducing food waste", "isCorrect": true},
+        {"text": "Supporting community nutrition", "isCorrect": false},
+        {"text": "Increasing food prices", "isCorrect": false},
+        {"text": "Enhancing food access", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_33_E",
+      "corpus": "What type of food does Food for Good primarily distribute?",
+      "options": [
+        {"text": "Gourmet meals", "isCorrect": true},
+        {"text": "Nutritious, shelf-stable and fresh foods", "isCorrect": false},
+        {"text": "Fast food", "isCorrect": false},
+        {"text": "Frozen desserts", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_34_E",
+      "corpus": "Which age group is a primary focus of Food for Good’s meal distribution?",
+      "options": [
+        {"text": "Senior citizens", "isCorrect": true},
+        {"text": "College students", "isCorrect": false},
+        {"text": "Children and families", "isCorrect": false},
+        {"text": "Working professionals", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_35_E",
+      "corpus": "Approximately how many meals has Food for Good delivered since its inception?",
+      "options": [
+        {"text": "1 million", "isCorrect": true},
+        {"text": "10 million", "isCorrect": false},
+        {"text": "50 million", "isCorrect": false},
+        {"text": "Over 100 million", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_36_E",
+      "corpus": "How many U.S. states has Food for Good operated in?",
+      "options": [
+        {"text": "10", "isCorrect": true},
+        {"text": "25", "isCorrect": false},
+        {"text": "35", "isCorrect": false},
+        {"text": "Over 40", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_37_E",
+      "corpus": "What is one of the key pillars of the Food for Good initiative?",
+      "options": [
+        {"text": "Profit maximization", "isCorrect": false},
+        {"text": "Community empowerment", "isCorrect": true},
+        {"text": "Celebrity endorsements", "isCorrect": false},
+        {"text": "Exporting food products", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_38_E",
+      "corpus": "Which of the following best describes Food for Good’s approach to sustainability?",
+      "options": [
+        {"text": "Using only imported ingredients", "isCorrect": false},
+        {"text": "Reducing packaging waste and food waste", "isCorrect": true},
+        {"text": "Promoting luxury food brands", "isCorrect": false},
+        {"text": "Avoiding partnerships with nonprofits", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_39_E",
+      "corpus": "How does Food for Good help address childhood hunger?",
+      "options": [
+        {"text": "By offering cooking classes", "isCorrect": false},
+        {"text": "By distributing meals during out-of-school times", "isCorrect": true},
+        {"text": "By selling food at discounted rates", "isCorrect": false},
+        {"text": "By promoting food delivery apps", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_4_40_E",
+      "corpus": "Which PepsiCo brand has supported Food for Good through product donations?",
+      "options": [
+        {"text": "Lay’s", "isCorrect": false},
+        {"text": "Quaker", "isCorrect": false},
+        {"text": "Gatorade", "isCorrect": false},
+        {"text": "All of the above", "isCorrect": true}
+      ]
+    },
+    {
+    "questionId": "q_4_41_E",
+    "corpus": "What is one way Food for Good ensuring meals reach children during summer breaks?",
+    "options": [
+      {"text": "Through school cafeterias", "isCorrect": false},
+      {"text": "Mobile meal delivery trucks", "isCorrect": true},
+      {"text": "Grocery store coupons", "isCorrect": false},
+      {"text": "Online food ordering", "isCorrect": false}
+    ]
+  },
+  {
+    "questionId": "q_4_42_E",
+    "corpus": "Which of the following best describes Food for Good’s mission?",
+    "options": [
+      {"text": "To sell healthy snacks", "isCorrect": false},
+      {"text": "To eliminate food deserts", "isCorrect": false},
+      {"text": "To make nutritious food accessible to underserved communities", "isCorrect": true},
+      {"text": "To promote PepsiCo products", "isCorrect": false}
+    ]
+  },
+  {
+    "questionId": "q_4_43_E",
+    "corpus": "What is a “food desert”?",
+    "options": [
+      {"text": "A place with only fast food restaurants", "isCorrect": false},
+      {"text": "A region with limited access to affordable and nutritious food", "isCorrect": true},
+      {"text": "A dry area where farming is impossible", "isCorrect": false},
+      {"text": "A community that avoids processed food", "isCorrect": false}
+    ]
+  },
+  {
+    "questionId": "q_4_44_E",
+    "corpus": "Which of these is a key partner type for Food for Good?",
+    "options": [
+      {"text": "Tech startups", "isCorrect": false},
+      {"text": "Local nonprofits and food banks", "isCorrect": true},
+      {"text": "Luxury food brands", "isCorrect": false},
+      {"text": "Private chefs", "isCorrect": false}
+    ]
+  },
+  {
+    "questionId": "q_4_45_E",
+    "corpus": "What does Food for Good do with surplus food from PepsiCo facilities?",
+    "options": [
+      {"text": "Discards it", "isCorrect": false},
+      {"text": "Sells it at a discount", "isCorrect": false},
+      {"text": "Donates it to communities in need", "isCorrect": true},
+      {"text": "Sends it for recycling", "isCorrect": false}
+    ]
+  },
+  {
+    "questionId": "q_4_46_E",
+    "corpus": "What is one innovative method Food for Good uses to deliver meals in hard-to-reach areas?",
+    "options": [
+      {"text": "Drones", "isCorrect": false},
+      {"text": "Mobile refrigerated trucks", "isCorrect": true},
+      {"text": "Helicopters", "isCorrect": false},
+      {"text": "Food vending machines", "isCorrect": false}
+    ]
+  },
+  {
+    "questionId": "q_4_47_E",
+    "corpus": "Which of the following is a long-term goal of Food for Good?",
+    "options": [
+      {"text": "Increase snack sales", "isCorrect": false},
+      {"text": "Eliminate food insecurity", "isCorrect": true},
+      {"text": "Promote fast food", "isCorrect": false},
+      {"text": "Reduce farming costs", "isCorrect": false}
+    ]
+  },
+  {
+    "questionId": "q_4_48_E",
+    "corpus": "What role do PepsiCo employees play in the Food for Good initiative?",
+    "options": [
+      {"text": "Marketing the program", "isCorrect": false},
+      {"text": "Volunteering and logistics support", "isCorrect": true},
+      {"text": "Selling food products", "isCorrect": false},
+      {"text": "Designing packaging", "isCorrect": false}
+    ]
+  }
+  ]
+    },
+    {
+      "sectionId": "section_5",
+      "title": "Category: Women Empowerment",
+      "questions": [
+    {
+      "questionId": "q_5_1_E",
+      "corpus": "Which organization launched the HeForShe campaign?",
+      "options": [
+        {
+          "text": "UN Women",
+          "isCorrect": true
+        },
+        {
+          "text": "WHO",
+          "isCorrect": false
+        },
+        {
+          "text": "UNICEF",
+          "isCorrect": false
+        },
+        {
+          "text": "World Bank",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_2_E",
+      "corpus": "Who was the first female Nobel Peace Prize laureate?",
+      "options": [
+        {
+          "text": "Marie Curie",
+          "isCorrect": false
+        },
+        {
+          "text": "Bertha von Suttner",
+          "isCorrect": true
+        },
+        {
+          "text": "Mother Teresa",
+          "isCorrect": false
+        },
+        {
+          "text": "Malala Yousafzai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_3_E",
+      "corpus": "What is the main goal of gender equality?",
+      "options": [
+        {
+          "text": "To favor women over men",
+          "isCorrect": false
+        },
+        {
+          "text": "To eliminate all gender roles",
+          "isCorrect": false
+        },
+        {
+          "text": "To provide equal opportunities regardless of gender",
+          "isCorrect": true
+        },
+        {
+          "text": "To reduce male employment",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_4_E",
+      "corpus": "Which Indian scheme promotes education for girls?",
+      "options": [
+        {
+          "text": "Swachh Bharat",
+          "isCorrect": false
+        },
+        {
+          "text": "Beti Bachao Beti Padhao",
+          "isCorrect": true
+        },
+        {
+          "text": "Make in India",
+          "isCorrect": false
+        },
+        {
+          "text": "Skill India",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_5_E",
+      "corpus": "Who was the first woman to fly solo across the Atlantic?",
+      "options": [
+        {
+          "text": "Amelia Earhart",
+          "isCorrect": true
+        },
+        {
+          "text": "Valentina Tereshkova",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalpana Chawla",
+          "isCorrect": false
+        },
+        {
+          "text": "Sally Ride",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_6_E",
+      "corpus": "Which country was the first to grant women the right to vote?",
+      "options": [
+        {
+          "text": "USA",
+          "isCorrect": false
+        },
+        {
+          "text": "New Zealand",
+          "isCorrect": true
+        },
+        {
+          "text": "UK",
+          "isCorrect": false
+        },
+        {
+          "text": "France",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_7_E",
+      "corpus": "What does CEDAW stand for?",
+      "options": [
+        {
+          "text": "Convention on the Elimination of All Forms of Discrimination Against Women",
+          "isCorrect": true
+        },
+        {
+          "text": "Council for Equal Distribution Among Women",
+          "isCorrect": false
+        },
+        {
+          "text": "Committee for Empowering Domestic Women",
+          "isCorrect": false
+        },
+        {
+          "text": "Charter for Equal Duties and Women",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_8_E",
+      "corpus": "Who was the first female president of Liberia?",
+      "options": [
+        {
+          "text": "Ellen Johnson Sirleaf",
+          "isCorrect": true
+        },
+        {
+          "text": "Wangari Maathai",
+          "isCorrect": false
+        },
+        {
+          "text": "Joyce Banda",
+          "isCorrect": false
+        },
+        {
+          "text": "Ngozi Okonjo-Iweala",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_9_E",
+      "corpus": "Which movement is associated with women's suffrage?",
+      "options": [
+        {
+          "text": "Civil Rights Movement",
+          "isCorrect": false
+        },
+        {
+          "text": "Feminist Movement",
+          "isCorrect": true
+        },
+        {
+          "text": "Green Movement",
+          "isCorrect": false
+        },
+        {
+          "text": "Labor Movement",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_10_E",
+      "corpus": "Which Indian woman became the CEO of PepsiCo?",
+      "options": [
+        {
+          "text": "Indira Nooyi",
+          "isCorrect": true
+        },
+        {
+          "text": "Kiran Mazumdar-Shaw",
+          "isCorrect": false
+        },
+        {
+          "text": "Chanda Kochhar",
+          "isCorrect": false
+        },
+        {
+          "text": "Naina Lal Kidwai",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_11_E",
+      "corpus": "What is the impact of women empowerment on community development?",
+      "options": [
+        {
+          "text": "No impact",
+          "isCorrect": false
+        },
+        {
+          "text": "Negative impact",
+          "isCorrect": false
+        },
+        {
+          "text": "Positive impact",
+          "isCorrect": true
+        },
+        {
+          "text": "Reduces development",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_12_E",
+      "corpus": "Which of the following is a key goal of women empowerment?",
+      "options": [
+        {
+          "text": "Increase unemployment",
+          "isCorrect": false
+        },
+        {
+          "text": "Promote gender equality",
+          "isCorrect": true
+        },
+        {
+          "text": "Reduce education levels",
+          "isCorrect": false
+        },
+        {
+          "text": "Limit women's rights",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_13_E",
+      "corpus": "Who was the first woman to become Prime Minister of India?",
+      "options": [
+        {
+          "text": "Sarojini Naidu",
+          "isCorrect": false
+        },
+        {
+          "text": "Indira Gandhi",
+          "isCorrect": true
+        },
+        {
+          "text": "Pratibha Patil",
+          "isCorrect": false
+        },
+        {
+          "text": "Sushma Swaraj",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_14_E",
+      "corpus": "Which international day is celebrated to recognize women's achievements?",
+      "options": [
+        {
+          "text": "World Peace Day",
+          "isCorrect": false
+        },
+        {
+          "text": "International Women's Day",
+          "isCorrect": true
+        },
+        {
+          "text": "Human Rights Day",
+          "isCorrect": false
+        },
+        {
+          "text": "Global Education Day",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_15_E",
+      "corpus": "What does SHG stand for in the context of women empowerment?",
+      "options": [
+        {
+          "text": "Social Health Group",
+          "isCorrect": false
+        },
+        {
+          "text": "Self Help Group",
+          "isCorrect": true
+        },
+        {
+          "text": "Safe Home Guard",
+          "isCorrect": false
+        },
+        {
+          "text": "Society for Human Growth",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_16_E",
+      "corpus": "Which organization promotes gender equality globally?",
+      "options": [
+        {
+          "text": "UNESCO",
+          "isCorrect": false
+        },
+        {
+          "text": "UN Women",
+          "isCorrect": true
+        },
+        {
+          "text": "WHO",
+          "isCorrect": false
+        },
+        {
+          "text": "IMF",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_17_E",
+      "corpus": "Which Indian scheme focuses on saving and educating the girl child?",
+      "options": [
+        {
+          "text": "Make in India",
+          "isCorrect": false
+        },
+        {
+          "text": "Beti Bachao Beti Padhao",
+          "isCorrect": true
+        },
+        {
+          "text": "Skill India",
+          "isCorrect": false
+        },
+        {
+          "text": "Digital India",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_18_E",
+      "corpus": "Who was the first female astronaut from India?",
+      "options": [
+        {
+          "text": "Kalpana Chawla",
+          "isCorrect": true
+        },
+        {
+          "text": "Sunita Williams",
+          "isCorrect": false
+        },
+        {
+          "text": "Rakesh Sharma",
+          "isCorrect": false
+        },
+        {
+          "text": "Indira Gandhi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_19_E",
+      "corpus": "Which constitutional article in India ensures equality before law?",
+      "options": [
+        {
+          "text": "Article 14",
+          "isCorrect": true
+        },
+        {
+          "text": "Article 21",
+          "isCorrect": false
+        },
+        {
+          "text": "Article 370",
+          "isCorrect": false
+        },
+        {
+          "text": "Article 356",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_20_E",
+      "corpus": "Which movement is associated with women's rights in the workplace?",
+      "options": [
+        {
+          "text": "Green Revolution",
+          "isCorrect": false
+        },
+        {
+          "text": "Me Too",
+          "isCorrect": true
+        },
+        {
+          "text": "Chipko Movement",
+          "isCorrect": false
+        },
+        {
+          "text": "Swadeshi Movement",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_21_E",
+      "corpus": "Which Nobel laureate is known for advocating girls' education?",
+      "options": [
+        {
+          "text": "Malala Yousafzai",
+          "isCorrect": true
+        },
+        {
+          "text": "Mother Teresa",
+          "isCorrect": false
+        },
+        {
+          "text": "Wangari Maathai",
+          "isCorrect": false
+        },
+        {
+          "text": "Aung San Suu Kyi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_22_E",
+      "corpus": "Which Sustainable Development Goal (SDG) specifically focuses on achieving gender equality and empowering all women and girls?",
+      "options": [
+        {
+          "text": "SDG 3",
+          "isCorrect": false
+        },
+        {
+          "text": "SDG 4",
+          "isCorrect": false
+        },
+        {
+          "text": "SDG 5",
+          "isCorrect": true
+        },
+        {
+          "text": "SDG 10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_23_E",
+      "corpus": "“Gender equality” primarily means:",
+      "options": [
+        {
+          "text": "Treating everyone identically regardless of needs",
+          "isCorrect": false
+        },
+        {
+          "text": "Giving more resources to men to lead",
+          "isCorrect": false
+        },
+        {
+          "text": "Equal rights, responsibilities, and opportunities for all genders",
+          "isCorrect": true
+        },
+        {
+          "text": "Enforcing identical outcomes for all genders",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_24_E",
+      "corpus": "“Gender equity” is best described as:",
+      "options": [
+        {
+          "text": "A synonym for equality",
+          "isCorrect": false
+        },
+        {
+          "text": "Fairness through need-based support to achieve equal outcomes",
+          "isCorrect": true
+        },
+        {
+          "text": "Prioritizing one gender over the other",
+          "isCorrect": false
+        },
+        {
+          "text": "Removing all gender-focused programs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_25_E",
+      "corpus": "Which UN treaty is known as the international bill of rights for women?",
+      "options": [
+        {
+          "text": "CEDAW",
+          "isCorrect": true
+        },
+        {
+          "text": "CRC",
+          "isCorrect": false
+        },
+        {
+          "text": "ICCPR",
+          "isCorrect": false
+        },
+        {
+          "text": "UDHR",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_26_E",
+      "corpus": "The Beijing Declaration and Platform for Action (1995) is significant because it:",
+      "options": [
+        {
+          "text": "Abolished all gender laws",
+          "isCorrect": false
+        },
+        {
+          "text": "Created a universal quota for women in parliaments",
+          "isCorrect": false
+        },
+        {
+          "text": "Set a comprehensive agenda for advancing women’s rights globally",
+          "isCorrect": true
+        },
+        {
+          "text": "Replaced CEDAW",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_27_E",
+      "corpus": "“Intersectionality” in gender discourse recognizes:",
+      "options": [
+        {
+          "text": "Only sex-based discrimination matters",
+          "isCorrect": false
+        },
+        {
+          "text": "Overlapping identities shape unique experiences of inequality",
+          "isCorrect": true
+        },
+        {
+          "text": "Empowerment programs should ignore race and class",
+          "isCorrect": false
+        },
+        {
+          "text": "Gender issues are the same globally",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_28_E",
+      "corpus": "Gender mainstreaming in policy means:",
+      "options": [
+        {
+          "text": "Having one women-focused policy per ministry",
+          "isCorrect": false
+        },
+        {
+          "text": "Integrating gender perspectives in all policies and programs",
+          "isCorrect": true
+        },
+        {
+          "text": "Running only women-exclusive programs",
+          "isCorrect": false
+        },
+        {
+          "text": "Tracking only female beneficiaries",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_29_E",
+      "corpus": "A core principle of women’s empowerment is:",
+      "options": [
+        {
+          "text": "Paternalistic decision-making",
+          "isCorrect": false
+        },
+        {
+          "text": "Restricting movement for safety",
+          "isCorrect": false
+        },
+        {
+          "text": "Agency and voice in decisions affecting their lives",
+          "isCorrect": true
+        },
+        {
+          "text": "Prioritizing tradition over rights",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_30_E",
+      "corpus": "A commonly accepted pillar of women’s economic empowerment is:",
+      "options": [
+        {
+          "text": "Limiting access to credit",
+          "isCorrect": false
+        },
+        {
+          "text": "Informal work without social protection",
+          "isCorrect": false
+        },
+        {
+          "text": "Asset ownership and control",
+          "isCorrect": true
+        },
+        {
+          "text": "Excluding women from markets",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_31_E",
+      "corpus": "The “care economy” refers to:",
+      "options": [
+        {
+          "text": "Only paid childcare services",
+          "isCorrect": false
+        },
+        {
+          "text": "Unpaid and paid care work sustaining households and economies",
+          "isCorrect": true
+        },
+        {
+          "text": "Healthcare infrastructure alone",
+          "isCorrect": false
+        },
+        {
+          "text": "Hospitality sector jobs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_32_E",
+      "corpus": "Which ILO Convention targets equal remuneration for work of equal value?",
+      "options": [
+        {
+          "text": "C100",
+          "isCorrect": true
+        },
+        {
+          "text": "C183",
+          "isCorrect": false
+        },
+        {
+          "text": "C190",
+          "isCorrect": false
+        },
+        {
+          "text": "C111",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_33_E",
+      "corpus": "The “glass ceiling” describes:",
+      "options": [
+        {
+          "text": "Initial job entry barriers",
+          "isCorrect": false
+        },
+        {
+          "text": "Invisible barriers preventing women from senior leadership",
+          "isCorrect": true
+        },
+        {
+          "text": "Pay gaps at entry level",
+          "isCorrect": false
+        },
+        {
+          "text": "Overt legal discrimination",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_34_E",
+      "corpus": "In India, the law mandating Internal Committees to address workplace sexual harassment is:",
+      "options": [
+        {
+          "text": "Maternity Benefit Act",
+          "isCorrect": false
+        },
+        {
+          "text": "POSH Act, 2013",
+          "isCorrect": true
+        },
+        {
+          "text": "Equal Remuneration Act",
+          "isCorrect": false
+        },
+        {
+          "text": "Domestic Violence Act",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_35_E",
+      "corpus": "The Maternity Benefit (Amendment) Act, 2017 in India increased paid maternity leave up to:",
+      "options": [
+        {
+          "text": "12 weeks",
+          "isCorrect": false
+        },
+        {
+          "text": "20 weeks",
+          "isCorrect": false
+        },
+        {
+          "text": "26 weeks",
+          "isCorrect": true
+        },
+        {
+          "text": "30 weeks",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_36_E",
+      "corpus": "Which policy approach allocates resources based on gender analysis within budgets?",
+      "options": [
+        {
+          "text": "Zero-based budgeting",
+          "isCorrect": false
+        },
+        {
+          "text": "Gender-responsive budgeting",
+          "isCorrect": true
+        },
+        {
+          "text": "Line-item budgeting",
+          "isCorrect": false
+        },
+        {
+          "text": "Program-based budgeting only",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_37_E",
+      "corpus": "The Protection of Women from Domestic Violence Act (PWDVA) in India focuses on:",
+      "options": [
+        {
+          "text": "Only criminal prosecution",
+          "isCorrect": false
+        },
+        {
+          "text": "Civil reliefs including protection and residence orders",
+          "isCorrect": true
+        },
+        {
+          "text": "Labor market penalties",
+          "isCorrect": false
+        },
+        {
+          "text": "Tax incentives",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_38_E",
+      "corpus": "The Companies Act, 2013 in India requires certain companies to have at least:",
+      "options": [
+        {
+          "text": "One woman CFO",
+          "isCorrect": false
+        },
+        {
+          "text": "One woman director",
+          "isCorrect": true
+        },
+        {
+          "text": "50% women on the board",
+          "isCorrect": false
+        },
+        {
+          "text": "A female CEO",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_39_E",
+      "corpus": "ILO Convention No. 190 addresses:",
+      "options": [
+        {
+          "text": "Occupational safety only",
+          "isCorrect": false
+        },
+        {
+          "text": "Violence and harassment in the world of work",
+          "isCorrect": true
+        },
+        {
+          "text": "Maternity protection",
+          "isCorrect": false
+        },
+        {
+          "text": "Forced labor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_40_E",
+      "corpus": "“Equal pay for equal work” means:",
+      "options": [
+        {
+          "text": "Same pay for the same job and same work conditions",
+          "isCorrect": true
+        },
+        {
+          "text": "Different pay for similar work",
+          "isCorrect": false
+        },
+        {
+          "text": "Same pay regardless of experience",
+          "isCorrect": false
+        },
+        {
+          "text": "Same pay across all industries",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_41_E",
+      "corpus": "In India, a creche facility is mandated under the Maternity Benefit (Amendment) Act for establishments with:",
+      "options": [
+        {
+          "text": "10+ employees",
+          "isCorrect": false
+        },
+        {
+          "text": "20+ employees",
+          "isCorrect": false
+        },
+        {
+          "text": "30+ employees",
+          "isCorrect": false
+        },
+        {
+          "text": "50+ employees",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_42_E",
+      "corpus": "International Women’s Day is observed on:",
+      "options": [
+        {
+          "text": "2001-03-01 00:00:00",
+          "isCorrect": false
+        },
+        {
+          "text": "2008-03-01 00:00:00",
+          "isCorrect": true
+        },
+        {
+          "text": "2007-04-01 00:00:00",
+          "isCorrect": false
+        },
+        {
+          "text": "2001-05-01 00:00:00",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_43_E",
+      "corpus": "UN Security Council Resolution 1325 primarily focuses on:",
+      "options": [
+        {
+          "text": "Nuclear disarmament",
+          "isCorrect": false
+        },
+        {
+          "text": "Women, Peace, and Security",
+          "isCorrect": true
+        },
+        {
+          "text": "Trade facilitation",
+          "isCorrect": false
+        },
+        {
+          "text": "Climate finance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_44_E",
+      "corpus": "UN Women (the UN Entity for Gender Equality and the Empowerment of Women) was established in:",
+      "options": [
+        {
+          "text": "2000",
+          "isCorrect": false
+        },
+        {
+          "text": "2005",
+          "isCorrect": false
+        },
+        {
+          "text": "2010",
+          "isCorrect": true
+        },
+        {
+          "text": "2015",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_45_E",
+      "corpus": "The Women’s Empowerment Principles (WEPs) are a set of guidelines developed by:",
+      "options": [
+        {
+          "text": "UN Women & UN Global Compact",
+          "isCorrect": true
+        },
+        {
+          "text": "OECD",
+          "isCorrect": false
+        },
+        {
+          "text": "ILO",
+          "isCorrect": false
+        },
+        {
+          "text": "World Bank",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_46_E",
+      "corpus": "The “gender pay gap” commonly measures the:",
+      "options": [
+        {
+          "text": "Difference in average or median earnings between men and women",
+          "isCorrect": true
+        },
+        {
+          "text": "Difference in job titles between men and women",
+          "isCorrect": false
+        },
+        {
+          "text": "Difference in bonus payouts only",
+          "isCorrect": false
+        },
+        {
+          "text": "Difference in tax rates by sex",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_47_E",
+      "corpus": "A practical pay-transparency measure is to:",
+      "options": [
+        {
+          "text": "Publish salary ranges and evaluation criteria for roles",
+          "isCorrect": true
+        },
+        {
+          "text": "Prohibit employees from discussing pay",
+          "isCorrect": false
+        },
+        {
+          "text": "Ask candidates for salary history",
+          "isCorrect": false
+        },
+        {
+          "text": "Use opaque market factors to set pay",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_48_E",
+      "corpus": "Which of the following is NOT among the common “5D” bystander strategies?",
+      "options": [
+        {
+          "text": "Direct",
+          "isCorrect": false
+        },
+        {
+          "text": "Distract",
+          "isCorrect": false
+        },
+        {
+          "text": "Detach",
+          "isCorrect": true
+        },
+        {
+          "text": "Delegate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_49_E",
+      "corpus": "A frequent structural barrier to women’s entrepreneurship is:",
+      "options": [
+        {
+          "text": "Access to collateral and property in their own name",
+          "isCorrect": true
+        },
+        {
+          "text": "Peer mentorship opportunities",
+          "isCorrect": false
+        },
+        {
+          "text": "Microfinance availability",
+          "isCorrect": false
+        },
+        {
+          "text": "E-commerce platforms",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_50_E",
+      "corpus": "A leave design that best encourages shared caregiving is:",
+      "options": [
+        {
+          "text": "Non-transferable, paid parental leave for each parent",
+          "isCorrect": true
+        },
+        {
+          "text": "Mother-only leave",
+          "isCorrect": false
+        },
+        {
+          "text": "Unpaid leave for all caregivers",
+          "isCorrect": false
+        },
+        {
+          "text": "Unlimited overtime policies",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_51_E",
+      "corpus": "Effective workplace lactation support includes:",
+      "options": [
+        {
+          "text": "A multipurpose conference room without privacy",
+          "isCorrect": false
+        },
+        {
+          "text": "A dedicated private room with refrigeration, a sink, and protected break time",
+          "isCorrect": true
+        },
+        {
+          "text": "Pumping only at the desk",
+          "isCorrect": false
+        },
+        {
+          "text": "Employees bringing personal coolers only",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_52_E",
+      "corpus": "Title IX in the United States primarily:",
+      "options": [
+        {
+          "text": "Ensures equal pay in the private sector",
+          "isCorrect": false
+        },
+        {
+          "text": "Prohibits sex discrimination in education programs receiving federal funds",
+          "isCorrect": true
+        },
+        {
+          "text": "Mandates corporate board quotas",
+          "isCorrect": false
+        },
+        {
+          "text": "Regulates military service",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_53_E",
+      "corpus": "The Gender Parity Index (GPI) refers to the:",
+      "options": [
+        {
+          "text": "Gross Parity Index",
+          "isCorrect": false
+        },
+        {
+          "text": "Ratio of female-to-male values for an indicator (e.g., school enrollment)",
+          "isCorrect": true
+        },
+        {
+          "text": "Global Poverty Index",
+          "isCorrect": false
+        },
+        {
+          "text": "Gender Pay Index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_54_E",
+      "corpus": "A safer-commute policy that supports women’s retention is:",
+      "options": [
+        {
+          "text": "Banning all late shifts",
+          "isCorrect": false
+        },
+        {
+          "text": "Last-mile shuttles, safe parking, escorts, and 24×7 helplines",
+          "isCorrect": true
+        },
+        {
+          "text": "Removing ID badge requirements",
+          "isCorrect": false
+        },
+        {
+          "text": "Random route changes without notice",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_55_E",
+      "corpus": "The “motherhood penalty” describes:",
+      "options": [
+        {
+          "text": "Lower wages and slower progression associated with motherhood",
+          "isCorrect": true
+        },
+        {
+          "text": "A statutory fine on employers",
+          "isCorrect": false
+        },
+        {
+          "text": "Additional taxation for parents",
+          "isCorrect": false
+        },
+        {
+          "text": "Mandatory part-time status",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_56_E",
+      "corpus": "A key SDG indicator for women’s political voice is the:",
+      "options": [
+        {
+          "text": "Share of women completing STEM degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "Share of seats held by women in national parliaments and local governments",
+          "isCorrect": true
+        },
+        {
+          "text": "Female life expectancy at birth",
+          "isCorrect": false
+        },
+        {
+          "text": "Maternal mortality ratio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_57_E",
+      "corpus": "Survivor-centered support for women affected by trafficking or GBV includes:",
+      "options": [
+        {
+          "text": "Public disclosure and shaming",
+          "isCorrect": false
+        },
+        {
+          "text": "Integrated shelter, counseling, legal aid, and medical care",
+          "isCorrect": true
+        },
+        {
+          "text": "Dismissal of anonymous complaints",
+          "isCorrect": false
+        },
+        {
+          "text": "Financial penalties only",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_58_E",
+      "corpus": "A good digital-safety practice for women online is to:",
+      "options": [
+        {
+          "text": "Reuse the same password across platforms",
+          "isCorrect": false
+        },
+        {
+          "text": "Enable 2FA, tighten privacy settings, and report abuse promptly",
+          "isCorrect": true
+        },
+        {
+          "text": "Share one-time passwords with close friends",
+          "isCorrect": false
+        },
+        {
+          "text": "Accept all friend requests to expand networks",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_59_E",
+      "corpus": "“Doxxing” refers to:",
+      "options": [
+        {
+          "text": "A persuasive debate technique",
+          "isCorrect": false
+        },
+        {
+          "text": "Publishing private personal information online without consent",
+          "isCorrect": true
+        },
+        {
+          "text": "Software debugging",
+          "isCorrect": false
+        },
+        {
+          "text": "Encrypted group messaging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_60_E",
+      "corpus": "An inclusive product design step to avoid gender bias is to:",
+      "options": [
+        {
+          "text": "Build first, test later",
+          "isCorrect": false
+        },
+        {
+          "text": "Co-design and test with diverse women users, including low-connectivity contexts",
+          "isCorrect": true
+        },
+        {
+          "text": "Ignore user feedback to avoid scope creep",
+          "isCorrect": false
+        },
+        {
+          "text": "Design only for premium devices",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_61_E",
+      "corpus": "The “Vishaka Guidelines” on workplace sexual harassment were issued by the:",
+      "options": [
+        {
+          "text": "Parliament of India",
+          "isCorrect": false
+        },
+        {
+          "text": "Supreme Court of India",
+          "isCorrect": true
+        },
+        {
+          "text": "Ministry of Women & Child Development",
+          "isCorrect": false
+        },
+        {
+          "text": "Election Commission of India",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_62_E",
+      "corpus": "Under India’s POSH Act, the Internal Committee must include:",
+      "options": [
+        {
+          "text": "Only internal employees",
+          "isCorrect": false
+        },
+        {
+          "text": "An external member from an NGO/association committed to women’s cause",
+          "isCorrect": true
+        },
+        {
+          "text": "A police officer as chairperson",
+          "isCorrect": false
+        },
+        {
+          "text": "Two HR managers only",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_63_E",
+      "corpus": "The Beti Bachao Beti Padhao scheme primarily aims to:",
+      "options": [
+        {
+          "text": "Promote exports",
+          "isCorrect": false
+        },
+        {
+          "text": "Improve the child sex ratio and support girls’ education",
+          "isCorrect": true
+        },
+        {
+          "text": "Subsidize fuel prices",
+          "isCorrect": false
+        },
+        {
+          "text": "Increase adult male employment",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_64_E",
+      "corpus": "The One Stop Centre (OSC) scheme in India provides:",
+      "options": [
+        {
+          "text": "Single-window licenses for startups",
+          "isCorrect": false
+        },
+        {
+          "text": "Integrated support (medical, legal, counseling, shelter) to women affected by violence",
+          "isCorrect": true
+        },
+        {
+          "text": "Training only for police",
+          "isCorrect": false
+        },
+        {
+          "text": "Pension for retired workers",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_65_E",
+      "corpus": "The Nirbhaya Fund is dedicated to:",
+      "options": [
+        {
+          "text": "Industrial park development",
+          "isCorrect": false
+        },
+        {
+          "text": "Projects enhancing the safety of women (e.g., CCTVs, helplines, OSCs)",
+          "isCorrect": true
+        },
+        {
+          "text": "Agricultural subsidies",
+          "isCorrect": false
+        },
+        {
+          "text": "Film production grants",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_66_E",
+      "corpus": "Which is not a core pillar of the Women, Peace & Security agenda?",
+      "options": [
+        {
+          "text": "Participation",
+          "isCorrect": false
+        },
+        {
+          "text": "Protection",
+          "isCorrect": false
+        },
+        {
+          "text": "Environmental sustainability",
+          "isCorrect": true
+        },
+        {
+          "text": "Prevention",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_67_E",
+      "corpus": "An effective financial literacy program for women includes:",
+      "options": [
+        {
+          "text": "Stock trading only",
+          "isCorrect": false
+        },
+        {
+          "text": "Budgeting, savings, credit management, and digital payments",
+          "isCorrect": true
+        },
+        {
+          "text": "Cryptocurrency speculation only",
+          "isCorrect": false
+        },
+        {
+          "text": "Tax evasion strategies",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_68_E",
+      "corpus": "A supplier payment practice that empowers women-owned SMEs is:",
+      "options": [
+        {
+          "text": "120-day payment terms",
+          "isCorrect": false
+        },
+        {
+          "text": "Prompt payment or advance milestones",
+          "isCorrect": true
+        },
+        {
+          "text": "Penalty-heavy contracts",
+          "isCorrect": false
+        },
+        {
+          "text": "Annual lump-sum reconciliation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_69_E",
+      "corpus": "Sound pay-equity governance typically includes:",
+      "options": [
+        {
+          "text": "Annual pay gap audits with transparent remediation plans",
+          "isCorrect": true
+        },
+        {
+          "text": "Bans on discussing pay with colleagues",
+          "isCorrect": false
+        },
+        {
+          "text": "Unstructured pay negotiations",
+          "isCorrect": false
+        },
+        {
+          "text": "Eliminating performance reviews",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_70_E",
+      "corpus": "A meaningful success metric for returnship programs is:",
+      "options": [
+        {
+          "text": "Number of posters about the program",
+          "isCorrect": false
+        },
+        {
+          "text": "Retention and promotion rates within 6–12 months of return",
+          "isCorrect": true
+        },
+        {
+          "text": "Social media likes",
+          "isCorrect": false
+        },
+        {
+          "text": "Headcount of applications only",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_5_71_E",
+      "corpus": "A bias-reducing practice when writing job ads is to:",
+      "options": [
+        {
+          "text": "Use masculine-coded wording to attract “go-getters”",
+          "isCorrect": false
+        },
+        {
+          "text": "Use gender-neutral language and list essential criteria only",
+          "isCorrect": true
+        },
+        {
+          "text": "Ask for prior salary history to set offers",
+          "isCorrect": false
+        },
+        {
+          "text": "Exaggerate requirements to filter candidates",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+    },
+    {
+      "sectionId": "section_6",
+      "title": "Category: Pep Positive",
+      "questions":  [
+    {
+      "questionId": "q_6_1_E",
+      "corpus": "Which year is PepsiCo targeting to achieve net-zero emissions by?",
+      "options": [
+        {
+          "text": "2025",
+          "isCorrect": false
+        },
+        {
+          "text": "2030",
+          "isCorrect": false
+        },
+        {
+          "text": "2050",
+          "isCorrect": true
+        },
+        {
+          "text": "2040",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_2_E",
+      "corpus": "What percentage of PepsiCo’s direct global electricity needs were met with renewable electricity in 2024?",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "89%",
+          "isCorrect": true
+        },
+        {
+          "text": "100%",
+          "isCorrect": false
+        },
+        {
+          "text": "75%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_3_E",
+      "corpus": "By 2030, PepsiCo aims to spread regenerative agriculture practices across how many acres?",
+      "options": [
+        {
+          "text": "1 million",
+          "isCorrect": false
+        },
+        {
+          "text": "3.5 million",
+          "isCorrect": false
+        },
+        {
+          "text": "7 million",
+          "isCorrect": false
+        },
+        {
+          "text": "10 million",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_4_E",
+      "corpus": "What is the sodium target for PepsiCo’s convenient foods portfolio by 2025?",
+      "options": [
+        {
+          "text": "2.0 mg per Calorie",
+          "isCorrect": false
+        },
+        {
+          "text": "1.3 mg per Calorie",
+          "isCorrect": true
+        },
+        {
+          "text": "1.1 mg per Calorie",
+          "isCorrect": false
+        },
+        {
+          "text": "0.5 mg per Calorie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_5_E",
+      "corpus": "PepsiCo’s packaging goal for 2030 is to achieve what percentage of reusable, recyclable, or compostable packaging?",
+      "options": [
+        {
+          "text": "80%",
+          "isCorrect": false
+        },
+        {
+          "text": "97%",
+          "isCorrect": true
+        },
+        {
+          "text": "100%",
+          "isCorrect": false
+        },
+        {
+          "text": "60%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_6_E",
+      "corpus": "Which of the following is NOT a pillar of the pep+ strategy?",
+      "options": [
+        {
+          "text": "Positive Agriculture",
+          "isCorrect": false
+        },
+        {
+          "text": "Positive Value Chain",
+          "isCorrect": false
+        },
+        {
+          "text": "Positive Choices",
+          "isCorrect": false
+        },
+        {
+          "text": "Positive Marketing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_7_E",
+      "corpus": "PepsiCo’s water stewardship goal includes replenishing what percentage of water used in high-risk facilities by 2025?",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "75%",
+          "isCorrect": false
+        },
+        {
+          "text": "100%",
+          "isCorrect": true
+        },
+        {
+          "text": "90%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_8_E",
+      "corpus": "What is the targeted reduction in Scope 1 and 2 emissions by 2030 (vs 2022 baseline)?",
+      "options": [
+        {
+          "text": "30%",
+          "isCorrect": false
+        },
+        {
+          "text": "50%",
+          "isCorrect": true
+        },
+        {
+          "text": "42%",
+          "isCorrect": false
+        },
+        {
+          "text": "18%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_9_E",
+      "corpus": "PepsiCo aims to deliver how many billion portions of diverse ingredients annually by 2030?",
+      "options": [
+        {
+          "text": "69 billion",
+          "isCorrect": false
+        },
+        {
+          "text": "145 billion",
+          "isCorrect": true
+        },
+        {
+          "text": "100 billion",
+          "isCorrect": false
+        },
+        {
+          "text": "200 billion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_10_E",
+      "corpus": "Which initiative is designed to support sustainable food systems and farmer livelihoods?",
+      "options": [
+        {
+          "text": "Positive Choices",
+          "isCorrect": false
+        },
+        {
+          "text": "Positive Agriculture",
+          "isCorrect": true
+        },
+        {
+          "text": "Positive Packaging",
+          "isCorrect": false
+        },
+        {
+          "text": "Positive Marketing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_11_E",
+      "corpus": "What is PepsiCo’s approach to sustainable packaging?",
+      "options": [
+        {
+          "text": "Use only plastic packaging",
+          "isCorrect": false
+        },
+        {
+          "text": "Reduce, Recycle, Reinvent",
+          "isCorrect": true
+        },
+        {
+          "text": "Increase packaging weight",
+          "isCorrect": false
+        },
+        {
+          "text": "Focus on single-use materials",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_12_E",
+      "corpus": "By 2030, what percentage of PepsiCo’s packaging in key markets should be reusable, recyclable, or compostable?",
+      "options": [
+        {
+          "text": "80%",
+          "isCorrect": false
+        },
+        {
+          "text": "93%",
+          "isCorrect": false
+        },
+        {
+          "text": "97%",
+          "isCorrect": true
+        },
+        {
+          "text": "100%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_13_E",
+      "corpus": "Which program did PepsiCo launch to fund internal projects aimed at progressing sustainable packaging goals?",
+      "options": [
+        {
+          "text": "Green Bond",
+          "isCorrect": false
+        },
+        {
+          "text": "Positive Packaging Outcomes Fund",
+          "isCorrect": true
+        },
+        {
+          "text": "pep+ REnew",
+          "isCorrect": false
+        },
+        {
+          "text": "ReCon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_14_E",
+      "corpus": "What material did PepsiCo transition to for Snack A Jacks® multipacks in the UK to improve recyclability?",
+      "options": [
+        {
+          "text": "Plastic",
+          "isCorrect": false
+        },
+        {
+          "text": "Metal",
+          "isCorrect": false
+        },
+        {
+          "text": "Recyclable paper",
+          "isCorrect": true
+        },
+        {
+          "text": "Glass",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_15_E",
+      "corpus": "Which recycling technology did PepsiCo deploy in high-traffic areas in the US to improve sorting accuracy?",
+      "options": [
+        {
+          "text": "Oscar Sort AI",
+          "isCorrect": true
+        },
+        {
+          "text": "Green Sort",
+          "isCorrect": false
+        },
+        {
+          "text": "ReCon AI",
+          "isCorrect": false
+        },
+        {
+          "text": "EcoSort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_16_E",
+      "corpus": "What percentage reduction in virgin plastics did PepsiCo achieve between 2023 and 2024?",
+      "options": [
+        {
+          "text": "2%",
+          "isCorrect": false
+        },
+        {
+          "text": "5%",
+          "isCorrect": true
+        },
+        {
+          "text": "10%",
+          "isCorrect": false
+        },
+        {
+          "text": "15%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_17_E",
+      "corpus": "By 2035, PepsiCo aims to use what percentage of recycled content in its plastic packaging?",
+      "options": [
+        {
+          "text": "15%",
+          "isCorrect": false
+        },
+        {
+          "text": "25%",
+          "isCorrect": false
+        },
+        {
+          "text": "40%",
+          "isCorrect": true
+        },
+        {
+          "text": "50%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_18_E",
+      "corpus": "Which initiative supports fair engagement with the informal waste sector?",
+      "options": [
+        {
+          "text": "Fair Circularity Initiative (FCI)",
+          "isCorrect": true
+        },
+        {
+          "text": "Green Bond",
+          "isCorrect": false
+        },
+        {
+          "text": "pep+ REnew",
+          "isCorrect": false
+        },
+        {
+          "text": "ReCon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_19_E",
+      "corpus": "What is the main goal of PepsiCo’s sustainable packaging vision?",
+      "options": [
+        {
+          "text": "Increase packaging weight",
+          "isCorrect": false
+        },
+        {
+          "text": "Create a world where packaging never becomes waste",
+          "isCorrect": true
+        },
+        {
+          "text": "Focus on single-use plastics",
+          "isCorrect": false
+        },
+        {
+          "text": "Reduce beverage calories",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_20_E",
+      "corpus": "Which beverage product in Taiwan was introduced with a 100% rPET bottle in 2024?",
+      "options": [
+        {
+          "text": "Pepsi®",
+          "isCorrect": false
+        },
+        {
+          "text": "7UP®",
+          "isCorrect": true
+        },
+        {
+          "text": "Gatorade®",
+          "isCorrect": false
+        },
+        {
+          "text": "Mountain Dew®",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_21_E",
+      "corpus": "PepsiCo’s net water positive vision aims to replenish water in which areas by 2030?",
+      "options": [
+        {
+          "text": "All company facilities",
+          "isCorrect": false
+        },
+        {
+          "text": "High water-risk areas",
+          "isCorrect": true
+        },
+        {
+          "text": "Urban areas only",
+          "isCorrect": false
+        },
+        {
+          "text": "Agricultural fields only",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_22_E",
+      "corpus": "What is the water-use efficiency target for high water-risk beverage sites by 2030?",
+      "options": [
+        {
+          "text": "2.0 liters/liter",
+          "isCorrect": false
+        },
+        {
+          "text": "1.7 liters/liter",
+          "isCorrect": false
+        },
+        {
+          "text": "1.4 liters/liter",
+          "isCorrect": true
+        },
+        {
+          "text": "1.0 liters/liter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_23_E",
+      "corpus": "Which program helps PepsiCo employees identify opportunities for energy and water savings at manufacturing sites?",
+      "options": [
+        {
+          "text": "Green Teams",
+          "isCorrect": false
+        },
+        {
+          "text": "ReCon",
+          "isCorrect": true
+        },
+        {
+          "text": "pep+ REnew",
+          "isCorrect": false
+        },
+        {
+          "text": "Positive Choices",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_24_E",
+      "corpus": "By 2025, PepsiCo aims to achieve what percentage of water replenishment at company-owned facilities in high water-risk areas?",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "75%",
+          "isCorrect": false
+        },
+        {
+          "text": "86%",
+          "isCorrect": false
+        },
+        {
+          "text": "100%",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_25_E",
+      "corpus": "Which global partnership is PepsiCo part of to adopt water stewardship standards in high water-risk facilities?",
+      "options": [
+        {
+          "text": "Alliance for Water Stewardship (AWS)",
+          "isCorrect": true
+        },
+        {
+          "text": "World Water Council",
+          "isCorrect": false
+        },
+        {
+          "text": "Water.org",
+          "isCorrect": false
+        },
+        {
+          "text": "UN Water",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_26_E",
+      "corpus": "What is the main goal of PepsiCo’s Positive Agriculture agenda?",
+      "options": [
+        {
+          "text": "Increase beverage sales",
+          "isCorrect": false
+        },
+        {
+          "text": "Promote regenerative, restorative, or protective farming practices",
+          "isCorrect": true
+        },
+        {
+          "text": "Reduce packaging waste",
+          "isCorrect": false
+        },
+        {
+          "text": "Expand urban farming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_27_E",
+      "corpus": "Which of the following is NOT an impact area of regenerative agriculture according to PepsiCo?",
+      "options": [
+        {
+          "text": "Build soil health and fertility",
+          "isCorrect": false
+        },
+        {
+          "text": "Enhance biodiversity",
+          "isCorrect": false
+        },
+        {
+          "text": "Increase beverage calories",
+          "isCorrect": true
+        },
+        {
+          "text": "Improve watershed health",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_28_E",
+      "corpus": "PepsiCo’s Sustainable Farming Program (SFP) focuses on which of the following?",
+      "options": [
+        {
+          "text": "Urban gardening",
+          "isCorrect": false
+        },
+        {
+          "text": "Farm-level engagement and continuous improvement",
+          "isCorrect": true
+        },
+        {
+          "text": "Reducing beverage sugar",
+          "isCorrect": false
+        },
+        {
+          "text": "Increasing packaging weight",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_29_E",
+      "corpus": "What percentage of PepsiCo’s key ingredients were sustainably sourced in 2024?",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "66%",
+          "isCorrect": true
+        },
+        {
+          "text": "90%",
+          "isCorrect": false
+        },
+        {
+          "text": "100%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_30_E",
+      "corpus": "Which partnership aims to help farmers adopt water-efficient technology globally?",
+      "options": [
+        {
+          "text": "N-Drip partnership",
+          "isCorrect": true
+        },
+        {
+          "text": "Green Bond",
+          "isCorrect": false
+        },
+        {
+          "text": "pep+ REnew",
+          "isCorrect": false
+        },
+        {
+          "text": "ReCon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_31_E",
+      "corpus": "PepsiCo’s Positive Agriculture Outcomes Accelerator provides support for what?",
+      "options": [
+        {
+          "text": "Beverage innovation",
+          "isCorrect": false
+        },
+        {
+          "text": "Local teams to design and scale innovative agricultural solutions",
+          "isCorrect": true
+        },
+        {
+          "text": "Packaging design",
+          "isCorrect": false
+        },
+        {
+          "text": "Employee training",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_32_E",
+      "corpus": "What is the main purpose of PepsiCo’s Livelihoods Implementation Framework for Engagement (LIFE)?",
+      "options": [
+        {
+          "text": "Increase beverage sales",
+          "isCorrect": false
+        },
+        {
+          "text": "Advance economic prosperity, security, and inclusion for farmers",
+          "isCorrect": true
+        },
+        {
+          "text": "Reduce packaging costs",
+          "isCorrect": false
+        },
+        {
+          "text": "Promote urban farming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_33_E",
+      "corpus": "What is PepsiCo’s target year for achieving net-zero emissions across its value chain?",
+      "options": [
+        {
+          "text": "2025",
+          "isCorrect": false
+        },
+        {
+          "text": "2030",
+          "isCorrect": false
+        },
+        {
+          "text": "2050",
+          "isCorrect": true
+        },
+        {
+          "text": "2040",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_34_E",
+      "corpus": "By 2030, PepsiCo aims to achieve what percentage reduction in Scope 1 and 2 emissions (vs 2022 baseline)?",
+      "options": [
+        {
+          "text": "18%",
+          "isCorrect": false
+        },
+        {
+          "text": "30%",
+          "isCorrect": false
+        },
+        {
+          "text": "50%",
+          "isCorrect": true
+        },
+        {
+          "text": "42%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_35_E",
+      "corpus": "What percentage of PepsiCo’s direct global electricity needs were met with renewable electricity in 2024?",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "75%",
+          "isCorrect": false
+        },
+        {
+          "text": "89%",
+          "isCorrect": true
+        },
+        {
+          "text": "100%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_36_E",
+      "corpus": "How many billion portions of diverse ingredients does PepsiCo aim to deliver annually in its convenient foods portfolio by 2030?",
+      "options": [
+        {
+          "text": "69 billion",
+          "isCorrect": false
+        },
+        {
+          "text": "145 billion",
+          "isCorrect": true
+        },
+        {
+          "text": "100 billion",
+          "isCorrect": false
+        },
+        {
+          "text": "200 billion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_37_E",
+      "corpus": "What was the percentage of convenient foods portfolio volume not exceeding 1.3 mg of sodium per Calorie in 2024?",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "67%",
+          "isCorrect": false
+        },
+        {
+          "text": "77%",
+          "isCorrect": true
+        },
+        {
+          "text": "100%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_38_E",
+      "corpus": "What is the target for water replenishment at company-owned facilities in high water-risk areas by 2025?",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "75%",
+          "isCorrect": false
+        },
+        {
+          "text": "86%",
+          "isCorrect": false
+        },
+        {
+          "text": "100%",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_39_E",
+      "corpus": "What is the percentage of primary & secondary packaging in key markets designed to be reusable, recyclable, or compostable in 2024?",
+      "options": [
+        {
+          "text": "80%",
+          "isCorrect": false
+        },
+        {
+          "text": "93%",
+          "isCorrect": true
+        },
+        {
+          "text": "97%",
+          "isCorrect": false
+        },
+        {
+          "text": "100%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_40_E",
+      "corpus": "How many people does PepsiCo aim to reach with safe water access by 2030?",
+      "options": [
+        {
+          "text": "10 million",
+          "isCorrect": false
+        },
+        {
+          "text": "50 million",
+          "isCorrect": false
+        },
+        {
+          "text": "100 million",
+          "isCorrect": true
+        },
+        {
+          "text": "1 billion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_41_E",
+      "corpus": "What was PepsiCo’s Organizational Health Survey Score in 2024?",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "78%",
+          "isCorrect": true
+        },
+        {
+          "text": "90%",
+          "isCorrect": false
+        },
+        {
+          "text": "100%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionId": "q_6_42_E",
+      "corpus": "What is the targeted reduction in Scope 3 Energy & Industry emissions by 2030 (vs 2022 baseline)?",
+      "options": [
+        {
+          "text": "18%",
+          "isCorrect": false
+        },
+        {
+          "text": "30%",
+          "isCorrect": false
+        },
+        {
+          "text": "42%",
+          "isCorrect": true
+        },
+        {
+          "text": "50%",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+    }
+  ]
+}
