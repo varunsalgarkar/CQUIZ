@@ -1,227 +1,249 @@
 {
-  "quizTitle": "OSAAT & NGO Quiz",
-  "description": "OSAAT & NGO Quiz Bank - 100 Questions",
+  "quizTitle": "NPI Tool & Process, Migration, Platform Engineering, Data Engineering, Finops & Modernisation, D&AI Architecture, and DevSecOps Knowledge Check",
+  "description": "Comprehensive Knowledge Check Question Bank",
   "sections": [
     {
       "sectionId": "section_1",
-      "title": "OSAAT & NGO Quiz",
+      "title": "NPI Tool & Process Knowledge Check",
       "questions": [
         {
           "questionId": "q_1",
-          "corpus": "What does OSAAT stand for?",
+          "corpus": "1. A business user wants to explore data by asking questions such as “Which markets are underperforming?” or “What changed versus last month?” without writing SQL. Which tool would best support this?",
           "options": [
             {
-              "text": "One Smile at a Time",
+              "text": "A. Datalogz",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Genie",
               "isCorrect": true
             },
             {
-              "text": "One Step at a Time",
+              "text": "C. Lakebase",
               "isCorrect": false
             },
             {
-              "text": "Our Support at All Times",
-              "isCorrect": false
-            },
-            {
-              "text": "One Service Across All Teams",
+              "text": "D. Structurizr",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_2",
-          "corpus": "Which description best captures OSAAT?",
+          "corpus": "2. A team needs to provide another team with governed access to Databricks data, while avoiding unnecessary duplication of the data. Which tool fits best?",
           "options": [
             {
-              "text": "A product promotion campaign",
+              "text": "A. Lakebase",
               "isCorrect": false
             },
             {
-              "text": "A global volunteering program designed for associates",
+              "text": "B. Databricks Apps",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Delta Sharing",
               "isCorrect": true
             },
             {
-              "text": "A sales-learning platform",
-              "isCorrect": false
-            },
-            {
-              "text": "An employee benefits portal",
+              "text": "D. Altimate AI",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_3",
-          "corpus": "What is the main purpose of OSAAT?",
+          "corpus": "3. A team wants to turn a Databricks-based solution into an interactive application with a user interface, rather than having users work directly with notebooks. Which option fits this requirement?",
           "options": [
             {
-              "text": "Increase product visibility",
-              "isCorrect": false
-            },
-            {
-              "text": "Support recruitment campaigns",
-              "isCorrect": false
-            },
-            {
-              "text": "Enable associates to volunteer and create community impact",
+              "text": "A. Databricks Apps",
               "isCorrect": true
             },
             {
-              "text": "Track sales performance",
+              "text": "B. Genie",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Delta Sharing",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Datalogz",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_4",
-          "corpus": "Through OSAAT, associates can primarily contribute by...",
+          "corpus": "4. An AI-powered application needs to handle frequent, low-latency transactions while remaining closely integrated with the Databricks ecosystem. Which technology best fits this scenario?",
           "options": [
             {
-              "text": "Volunteering their time, effort and skills",
+              "text": "A. Genie",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Lakebase",
               "isCorrect": true
             },
             {
-              "text": "Buying products",
+              "text": "C. Delta Sharing",
               "isCorrect": false
             },
             {
-              "text": "Attending only internal meetings",
-              "isCorrect": false
-            },
-            {
-              "text": "Completing mandatory surveys",
+              "text": "D. Mapbox",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_5",
-          "corpus": "Which statement best reflects the spirit of OSAAT?",
+          "corpus": "5. During a FinOps exercise, the team identified orphaned ML endpoints and failing jobs contributing to unnecessary Databricks compute spend. Which tool helped identify these optimization opportunities?",
           "options": [
             {
-              "text": "Only large events matter",
+              "text": "A. Altimate AI",
               "isCorrect": false
             },
             {
-              "text": "Volunteering is mainly about recognition",
-              "isCorrect": false
-            },
-            {
-              "text": "Only specialists can create impact",
-              "isCorrect": false
-            },
-            {
-              "text": "Individual actions can combine to create meaningful collective impact",
+              "text": "B. Datalogz",
               "isCorrect": true
+            },
+            {
+              "text": "C. Structurizr",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Genie",
+              "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_6",
-          "corpus": "What should be at the center of an OSAAT activity?",
+          "corpus": "6. The architecture team wants to move from static architecture diagrams to version-controlled C4 models integrated with Git, PRs and CI/CD. Which tool is the best fit?",
           "options": [
             {
-              "text": "The volunteer photo opportunity",
+              "text": "A. EPI-USE",
               "isCorrect": false
             },
             {
-              "text": "A genuine community need and meaningful contribution",
+              "text": "B. Structurizr",
               "isCorrect": true
             },
             {
-              "text": "The number of senior leaders attending",
+              "text": "C. Quick BI / Smart Q",
               "isCorrect": false
             },
             {
-              "text": "The length of the event",
+              "text": "D. Datalogz",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_7",
-          "corpus": "Which outcome is most aligned with OSAAT?",
+          "corpus": "7. A team completes a technology evaluation and wants the learnings, guidelines and best practices to remain accessible and reusable across teams. Which tool would be most appropriate?",
           "options": [
             {
-              "text": "Positive impact on people, communities or the environment",
+              "text": "A. Confluence",
               "isCorrect": true
             },
             {
-              "text": "Increased market share",
+              "text": "B. Lakebase",
               "isCorrect": false
             },
             {
-              "text": "More advertising impressions",
+              "text": "C. Altimate AI",
               "isCorrect": false
             },
             {
-              "text": "Higher product sales",
+              "text": "D. Databricks Apps",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_8",
-          "corpus": "Which contribution can count as volunteering?",
+          "corpus": "8. NPI Process\nA new technology is identified to address a business need. What should happen before moving toward a pilot?",
           "options": [
             {
-              "text": "Only physical labor",
+              "text": "A. Procure the tool and start development immediately",
               "isCorrect": false
             },
             {
-              "text": "Only financial donations",
-              "isCorrect": false
-            },
-            {
-              "text": "Time, skills or hands-on support that helps a cause",
+              "text": "B. Understand the requirement, evaluate the tool, assess its value and obtain the required approvals",
               "isCorrect": true
             },
             {
-              "text": "Only activities lasting a full day",
+              "text": "C. Deploy it to production and seek approval afterward",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Start using the tool with one team and formalize the process later",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_9",
-          "corpus": "Why can a short volunteering activity still be meaningful?",
+          "corpus": "9. North Star Architecture\nWhich tool is the finalized choice for Agent Orchestration & Planning?",
           "options": [
             {
-              "text": "Short events are always better",
+              "text": "A. LangGraph",
               "isCorrect": false
             },
             {
-              "text": "Impact depends on the value created, not only the duration",
+              "text": "B. Temporal",
               "isCorrect": true
             },
             {
-              "text": "Short events automatically count as a full day",
+              "text": "C. Apigee",
               "isCorrect": false
             },
             {
-              "text": "Because attendance matters more than impact",
+              "text": "D. Arize",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_10",
-          "corpus": "What is the strongest sign that an OSAAT activity is meaningful?",
+          "corpus": "10. North Star Architecture\nWhich tool is the selected solution for AI Evaluation within the Guardrails & Quality Assurance layer?",
           "options": [
             {
-              "text": "It generates many photos",
+              "text": "A. Credo AI",
               "isCorrect": false
             },
             {
-              "text": "It has the largest possible crowd",
-              "isCorrect": false
-            },
-            {
-              "text": "It addresses an identified need and creates useful benefit",
+              "text": "B. Arize",
               "isCorrect": true
             },
             {
-              "text": "It lasts several hours",
+              "text": "C. Zscaler",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Rubrik",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_11",
+          "corpus": "11. What is Zscaler primarily used for?",
+          "options": [
+            {
+              "text": "A. Securely connecting users to applications and internet resources through a cloud-based security platform",
+              "isCorrect": true
+            },
+            {
+              "text": "B. Managing user identities, authentication, and access permissions across enterprise applications",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Monitoring application performance, network latency, and infrastructure health",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Detecting and responding to security incidents through centralized threat monitoring",
               "isCorrect": false
             }
           ]
@@ -230,225 +252,533 @@
     },
     {
       "sectionId": "section_2",
-      "title": "OSAAT Portal",
+      "title": "Migration Team",
       "questions": [
         {
-          "questionId": "q_11",
-          "corpus": "Which OSAAT portal feature helps associates discover available volunteering opportunities?",
-          "options": [
-            {
-              "text": "Search & Sign Up",
-              "isCorrect": true
-            },
-            {
-              "text": "Log Hours",
-              "isCorrect": false
-            },
-            {
-              "text": "Create an Event",
-              "isCorrect": false
-            },
-            {
-              "text": "Account Settings",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
           "questionId": "q_12",
-          "corpus": "Which portal feature is most appropriate when an associate wants to organize a volunteering opportunity?",
+          "corpus": "What is the primary goal of a data migration?",
           "options": [
             {
-              "text": "Areas to Give Back",
+              "text": "A. Increase internet bandwidth",
               "isCorrect": false
             },
             {
-              "text": "Log Hours",
-              "isCorrect": false
-            },
-            {
-              "text": "Search & Sign Up",
-              "isCorrect": false
-            },
-            {
-              "text": "Create an Event",
+              "text": "B. Move data from one system or platform to another",
               "isCorrect": true
+            },
+            {
+              "text": "C. Design application screens",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Create more user accounts",
+              "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_13",
-          "corpus": "Which OSAAT portal action is most relevant after completing a volunteering activity?",
+          "corpus": "2. During a migration, why is data validation important?",
           "options": [
             {
-              "text": "Create another profile",
+              "text": "A. To create new source systems",
               "isCorrect": false
             },
             {
-              "text": "Log Hours",
+              "text": "B. To replace all transformation logic",
+              "isCorrect": false
+            },
+            {
+              "text": "C. To confirm migrated data is complete and accurate",
               "isCorrect": true
             },
             {
-              "text": "Search & Sign Up",
-              "isCorrect": false
-            },
-            {
-              "text": "Change location",
+              "text": "D. To automatically increase storage capacity",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_14",
-          "corpus": "Why is the 'Areas to Give Back' section useful?",
+          "corpus": "3. In an ETL migration, what does the 'T' represent?",
           "options": [
             {
-              "text": "It helps associates explore different causes and ways to contribute",
+              "text": "A. Track",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Transfer",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Test",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Transform",
               "isCorrect": true
-            },
-            {
-              "text": "It records attendance automatically",
-              "isCorrect": false
-            },
-            {
-              "text": "It replaces NGO partners",
-              "isCorrect": false
-            },
-            {
-              "text": "It manages payroll",
-              "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_15",
-          "corpus": "An associate wants to volunteer but has no specific event in mind. What is the most logical first step?",
+          "corpus": "4. Which Azure service is commonly used to orchestrate data integration and migration pipelines?",
           "options": [
             {
-              "text": "Log hours immediately",
+              "text": "A. Azure Container Registry",
               "isCorrect": false
             },
             {
-              "text": "Create an event without checking existing options",
+              "text": "B. Azure Key Vault",
               "isCorrect": false
             },
             {
-              "text": "Explore Areas to Give Back or Search & Sign Up",
+              "text": "C. Azure Application Insights",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Azure Data Factory",
               "isCorrect": true
-            },
-            {
-              "text": "Wait for an invitation",
-              "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_16",
-          "corpus": "What should an associate review before signing up for an event?",
+          "corpus": "5. In a migration from Hive Metastore (HMS) to Unity Catalog (UC), what is one of the main objectives?",
           "options": [
             {
-              "text": "Only the event title",
+              "text": "A. Replace all Delta tables with CSV files",
               "isCorrect": false
             },
             {
-              "text": "Date, time, location, purpose and participation requirements",
+              "text": "B. Remove all access controls",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Move governance and metadata management to Unity Catalog",
               "isCorrect": true
             },
             {
-              "text": "Only the organizer's name",
-              "isCorrect": false
-            },
-            {
-              "text": "Only the number of volunteers",
+              "text": "D. Disable Databricks workspaces",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_17",
-          "corpus": "Why is accurate event registration important?",
+          "corpus": "6. What is a key difference between Hive Metastore and Unity Catalog in Databricks?",
           "options": [
             {
-              "text": "It helps organizers plan capacity, materials and logistics",
+              "text": "A. Unity Catalog cannot manage tables",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Hive Metastore can only store CSV files",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Hive Metastore is a cloud storage service",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Unity Catalog provides centralized governance across workspaces",
               "isCorrect": true
-            },
-            {
-              "text": "It guarantees recognition",
-              "isCorrect": false
-            },
-            {
-              "text": "It replaces attendance tracking",
-              "isCorrect": false
-            },
-            {
-              "text": "It creates a donation automatically",
-              "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_18",
-          "corpus": "Which sequence best represents a typical OSAAT volunteer journey?",
+          "corpus": "7. In Unity Catalog, which hierarchy is used to organize data objects?",
           "options": [
             {
-              "text": "Log Hours → Search → Sign Up → Participate",
-              "isCorrect": false
-            },
-            {
-              "text": "Search → Sign Up → Participate → Log Hours",
+              "text": "A. Catalog → Schema → Table",
               "isCorrect": true
             },
             {
-              "text": "Create Event → Log Hours → Participate → Search",
+              "text": "B. Workspace → Pipeline → File",
               "isCorrect": false
             },
             {
-              "text": "Participate → Search → Sign Up → Log Hours",
+              "text": "C. Cluster → Notebook → Table",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Server → Database → Folder",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_19",
-          "corpus": "Why should volunteer hours be logged accurately?",
+          "corpus": "8. A team migrates an existing HMS external table to Unity Catalog while keeping the underlying data files in the same cloud storage location. What is an important consideration?",
           "options": [
             {
-              "text": "To increase compensation",
-              "isCorrect": false
-            },
-            {
-              "text": "To unlock travel benefits",
-              "isCorrect": false
-            },
-            {
-              "text": "To help capture participation and impact reliably",
+              "text": "A. The UC external table must be configured with the appropriate storage location and permissions",
               "isCorrect": true
             },
             {
-              "text": "To replace event feedback",
+              "text": "B. The source data must be moved to a local laptop",
+              "isCorrect": false
+            },
+            {
+              "text": "C. The data must always be converted to JSON",
+              "isCorrect": false
+            },
+            {
+              "text": "D. The underlying data must always be deleted first",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_20",
-          "corpus": "An associate signs up for an event but does not participate. What should they do about volunteer hours?",
+          "corpus": "9. What is the primary purpose of a Unity Catalog external table?",
           "options": [
             {
-              "text": "Log the planned hours",
+              "text": "A. Replace ADF pipelines",
               "isCorrect": false
             },
             {
-              "text": "Log half the planned hours",
+              "text": "B. Create virtual machines",
               "isCorrect": false
             },
             {
-              "text": "Ask another person to log on their behalf",
-              "isCorrect": false
-            },
-            {
-              "text": "Do not log hours that were not actually volunteered",
+              "text": "C. Manage metadata and governance for data stored at an external location",
               "isCorrect": true
+            },
+            {
+              "text": "D. Store application passwords",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_21",
+          "corpus": "10. During HMS to UC migration, why is it important to validate row counts between source and target tables?",
+          "options": [
+            {
+              "text": "A. To automatically grant table permissions",
+              "isCorrect": false
+            },
+            {
+              "text": "B. To verify network latency only",
+              "isCorrect": false
+            },
+            {
+              "text": "C. To create a new catalog",
+              "isCorrect": false
+            },
+            {
+              "text": "D. To identify possible missing or extra records",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_22",
+          "corpus": "11. Two migrated tables have identical record counts, but some column values differ. What does this indicate?",
+          "options": [
+            {
+              "text": "A. The target table must be deleted",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Count validation passed but data-content validation identified differences",
+              "isCorrect": true
+            },
+            {
+              "text": "C. The tables contain no data",
+              "isCorrect": false
+            },
+            {
+              "text": "D. The migration is automatically fully successful",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_23",
+          "corpus": "12. What is a common reason for data differences when two migration pipelines run at different times against frequently changing source data?",
+          "options": [
+            {
+              "text": "A. Unity Catalog converts all dates randomly",
+              "isCorrect": false
+            },
+            {
+              "text": "B. The table names automatically change",
+              "isCorrect": false
+            },
+            {
+              "text": "C. The pipelines may read different source-data snapshots",
+              "isCorrect": true
+            },
+            {
+              "text": "D. ADF always removes duplicate rows",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_24",
+          "corpus": "12. Which Databricks object is commonly used to represent a database namespace in Unity Catalog?",
+          "options": [
+            {
+              "text": "A. Cluster",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Schema",
+              "isCorrect": true
+            },
+            {
+              "text": "C. Pipeline",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Notebook",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_25",
+          "corpus": "13. Why should migration teams inventory notebooks, tables, pipelines, and dependencies before migration?",
+          "options": [
+            {
+              "text": "A. To eliminate the need for testing",
+              "isCorrect": false
+            },
+            {
+              "text": "B. To increase the number of source records",
+              "isCorrect": false
+            },
+            {
+              "text": "C. To automatically migrate every object",
+              "isCorrect": false
+            },
+            {
+              "text": "D. To understand the migration scope and identify dependencies",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_26",
+          "corpus": "14. In a Synapse-to-Databricks migration, which activity is especially important when replacing Synapse SQL-based transformations?",
+          "options": [
+            {
+              "text": "A. Disable the target environment",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Assess and translate the existing SQL and transformation logic",
+              "isCorrect": true
+            },
+            {
+              "text": "C. Rename every source column randomly",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Delete all historical data",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_27",
+          "corpus": "15. Which Azure service is commonly used to orchestrate migration pipelines involving Databricks and other data services?",
+          "options": [
+            {
+              "text": "A. Azure Data Factory",
+              "isCorrect": true
+            },
+            {
+              "text": "B. Azure Monitor",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Azure Container Registry",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Azure Key Vault",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_28",
+          "corpus": "16. During migration, what is the purpose of a dry run?",
+          "options": [
+            {
+              "text": "A. Permanently delete the source environment",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Disable all validation checks",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Test the migration process before the actual cutover",
+              "isCorrect": true
+            },
+            {
+              "text": "D. Increase database licensing costs",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_29",
+          "corpus": "17. In a migration, what does 'cutover' generally refer to?",
+          "options": [
+            {
+              "text": "A. Switching production usage from the old platform to the new platform",
+              "isCorrect": true
+            },
+            {
+              "text": "B. Creating a development notebook",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Adding a new storage account",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Running a developer training session",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_30",
+          "corpus": "18. Why are permissions an important part of an HMS to Unity Catalog migration?",
+          "options": [
+            {
+              "text": "A. Permissions only affect notebook formatting",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Users and service principals need appropriate access to migrated objects",
+              "isCorrect": true
+            },
+            {
+              "text": "C. Permissions have no effect on migration pipelines",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Permissions are needed only after the migration is deleted",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_31",
+          "corpus": "19. A migration pipeline fails because its service principal cannot SELECT from a source schema. What is the most direct fix?",
+          "options": [
+            {
+              "text": "A. Delete the source schema",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Change the table to CSV",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Restart the user's laptop",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Grant the required SELECT access to the service principal",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_32",
+          "corpus": "20. What is a major advantage of Delta Lake in a Databricks migration architecture?",
+          "options": [
+            {
+              "text": "A. It prevents all data transformations",
+              "isCorrect": false
+            },
+            {
+              "text": "B. It provides transactional capabilities and reliable data management on data lakes",
+              "isCorrect": true
+            },
+            {
+              "text": "C. It requires every dataset to be stored in Excel",
+              "isCorrect": false
+            },
+            {
+              "text": "D. It eliminates the need for cloud storage",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_33",
+          "corpus": "21. When migrating a Synapse workload to Databricks, why should performance be validated after functional correctness?",
+          "options": [
+            {
+              "text": "A. Equivalent results do not guarantee equivalent performance",
+              "isCorrect": true
+            },
+            {
+              "text": "B. Performance is unrelated to migration",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Performance testing replaces data validation",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Correct results always guarantee faster execution",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_34",
+          "corpus": "21. Which validation approach provides stronger confidence than checking only table row counts after migration?",
+          "options": [
+            {
+              "text": "A. Check only the notebook title",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Check only the table name",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Check only whether the table exists",
+              "isCorrect": false
+            },
+            {
+              "text": "D. Compare counts and compare relevant data values",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_35",
+          "corpus": "22. Which sequence is generally the safest approach for a major platform migration?",
+          "options": [
+            {
+              "text": "A. Cut over → Inventory → Delete → Test",
+              "isCorrect": false
+            },
+            {
+              "text": "B. Delete → Migrate → Discover → Validate",
+              "isCorrect": false
+            },
+            {
+              "text": "C. Inventory → Assess → Migrate → Validate → Cut over → Monitor",
+              "isCorrect": true
+            },
+            {
+              "text": "D. Migrate → Delete source → Discover dependencies → Test",
+              "isCorrect": false
             }
           ]
         }
@@ -456,224 +786,224 @@
     },
     {
       "sectionId": "section_3",
-      "title": "Volunteering Principles",
+      "title": "Platform Engineering",
       "questions": [
         {
-          "questionId": "q_21",
-          "corpus": "What is skills-based volunteering?",
+          "questionId": "q_36",
+          "corpus": "1. What is the primary objective of Platform Engineering?",
           "options": [
             {
-              "text": "Using professional or personal expertise to support a cause",
-              "isCorrect": true
-            },
-            {
-              "text": "Only performing physical work",
+              "text": "a) Standardized infrastructure, tooling, and operational processes",
               "isCorrect": false
             },
             {
-              "text": "Donating equipment",
+              "text": "b) Provide secure, scalable, and reusable platform services that accelerate delivery",
               "isCorrect": false
             },
             {
-              "text": "Attending a training course",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_22",
-          "corpus": "Which is the best example of skills-based volunteering?",
-          "options": [
-            {
-              "text": "Taking event photos for yourself",
+              "text": "c) Centralized governance, reliability, and operational excellence across enterprise platforms",
               "isCorrect": false
             },
             {
-              "text": "Teaching students coding or career skills",
-              "isCorrect": true
-            },
-            {
-              "text": "Buying lunch for colleagues",
-              "isCorrect": false
-            },
-            {
-              "text": "Watching an NGO presentation",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_23",
-          "corpus": "Which is an example of hands-on volunteering?",
-          "options": [
-            {
-              "text": "Reading an NGO website",
-              "isCorrect": false
-            },
-            {
-              "text": "Completing an internal survey",
-              "isCorrect": false
-            },
-            {
-              "text": "Packing meals for distribution",
-              "isCorrect": true
-            },
-            {
-              "text": "Joining a status meeting",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_24",
-          "corpus": "What makes volunteering more impactful?",
-          "options": [
-            {
-              "text": "Working in isolation",
-              "isCorrect": false
-            },
-            {
-              "text": "Avoiding beneficiary interaction entirely",
-              "isCorrect": false
-            },
-            {
-              "text": "Only donating money",
-              "isCorrect": false
-            },
-            {
-              "text": "Working together toward a clear community need",
+              "text": "d) All of the Above",
               "isCorrect": true
             }
           ]
         },
         {
-          "questionId": "q_25",
-          "corpus": "What should a volunteer do if they do not understand their assigned task?",
+          "questionId": "q_37",
+          "corpus": "2. A PepsiCo Application needs to ingest and process millions of events per day, support real-time analytics, retain historical events, and allow consumers to replay past events when needed. Which technology is generally the best fit?",
           "options": [
             {
-              "text": "Guess and continue",
-              "isCorrect": false
-            },
-            {
-              "text": "Ask the event organizer or NGO representative for guidance",
+              "text": "a) Kafka",
               "isCorrect": true
             },
             {
-              "text": "Leave without telling anyone",
+              "text": "b) TIBCO EMS",
               "isCorrect": false
             },
             {
-              "text": "Change the task independently",
+              "text": "c) IBM MQ",
+              "isCorrect": false
+            },
+            {
+              "text": "d) Azure Service Bus",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_26",
-          "corpus": "What best describes responsible volunteering?",
+          "questionId": "q_38",
+          "corpus": "3. What is the primary purpose of an enterprise data integration platform such as Informatica IICS?",
           "options": [
             {
-              "text": "Doing whatever the volunteer prefers",
-              "isCorrect": false
-            },
-            {
-              "text": "Completing as many activities as possible",
-              "isCorrect": false
-            },
-            {
-              "text": "Contributing in a way that respects need, safety and dignity",
+              "text": "a) Enable enterprise-wide data integration, transformation, orchestration, and governance across applications, databases, APIs, and cloud platforms.",
               "isCorrect": true
             },
             {
-              "text": "Focusing primarily on recognition",
+              "text": "b) Provide centralized storage and governance for enterprise datasets",
+              "isCorrect": false
+            },
+            {
+              "text": "c) Enable real-time analytics and dashboard visualization for business users",
+              "isCorrect": false
+            },
+            {
+              "text": "d) Manage infrastructure provisioning and workload scheduling across cloud environments",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_27",
-          "corpus": "Which statement about volunteering is most accurate?",
+          "questionId": "q_39",
+          "corpus": "4. In Informatica PowerCenter, which approach generally improves session performance when handling large fact loads?",
           "options": [
             {
-              "text": "Different opportunities can require different skills, time commitments and forms of participation",
+              "text": "a) Increase commit interval to a very small number (e.g., 10)",
+              "isCorrect": false
+            },
+            {
+              "text": "b) Enable pipeline partitioning where possible",
               "isCorrect": true
             },
             {
-              "text": "Every event must be outdoors",
+              "text": "c) Disable pushdown optimization always",
               "isCorrect": false
             },
             {
-              "text": "Every volunteer must have specialist knowledge",
-              "isCorrect": false
-            },
-            {
-              "text": "Every event must last a full day",
+              "text": "d) Use Normalizer everywhere",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_28",
-          "corpus": "Why is teamwork useful during a volunteer activity?",
+          "questionId": "q_40",
+          "corpus": "5. In an SCD Type 2 implementation, what is the primary purpose of an “effective end date” column?",
           "options": [
             {
-              "text": "It removes the need for an NGO partner",
+              "text": "a) Store last ETL run timestamp",
               "isCorrect": false
             },
             {
-              "text": "It guarantees the event will end early",
-              "isCorrect": false
-            },
-            {
-              "text": "It lets people combine efforts and complete tasks more effectively",
+              "text": "b) Identify current active record and historical versions",
               "isCorrect": true
             },
             {
-              "text": "It eliminates planning",
+              "text": "c) Force join order in lookup",
+              "isCorrect": false
+            },
+            {
+              "text": "d) Replace surrogate key",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_29",
-          "corpus": "Which approach best supports meaningful volunteering?",
+          "questionId": "q_41",
+          "corpus": "6. In Apache, what does a reverse proxy typically do in platform architectures?",
           "options": [
             {
-              "text": "Choose only activities that are easy to organize",
+              "text": "a) Routes outbound traffic from servers to internet",
               "isCorrect": false
             },
             {
-              "text": "Understand the need before deciding how to help",
+              "text": "b) Routes inbound client traffic to backend services",
               "isCorrect": true
             },
             {
-              "text": "Repeat the same activity for every community",
+              "text": "c) Replaces DNS for internal services",
               "isCorrect": false
             },
             {
-              "text": "Measure only volunteer headcount",
+              "text": "d) Acts as a database connection pool",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_30",
-          "corpus": "Which statement is most accurate about volunteer impact?",
+          "questionId": "q_42",
+          "corpus": "7. In WebLogic, what does a Managed Server primarily represent?",
           "options": [
             {
-              "text": "Longer events always create more impact",
-              "isCorrect": false
-            },
-            {
-              "text": "The number of volunteers alone proves success",
-              "isCorrect": false
-            },
-            {
-              "text": "Meaningful impact depends on what changes or improves because of the activity",
+              "text": "a) A JVM instance running application workloads under a Domain",
               "isCorrect": true
             },
             {
-              "text": "Impact can only be measured financially",
+              "text": "b) A physical server in the data center",
+              "isCorrect": false
+            },
+            {
+              "text": "c) A database listener",
+              "isCorrect": false
+            },
+            {
+              "text": "d) A web browser plugin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_43",
+          "corpus": "8. WebLogic clustering primarily helps with:",
+          "options": [
+            {
+              "text": "a) Increasing compile-time performance",
+              "isCorrect": false
+            },
+            {
+              "text": "b) High availability and scalability of applications",
+              "isCorrect": true
+            },
+            {
+              "text": "c) Eliminating need for TLS certificates",
+              "isCorrect": false
+            },
+            {
+              "text": "d) Reducing heap usage always",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_44",
+          "corpus": "9. What happens when you increase the number of partitions for an existing topic?",
+          "options": [
+            {
+              "text": "a) Existing messages are automatically rebalanced into new partitions",
+              "isCorrect": false
+            },
+            {
+              "text": "b) Only new messages will be distributed across the new partition count",
+              "isCorrect": true
+            },
+            {
+              "text": "c) Consumer group offsets are deleted",
+              "isCorrect": false
+            },
+            {
+              "text": "d) Topic retention is reset to default",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_45",
+          "corpus": "10. In a consumer group, what is the effect of having more consumers than partitions?",
+          "options": [
+            {
+              "text": "a) All consumers will read in parallel",
+              "isCorrect": false
+            },
+            {
+              "text": "b) Some consumers will be idle",
+              "isCorrect": true
+            },
+            {
+              "text": "c) Partitions will be duplicated to match consumers",
+              "isCorrect": false
+            },
+            {
+              "text": "d) Throughput always doubles",
               "isCorrect": false
             }
           ]
@@ -682,225 +1012,225 @@
     },
     {
       "sectionId": "section_4",
-      "title": "NGO Partnerships",
+      "title": "Data Engineering",
       "questions": [
         {
-          "questionId": "q_31",
-          "corpus": "What does NGO stand for?",
+          "questionId": "q_46",
+          "corpus": "1. What does ETL stand for in data engineering?",
           "options": [
             {
-              "text": "National Giving Office",
-              "isCorrect": false
-            },
-            {
-              "text": "Non-Governmental Organization",
+              "text": "a) Extract, Transform, Load",
               "isCorrect": true
             },
             {
-              "text": "Network Growth Operation",
+              "text": "b) Export, Transfer, Link",
               "isCorrect": false
             },
             {
-              "text": "New Global Organization",
+              "text": "c) Evaluate, Test, Launch",
+              "isCorrect": false
+            },
+            {
+              "text": "d) Extract, Test, Load",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_32",
-          "corpus": "Why does OSAAT collaborate with NGOs?",
+          "questionId": "q_47",
+          "corpus": "2. In the Medallion Architecture, which layer contains raw, unprocessed data?",
           "options": [
             {
-              "text": "To reach and support communities more effectively",
+              "text": "a) Gold",
+              "isCorrect": false
+            },
+            {
+              "text": "b) Silver",
+              "isCorrect": false
+            },
+            {
+              "text": "c) Bronze",
               "isCorrect": true
             },
             {
-              "text": "To conduct employee appraisals",
-              "isCorrect": false
-            },
-            {
-              "text": "To increase office space",
-              "isCorrect": false
-            },
-            {
-              "text": "To advertise products",
+              "text": "d) Platinum",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_33",
-          "corpus": "What is a common role of NGOs?",
+          "questionId": "q_48",
+          "corpus": "3. Which file format is optimized for ACID transactions and is commonly used in Databricks?",
           "options": [
             {
-              "text": "Managing stock markets",
+              "text": "a) CSV",
               "isCorrect": false
             },
             {
-              "text": "Setting corporate salaries",
+              "text": "b) Parquet",
               "isCorrect": false
             },
             {
-              "text": "Supporting social causes and community needs",
+              "text": "c) AVRO",
+              "isCorrect": false
+            },
+            {
+              "text": "d) Delta Lake",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_49",
+          "corpus": "4. What is the primary purpose of Unity Catalog in Databricks?",
+          "options": [
+            {
+              "text": "a) Job Scheduling",
+              "isCorrect": false
+            },
+            {
+              "text": "b) Cluster Auto Scaling",
+              "isCorrect": false
+            },
+            {
+              "text": "c) Data Visualization",
+              "isCorrect": false
+            },
+            {
+              "text": "d) Centralized data governance and metadata management",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_50",
+          "corpus": "5. Which PySpark operation is generally more efficient for adding multiple columns to a DataFrame?",
+          "options": [
+            {
+              "text": "a) Multiple .withColumn() calls",
+              "isCorrect": false
+            },
+            {
+              "text": "b) Single .select() with all transformations",
               "isCorrect": true
             },
             {
-              "text": "Manufacturing products",
+              "text": "c) Converting to pandas first",
+              "isCorrect": false
+            },
+            {
+              "text": "d) Using a UDF for each column",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_34",
-          "corpus": "Why can local NGO knowledge be especially valuable?",
+          "questionId": "q_51",
+          "corpus": "6. What is a \"broadcast join\" used for in Spark?",
           "options": [
             {
-              "text": "NGOs can approve employee leave",
+              "text": "a) Joining two very large tables",
               "isCorrect": false
             },
             {
-              "text": "They often understand local needs, culture and practical challenges",
+              "text": "b) Sending a small DataFrame to all executor nodes to avoid shuffling",
               "isCorrect": true
             },
             {
-              "text": "They always have unlimited volunteers",
+              "text": "c) Broadcasting job status to a dashboard",
               "isCorrect": false
             },
             {
-              "text": "They control corporate policies",
+              "text": "d) Merging schemas across catalogs",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_35",
-          "corpus": "What should ideally drive the design of an NGO volunteering activity?",
+          "questionId": "q_52",
+          "corpus": "7. What does \"SCD Type 2\" refer to in data modeling?",
           "options": [
             {
-              "text": "The easiest activity for employees",
+              "text": "a) A compression algorithm",
               "isCorrect": false
             },
             {
-              "text": "What looks best in photographs",
-              "isCorrect": false
-            },
-            {
-              "text": "Actual community needs and the NGO's subject-matter experience",
+              "text": "b) A method for tracking historical changes in dimension data",
               "isCorrect": true
             },
             {
-              "text": "The number of available T-shirts",
+              "text": "c) A Spark cluster configuration",
+              "isCorrect": false
+            },
+            {
+              "text": "d) A SQL join type",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_36",
-          "corpus": "Which statement best describes a strong NGO partnership?",
+          "questionId": "q_53",
+          "corpus": "8. Which of the following is NOT typically a goal of the Silver layer in a data lakehouse?",
           "options": [
             {
-              "text": "Both parties collaborate around shared goals and community needs",
+              "text": "a) Cleansing data",
+              "isCorrect": false
+            },
+            {
+              "text": "b) Standardizing schemas",
+              "isCorrect": false
+            },
+            {
+              "text": "c) Business-level aggregation for reporting",
               "isCorrect": true
             },
             {
-              "text": "The corporate partner decides everything",
-              "isCorrect": false
-            },
-            {
-              "text": "The NGO works without discussing objectives",
-              "isCorrect": false
-            },
-            {
-              "text": "Volunteers operate independently from the NGO",
+              "text": "d) Removing duplicates",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_37",
-          "corpus": "Before beginning an NGO-supported activity, what should volunteers understand?",
+          "questionId": "q_54",
+          "corpus": "9. What is the main advantage of using a CTE (Common Table Expression) in SQL?",
           "options": [
             {
-              "text": "The NGO's full financial history",
+              "text": "a) It permanently stores data in a new table",
               "isCorrect": false
             },
             {
-              "text": "The purpose, beneficiaries, task and expected conduct",
+              "text": "b) It improves query readability and modularity for complex logic",
               "isCorrect": true
             },
             {
-              "text": "Every other program run by the NGO",
+              "text": "c) It replaces the need for indexes",
               "isCorrect": false
             },
             {
-              "text": "Only the event start time",
+              "text": "d) It encrypts sensitive columns automatically",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_38",
-          "corpus": "If an NGO asks volunteers to follow a specific distribution process, what should they normally do?",
+          "questionId": "q_55",
+          "corpus": "10. In Azure, which service is commonly used for cross-system orchestration of data pipelines alongside Databricks Workflows?",
           "options": [
             {
-              "text": "Create a new process on the spot",
-              "isCorrect": false
-            },
-            {
-              "text": "Ignore it if it takes longer",
-              "isCorrect": false
-            },
-            {
-              "text": "Follow the agreed process unless there is a safety or ethical concern",
+              "text": "a) Azure Data Factory (ADF)",
               "isCorrect": true
             },
             {
-              "text": "Let beneficiaries decide the process",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_39",
-          "corpus": "An NGO says the community needs educational materials rather than another clean-up drive. What is the best response?",
-          "options": [
-            {
-              "text": "Run the clean-up because it is easier",
+              "text": "b) Azure Functions",
               "isCorrect": false
             },
             {
-              "text": "Listen to the need and explore appropriate educational support",
-              "isCorrect": true
-            },
-            {
-              "text": "Cancel all volunteering",
+              "text": "c) Azure DevOps",
               "isCorrect": false
             },
             {
-              "text": "Ask employees to vote without NGO input",
+              "text": "d) Azure Key Vault",
               "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_40",
-          "corpus": "Which is NOT a reliable indicator of a successful NGO activity?",
-          "options": [
-            {
-              "text": "Useful outputs delivered",
-              "isCorrect": false
-            },
-            {
-              "text": "Beneficiary feedback",
-              "isCorrect": false
-            },
-            {
-              "text": "Community needs addressed",
-              "isCorrect": false
-            },
-            {
-              "text": "Number of photos posted online",
-              "isCorrect": true
             }
           ]
         }
@@ -908,225 +1238,225 @@
     },
     {
       "sectionId": "section_5",
-      "title": "Community Impact",
+      "title": "Finops & Modernisation",
       "questions": [
         {
-          "questionId": "q_41",
-          "corpus": "Which activity most directly addresses food insecurity?",
+          "questionId": "q_56",
+          "corpus": "1. Which feature allows secure data sharing across organizations without copying data?",
           "options": [
             {
-              "text": "Lake cleaning",
+              "text": "a) Liquid Clustering",
               "isCorrect": false
             },
             {
-              "text": "Coding workshop",
+              "text": "b) Managed Tables",
               "isCorrect": false
             },
             {
-              "text": "Meal packing or ration-kit distribution",
+              "text": "c) Delta Sharing",
               "isCorrect": true
             },
             {
-              "text": "Tree planting",
+              "text": "d) Auto Loader",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_42",
-          "corpus": "Which activity most directly supports environmental stewardship?",
+          "questionId": "q_57",
+          "corpus": "2. Which type of workload benefits most from Liquid Clustering?",
           "options": [
             {
-              "text": "Lake or community clean-up",
+              "text": "a) Static reporting tables with one filter column",
+              "isCorrect": false
+            },
+            {
+              "text": "b) Small lookup tables",
+              "isCorrect": false
+            },
+            {
+              "text": "c. Large tables queried on multiple dimensions that change frequently",
               "isCorrect": true
             },
             {
-              "text": "Resume mentoring",
-              "isCorrect": false
-            },
-            {
-              "text": "Meal packing",
-              "isCorrect": false
-            },
-            {
-              "text": "Reading support",
+              "text": "d. Temporary staging tables",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_43",
-          "corpus": "Which activity most directly supports education?",
+          "questionId": "q_58",
+          "corpus": "3. What business problem does Databricks Genie solve?",
           "options": [
             {
-              "text": "Waste segregation drive",
+              "text": "a. Cluster deployment",
               "isCorrect": false
             },
             {
-              "text": "Student mentoring or digital-skills training",
+              "text": "b. Enables users to query data using natural language",
               "isCorrect": true
             },
             {
-              "text": "Meal packing",
+              "text": "c. Data replication",
               "isCorrect": false
             },
             {
-              "text": "Blood donation",
+              "text": "d. Runtime upgrades",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_44",
-          "corpus": "Which activity most directly supports health and community welfare?",
+          "questionId": "q_59",
+          "corpus": "4. What are Declarative Asset Bundles (DABs) used for?",
           "options": [
             {
-              "text": "School wall painting",
+              "text": "a. Bundling multiple SQL warehouses into one endpoint",
               "isCorrect": false
             },
             {
-              "text": "Tree planting",
+              "text": "b. Compressing data files for storage savings",
               "isCorrect": false
             },
             {
-              "text": "Coding mentorship",
+              "text": "c. Grouping users into access-control bundles",
               "isCorrect": false
             },
             {
-              "text": "Blood donation",
+              "text": "d. Packaging and deploying jobs, pipelines, and Genie Spaces as code (CI/CD)",
               "isCorrect": true
             }
           ]
         },
         {
-          "questionId": "q_45",
-          "corpus": "Which activity can combine education and sustainability?",
+          "questionId": "q_60",
+          "corpus": "5. What is the primary benefit of Serverless Compute in Databricks?",
           "options": [
             {
-              "text": "Teaching students about waste segregation and recycling",
+              "text": "a. Manual Cluster management",
+              "isCorrect": false
+            },
+            {
+              "text": "b. Reduced scalability",
+              "isCorrect": false
+            },
+            {
+              "text": "c. Eliminates infrastructure management and auto-scales workloads",
               "isCorrect": true
             },
             {
-              "text": "Meal packing only",
-              "isCorrect": false
-            },
-            {
-              "text": "Product sampling",
-              "isCorrect": false
-            },
-            {
-              "text": "Office decoration",
+              "text": "d. Requires larger clusters",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_46",
-          "corpus": "What is the difference between an output and an outcome?",
+          "questionId": "q_61",
+          "corpus": "6. Which compute option is generally more cost-efficient for scheduled workloads?",
           "options": [
             {
-              "text": "They mean exactly the same thing",
+              "text": "a. Always-on interactive cluster",
               "isCorrect": false
             },
             {
-              "text": "An output is what was delivered; an outcome is the resulting change or benefit",
+              "text": "b. Job Cluster",
               "isCorrect": true
             },
             {
-              "text": "Outcomes are always financial",
+              "text": "c. 24*7 development cluster",
               "isCorrect": false
             },
             {
-              "text": "Outputs cannot be measured",
+              "text": "d. Permanently running SQL warehouse",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_47",
-          "corpus": "'5,000 meals packed' is primarily an example of...",
+          "questionId": "q_62",
+          "corpus": "7. Which practice is most important for managing cloud costs across a large enterprise?",
           "options": [
             {
-              "text": "A long-term outcome",
+              "text": "a. Allow teams to create resources without ownership information",
               "isCorrect": false
             },
             {
-              "text": "A strategy",
+              "text": "b. Track costs only at the company level",
               "isCorrect": false
             },
             {
-              "text": "An output",
+              "text": "c. Establish budgets, cost visibility, ownership, and regular optimization reviews",
               "isCorrect": true
             },
             {
-              "text": "A risk",
+              "text": "d. Focus only on reducing infrastructure size",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_48",
-          "corpus": "'Students demonstrate improved digital skills after mentoring' is primarily an example of...",
+          "questionId": "q_63",
+          "corpus": "8. Which Azure service provides cost optimization recommendations?",
           "options": [
             {
-              "text": "An outcome",
+              "text": "a. Azure Data Factory",
+              "isCorrect": false
+            },
+            {
+              "text": "b. Azure Advisor",
               "isCorrect": true
             },
             {
-              "text": "An attendance count",
+              "text": "c. Azure Bastion",
               "isCorrect": false
             },
             {
-              "text": "A registration metric",
-              "isCorrect": false
-            },
-            {
-              "text": "A volunteer input",
+              "text": "d. Azure DevOps",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_49",
-          "corpus": "Why should programs consider outcomes and not only volunteer numbers?",
+          "questionId": "q_64",
+          "corpus": "9. Which action can help reduce unnecessary Azure Storage costs?",
           "options": [
             {
-              "text": "Volunteer numbers never matter",
+              "text": "a. Keep all historical data in premium storage",
               "isCorrect": false
             },
             {
-              "text": "High participation does not automatically mean meaningful community impact",
+              "text": "b. Increase storage redundancy for every dataset",
+              "isCorrect": false
+            },
+            {
+              "text": "c. Use appropriate storage tiers and lifecycle policies",
               "isCorrect": true
             },
             {
-              "text": "Outcomes are always easier to measure",
-              "isCorrect": false
-            },
-            {
-              "text": "Only beneficiaries should be counted",
+              "text": "d. Disable monitoring",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_50",
-          "corpus": "Which is the strongest impact statement?",
+          "questionId": "q_65",
+          "corpus": "10. What is the key purpose of resource tagging in FinOps?",
           "options": [
             {
-              "text": "100 volunteers attended",
+              "text": "a. Increase performance",
               "isCorrect": false
             },
             {
-              "text": "The event lasted four hours",
-              "isCorrect": false
-            },
-            {
-              "text": "Many photos were taken",
-              "isCorrect": false
-            },
-            {
-              "text": "100 volunteers packed 10,000 meals that were distributed to identified families",
+              "text": "b. Cost allocation and chargeback",
               "isCorrect": true
+            },
+            {
+              "text": "c. Improve networking",
+              "isCorrect": false
+            },
+            {
+              "text": "d. Increase storage capacity",
+              "isCorrect": false
             }
           ]
         }
@@ -1134,224 +1464,102 @@
     },
     {
       "sectionId": "section_6",
-      "title": "Event Planning & Registration",
+      "title": "D&AI Platform Architecture",
       "questions": [
         {
-          "questionId": "q_51",
-          "corpus": "What should come first when designing a volunteering activity?",
+          "questionId": "q_66",
+          "corpus": "1. What best defines Architecture as Code (AaC)?",
           "options": [
             {
-              "text": "Choosing T-shirt colors",
+              "text": "a. A static PowerPoint diagram reviewed once a year",
               "isCorrect": false
             },
             {
-              "text": "Understanding the community need and desired impact",
+              "text": "b. Defining architecture using version-controlled, code/text-based models that live alongside source code",
               "isCorrect": true
             },
             {
-              "text": "Designing invitations",
+              "text": "c. A ServiceNow ticket queue for infrastructure requests",
               "isCorrect": false
             },
             {
-              "text": "Selecting photographers",
+              "text": "d. A naming convention for cloud resources",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_52",
-          "corpus": "Which planning sequence is strongest?",
+          "questionId": "q_67",
+          "corpus": "2. Which of these are not a stated Benefit of Architecture as Code?",
           "options": [
             {
-              "text": "Community need → Objective → Activity → Measurement",
+              "text": "a. Improved consistency across teams",
+              "isCorrect": false
+            },
+            {
+              "text": "b. Traceability through version history",
+              "isCorrect": false
+            },
+            {
+              "text": "c. Slower evaluation of new platform capabilities",
               "isCorrect": true
             },
             {
-              "text": "Activity → Community need → Objective → Measurement",
-              "isCorrect": false
-            },
-            {
-              "text": "Measurement → Activity → Need → Objective",
-              "isCorrect": false
-            },
-            {
-              "text": "Volunteers → Photos → Activity → Objective",
+              "text": "d. Reduced manual intervention",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_53",
-          "corpus": "Why should organizers define an objective before the event?",
+          "questionId": "q_68",
+          "corpus": "3. Match the Architecture to its Core Focus\nDesign — D. Solution Architecture\nCapability — B. Domain Architecture\nEnablement — E. Platform Architecture\nStrategy — A. Enterprise Architecture\nInsight — C. Data Architecture",
           "options": [
             {
-              "text": "To make the invitation longer",
-              "isCorrect": false
-            },
-            {
-              "text": "To guarantee perfect results",
-              "isCorrect": false
-            },
-            {
-              "text": "To clarify what the activity is intended to accomplish",
-              "isCorrect": true
-            },
-            {
-              "text": "To replace NGO consultation",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_54",
-          "corpus": "Which objective is written most clearly?",
-          "options": [
-            {
-              "text": "Do something good",
-              "isCorrect": false
-            },
-            {
-              "text": "Have a volunteering event",
-              "isCorrect": false
-            },
-            {
-              "text": "Get maximum volunteers",
-              "isCorrect": false
-            },
-            {
-              "text": "Pack and prepare 5,000 meals for distribution through the NGO partner",
+              "text": "Design — D. Solution Architecture; Capability — B. Domain Architecture; Enablement — E. Platform Architecture; Strategy — A. Enterprise Architecture; Insight — C. Data Architecture",
               "isCorrect": true
             }
           ]
         },
         {
-          "questionId": "q_55",
-          "corpus": "What should determine the number of volunteers required?",
+          "questionId": "q_69",
+          "corpus": "4. Which group is NOT part of the ADR review stakeholders?",
           "options": [
             {
-              "text": "The largest number possible",
+              "text": "a. Security",
               "isCorrect": false
             },
             {
-              "text": "Activity scope, capacity, safety and NGO requirements",
+              "text": "b. Cloud Foundation",
+              "isCorrect": false
+            },
+            {
+              "text": "c. Marketing",
               "isCorrect": true
             },
             {
-              "text": "The total office headcount",
-              "isCorrect": false
-            },
-            {
-              "text": "Social-media interest",
+              "text": "d. Vendor",
               "isCorrect": false
             }
           ]
         },
         {
-          "questionId": "q_56",
-          "corpus": "Why should materials be planned before the event?",
+          "questionId": "q_70",
+          "corpus": "5. A finalized, CoP-approved ADR is published to which destinations?",
           "options": [
             {
-              "text": "Volunteers expect gifts",
-              "isCorrect": false
-            },
-            {
-              "text": "More materials always mean more impact",
-              "isCorrect": false
-            },
-            {
-              "text": "Insufficient or excessive materials can reduce efficiency and effectiveness",
+              "text": "a. Confluence, SharePoint & Cloud Tech Doc",
               "isCorrect": true
             },
             {
-              "text": "Materials are the only measure of success",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_57",
-          "corpus": "Why is an NGO or organizer briefing useful before volunteers begin?",
-          "options": [
-            {
-              "text": "It helps volunteers understand the cause, task, safety expectations and desired impact",
-              "isCorrect": true
-            },
-            {
-              "text": "It replaces all safety requirements",
+              "text": "b. Only a private email thread",
               "isCorrect": false
             },
             {
-              "text": "It is only useful for managers",
+              "text": "c. A single local folder",
               "isCorrect": false
             },
             {
-              "text": "It is mainly for taking attendance",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_58",
-          "corpus": "A registered volunteer can no longer attend. What is the responsible action?",
-          "options": [
-            {
-              "text": "Do nothing",
-              "isCorrect": false
-            },
-            {
-              "text": "Ask someone else to attend under their name",
-              "isCorrect": false
-            },
-            {
-              "text": "Inform the organizer or withdraw using the available process",
-              "isCorrect": true
-            },
-            {
-              "text": "Log the hours anyway",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_59",
-          "corpus": "Why can a no-show create problems for an event?",
-          "options": [
-            {
-              "text": "It changes the event logo",
-              "isCorrect": false
-            },
-            {
-              "text": "Organizers may have planned capacity, materials and roles based on registrations",
-              "isCorrect": true
-            },
-            {
-              "text": "It always cancels the event",
-              "isCorrect": false
-            },
-            {
-              "text": "It changes portal permissions",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_60",
-          "corpus": "An event has reached its stated volunteer capacity. What is the best assumption?",
-          "options": [
-            {
-              "text": "The limit may reflect venue, materials, supervision or safety constraints",
-              "isCorrect": true
-            },
-            {
-              "text": "The number is arbitrary",
-              "isCorrect": false
-            },
-            {
-              "text": "The portal cannot technically support more users",
-              "isCorrect": false
-            },
-            {
-              "text": "The NGO does not want additional help",
+              "text": "d. Slack only",
               "isCorrect": false
             }
           ]
@@ -1360,903 +1568,71 @@
     },
     {
       "sectionId": "section_7",
-      "title": "Volunteer Conduct & Safety",
-      "questions": [
-        {
-          "questionId": "q_61",
-          "corpus": "What should guide interactions with beneficiaries?",
-          "options": [
-            {
-              "text": "Personal curiosity",
-              "isCorrect": false
-            },
-            {
-              "text": "Respect, dignity and appropriate boundaries",
-              "isCorrect": true
-            },
-            {
-              "text": "The need for social-media content",
-              "isCorrect": false
-            },
-            {
-              "text": "The fastest possible interaction",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_62",
-          "corpus": "Before taking photographs of beneficiaries, what is the most responsible approach?",
-          "options": [
-            {
-              "text": "Take photos first and ask later",
-              "isCorrect": false
-            },
-            {
-              "text": "Assume event participation equals consent",
-              "isCorrect": false
-            },
-            {
-              "text": "Follow applicable consent and NGO/event guidance",
-              "isCorrect": true
-            },
-            {
-              "text": "Ask another volunteer instead of the organizer",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_63",
-          "corpus": "A child shares personal information with a volunteer during an NGO activity. What should the volunteer do?",
-          "options": [
-            {
-              "text": "Post it in the volunteer chat",
-              "isCorrect": false
-            },
-            {
-              "text": "Share it with other participants",
-              "isCorrect": false
-            },
-            {
-              "text": "Use it in an event story",
-              "isCorrect": false
-            },
-            {
-              "text": "Handle it carefully and follow safeguarding/privacy guidance",
-              "isCorrect": true
-            }
-          ]
-        },
-        {
-          "questionId": "q_64",
-          "corpus": "A volunteer notices an unsafe condition during an activity. What should they do first?",
-          "options": [
-            {
-              "text": "Raise it promptly with the coordinator and avoid unsafe action",
-              "isCorrect": true
-            },
-            {
-              "text": "Continue until the activity ends",
-              "isCorrect": false
-            },
-            {
-              "text": "Post about it online",
-              "isCorrect": false
-            },
-            {
-              "text": "Wait for someone else to notice",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_65",
-          "corpus": "Which approach is most appropriate when volunteering in a community different from your own?",
-          "options": [
-            {
-              "text": "Assume your approach is better",
-              "isCorrect": false
-            },
-            {
-              "text": "Be respectful and sensitive to local culture and practices",
-              "isCorrect": true
-            },
-            {
-              "text": "Avoid interacting with anyone",
-              "isCorrect": false
-            },
-            {
-              "text": "Correct local practices immediately",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_66",
-          "corpus": "A volunteer completes their assigned task early. What should they do next?",
-          "options": [
-            {
-              "text": "Leave without informing anyone",
-              "isCorrect": false
-            },
-            {
-              "text": "Start a new task independently",
-              "isCorrect": false
-            },
-            {
-              "text": "Check with the coordinator whether additional help is needed",
-              "isCorrect": true
-            },
-            {
-              "text": "Change other volunteers' assignments",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_67",
-          "corpus": "Why are event instructions important?",
-          "options": [
-            {
-              "text": "They help maintain safety, coordination and intended impact",
-              "isCorrect": true
-            },
-            {
-              "text": "They are only relevant to first-time volunteers",
-              "isCorrect": false
-            },
-            {
-              "text": "They are optional suggestions",
-              "isCorrect": false
-            },
-            {
-              "text": "They mainly make events longer",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_68",
-          "corpus": "Which behavior is least appropriate at a volunteering event?",
-          "options": [
-            {
-              "text": "Asking for clarification",
-              "isCorrect": false
-            },
-            {
-              "text": "Helping teammates",
-              "isCorrect": false
-            },
-            {
-              "text": "Respecting beneficiaries",
-              "isCorrect": false
-            },
-            {
-              "text": "Prioritizing personal content creation over the activity",
-              "isCorrect": true
-            }
-          ]
-        },
-        {
-          "questionId": "q_69",
-          "corpus": "If a volunteer disagrees with the NGO's process, what is the best approach?",
-          "options": [
-            {
-              "text": "Ignore the process",
-              "isCorrect": false
-            },
-            {
-              "text": "Discuss the concern constructively with the coordinator",
-              "isCorrect": true
-            },
-            {
-              "text": "Publicly criticize the NGO",
-              "isCorrect": false
-            },
-            {
-              "text": "Tell others to stop participating",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_70",
-          "corpus": "Why is reliability important when volunteering?",
-          "options": [
-            {
-              "text": "It increases compensation",
-              "isCorrect": false
-            },
-            {
-              "text": "Attendance is the only impact metric",
-              "isCorrect": false
-            },
-            {
-              "text": "Organizers may plan beneficiaries, materials and roles around confirmed volunteers",
-              "isCorrect": true
-            },
-            {
-              "text": "NGOs cannot operate without every individual volunteer",
-              "isCorrect": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sectionId": "section_8",
-      "title": "Sustainability & Skills",
+      "title": "PE DevSecOps",
       "questions": [
         {
           "questionId": "q_71",
-          "corpus": "What does sustainable community impact mean in volunteering?",
+          "corpus": "1. Who is responsible for security in a DevSecOps culture?",
           "options": [
             {
-              "text": "Every activity must be environmental",
+              "text": "a. Only the central security team",
               "isCorrect": false
             },
             {
-              "text": "Benefits should ideally continue beyond the immediate activity",
+              "text": "b. Everyone across development, security and operations",
               "isCorrect": true
             },
             {
-              "text": "Every activity must repeat weekly",
+              "text": "c. Only the release manager",
               "isCorrect": false
             },
             {
-              "text": "Every activity must involve donations",
+              "text": "d. External auditors at year end",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_72",
-          "corpus": "Which example is most likely to create longer-term impact?",
+          "corpus": "2. What should happen when a pipeline scan finds a critical vulnerability?",
           "options": [
             {
-              "text": "Taking photographs with students",
-              "isCorrect": false
-            },
-            {
-              "text": "Distributing event badges",
-              "isCorrect": false
-            },
-            {
-              "text": "Teaching a useful skill participants can continue applying",
+              "text": "a. The build fails and the issue is fixed before release",
               "isCorrect": true
             },
             {
-              "text": "Increasing volunteer attendance only",
+              "text": "b. The finding is logged and the release continues",
+              "isCorrect": false
+            },
+            {
+              "text": "c. The scanner is disabled for that build",
+              "isCorrect": false
+            },
+            {
+              "text": "d. It is reviewed at the next quarterly audit",
               "isCorrect": false
             }
           ]
         },
         {
           "questionId": "q_73",
-          "corpus": "Why can mentoring create lasting impact?",
+          "corpus": "3. Which practice best protects secrets like passwords and API keys?",
           "options": [
             {
-              "text": "Knowledge and skills can continue benefiting participants after the session",
+              "text": "a. Committing them to the code repository",
+              "isCorrect": false
+            },
+            {
+              "text": "b. Emailing them to the team when needed",
+              "isCorrect": false
+            },
+            {
+              "text": "c. Storing them in a secure vault and injecting them at runtime",
               "isCorrect": true
             },
             {
-              "text": "Mentoring requires no preparation",
+              "text": "d. Hard-coding them in the container image",
               "isCorrect": false
-            },
-            {
-              "text": "Mentoring always guarantees employment",
-              "isCorrect": false
-            },
-            {
-              "text": "Mentoring is always easy to measure",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_74",
-          "corpus": "Which pair best represents environmental volunteering?",
-          "options": [
-            {
-              "text": "Meal packing + mentoring",
-              "isCorrect": false
-            },
-            {
-              "text": "Career coaching + blood donation",
-              "isCorrect": false
-            },
-            {
-              "text": "Coding + food distribution",
-              "isCorrect": false
-            },
-            {
-              "text": "Clean-up + waste-segregation awareness",
-              "isCorrect": true
-            }
-          ]
-        },
-        {
-          "questionId": "q_75",
-          "corpus": "Why might awareness be paired with a clean-up activity?",
-          "options": [
-            {
-              "text": "To make the event longer",
-              "isCorrect": false
-            },
-            {
-              "text": "Cleaning addresses the immediate issue while awareness may help reduce recurrence",
-              "isCorrect": true
-            },
-            {
-              "text": "Awareness completely replaces physical action",
-              "isCorrect": false
-            },
-            {
-              "text": "Clean-ups have no impact",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_76",
-          "corpus": "Which approach is more likely to address the root cause of improper waste disposal?",
-          "options": [
-            {
-              "text": "Cleaning one location once",
-              "isCorrect": false
-            },
-            {
-              "text": "Taking before-and-after photos",
-              "isCorrect": false
-            },
-            {
-              "text": "Combining clean-up with education and appropriate waste-management practices",
-              "isCorrect": true
-            },
-            {
-              "text": "Increasing volunteer headcount",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_77",
-          "corpus": "An associate cannot participate physically but has strong technical expertise. What can be an effective option?",
-          "options": [
-            {
-              "text": "They cannot volunteer",
-              "isCorrect": false
-            },
-            {
-              "text": "A suitable skills-based or virtual volunteering opportunity",
-              "isCorrect": true
-            },
-            {
-              "text": "Logging hours without participating",
-              "isCorrect": false
-            },
-            {
-              "text": "Registering for a physical event anyway",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_78",
-          "corpus": "Which activity best uses professional knowledge for social impact?",
-          "options": [
-            {
-              "text": "A finance professional teaching basic financial literacy",
-              "isCorrect": true
-            },
-            {
-              "text": "An employee attending a routine meeting",
-              "isCorrect": false
-            },
-            {
-              "text": "Buying branded merchandise",
-              "isCorrect": false
-            },
-            {
-              "text": "Watching an online advertisement",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_79",
-          "corpus": "What makes skills-based volunteering valuable to an NGO?",
-          "options": [
-            {
-              "text": "It always replaces paid staff",
-              "isCorrect": false
-            },
-            {
-              "text": "It can provide expertise the NGO may otherwise have limited access to",
-              "isCorrect": true
-            },
-            {
-              "text": "It requires no planning",
-              "isCorrect": false
-            },
-            {
-              "text": "It is always faster than hands-on volunteering",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_80",
-          "corpus": "Which statement best describes sustainable volunteering?",
-          "options": [
-            {
-              "text": "Focus only on one-day outputs",
-              "isCorrect": false
-            },
-            {
-              "text": "Repeat the same activity regardless of results",
-              "isCorrect": false
-            },
-            {
-              "text": "Consider whether the activity can create lasting benefit or strengthen capability",
-              "isCorrect": true
-            },
-            {
-              "text": "Avoid measuring outcomes",
-              "isCorrect": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sectionId": "section_9",
-      "title": "Applied Scenarios",
-      "questions": [
-        {
-          "questionId": "q_81",
-          "corpus": "An OSAAT event attracts 150 volunteers, but the NGO says it can effectively accommodate only 80. What is the best approach?",
-          "options": [
-            {
-              "text": "Send all 150 anyway",
-              "isCorrect": false
-            },
-            {
-              "text": "Ask the NGO to manage somehow",
-              "isCorrect": false
-            },
-            {
-              "text": "Respect capacity and explore another session or activity for the remaining volunteers",
-              "isCorrect": true
-            },
-            {
-              "text": "Cancel the partnership",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_82",
-          "corpus": "An activity has excellent attendance but delivers only half of its intended output. How should it be viewed?",
-          "options": [
-            {
-              "text": "A complete success because attendance was high",
-              "isCorrect": false
-            },
-            {
-              "text": "Participation was strong, but delivery and root causes should be reviewed",
-              "isCorrect": true
-            },
-            {
-              "text": "A total failure because attendance does not matter",
-              "isCorrect": false
-            },
-            {
-              "text": "No evaluation is needed",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_83",
-          "corpus": "Volunteers want to distribute items directly, but the NGO asks them to use an established beneficiary-selection process. What is the best response?",
-          "options": [
-            {
-              "text": "Follow the NGO's agreed process because it is designed around identified needs and responsible distribution",
-              "isCorrect": true
-            },
-            {
-              "text": "Ignore the NGO",
-              "isCorrect": false
-            },
-            {
-              "text": "Select beneficiaries randomly",
-              "isCorrect": false
-            },
-            {
-              "text": "Give items to whoever arrives first",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_84",
-          "corpus": "You find an event you like, but it conflicts with another commitment. What is the best choice?",
-          "options": [
-            {
-              "text": "Register anyway and decide later",
-              "isCorrect": false
-            },
-            {
-              "text": "Register so the event looks full",
-              "isCorrect": false
-            },
-            {
-              "text": "Ask someone else to use your registration",
-              "isCorrect": false
-            },
-            {
-              "text": "Choose an opportunity you can realistically commit to",
-              "isCorrect": true
-            }
-          ]
-        },
-        {
-          "questionId": "q_85",
-          "corpus": "Two opportunities are available: one is highly visible but addresses a limited need; the other is less visible but urgently requested by an NGO. Which is more meaningful?",
-          "options": [
-            {
-              "text": "The more visible activity",
-              "isCorrect": false
-            },
-            {
-              "text": "The activity addressing the stronger identified need",
-              "isCorrect": true
-            },
-            {
-              "text": "Whichever produces better photos",
-              "isCorrect": false
-            },
-            {
-              "text": "Whichever has more senior leaders",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_86",
-          "corpus": "A school-painting event is well executed, but the school had identified digital literacy as its highest priority. What lesson does this illustrate?",
-          "options": [
-            {
-              "text": "Painting should never be a volunteer activity",
-              "isCorrect": false
-            },
-            {
-              "text": "Schools do not need volunteers",
-              "isCorrect": false
-            },
-            {
-              "text": "Activities should be aligned with actual beneficiary needs, not only what is easy to organize",
-              "isCorrect": true
-            },
-            {
-              "text": "Digital literacy is always more important than infrastructure",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_87",
-          "corpus": "Which event demonstrates deeper impact?",
-          "options": [
-            {
-              "text": "500 register and 150 attend",
-              "isCorrect": false
-            },
-            {
-              "text": "300 attend but no outcome is captured",
-              "isCorrect": false
-            },
-            {
-              "text": "600 people receive the invitation",
-              "isCorrect": false
-            },
-            {
-              "text": "100 volunteers complete a defined activity addressing an identified need and the impact is measured",
-              "isCorrect": true
-            }
-          ]
-        },
-        {
-          "questionId": "q_88",
-          "corpus": "After an event, the NGO says the activity was useful but recommends a different approach next time. What should organizers do?",
-          "options": [
-            {
-              "text": "Capture the feedback and use it to improve future activities",
-              "isCorrect": true
-            },
-            {
-              "text": "Ignore it because the event is complete",
-              "isCorrect": false
-            },
-            {
-              "text": "Avoid the NGO next time",
-              "isCorrect": false
-            },
-            {
-              "text": "Remove the feedback from the report",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_89",
-          "corpus": "A volunteer wants to post a beneficiary's story online because it is inspiring. What should happen first?",
-          "options": [
-            {
-              "text": "Post it quickly while the event is trending",
-              "isCorrect": false
-            },
-            {
-              "text": "Follow consent, privacy and organizer/NGO guidance before sharing",
-              "isCorrect": true
-            },
-            {
-              "text": "Ask another volunteer for permission",
-              "isCorrect": false
-            },
-            {
-              "text": "Remove the beneficiary's first name and post everything else",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_90",
-          "corpus": "An activity produces a large number of kits, but many contain items the community does not need. What is the strongest lesson?",
-          "options": [
-            {
-              "text": "More kits always mean more impact",
-              "isCorrect": false
-            },
-            {
-              "text": "The activity needs better alignment with beneficiary needs and NGO guidance",
-              "isCorrect": true
-            },
-            {
-              "text": "Volunteer count should be increased",
-              "isCorrect": false
-            },
-            {
-              "text": "Only distribution speed matters",
-              "isCorrect": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sectionId": "section_10",
-      "title": "Challenge Round",
-      "questions": [
-        {
-          "questionId": "q_91",
-          "corpus": "Which metric combination gives the most balanced view of a volunteering event?",
-          "options": [
-            {
-              "text": "Registrations only",
-              "isCorrect": false
-            },
-            {
-              "text": "Volunteer hours only",
-              "isCorrect": false
-            },
-            {
-              "text": "Participation, outputs, beneficiary reach and meaningful outcomes",
-              "isCorrect": true
-            },
-            {
-              "text": "Photos and social-media reactions",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_92",
-          "corpus": "Why is 'beneficiaries reached' useful but not sufficient by itself?",
-          "options": [
-            {
-              "text": "It tells us reach, but not necessarily the quality or outcome of the support",
-              "isCorrect": true
-            },
-            {
-              "text": "It is never useful",
-              "isCorrect": false
-            },
-            {
-              "text": "It only applies to environmental activities",
-              "isCorrect": false
-            },
-            {
-              "text": "It always measures long-term impact",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_93",
-          "corpus": "A team wants to maximize volunteer hours even though the task can be completed effectively in less time. What should take priority?",
-          "options": [
-            {
-              "text": "Maximizing recorded hours",
-              "isCorrect": false
-            },
-            {
-              "text": "Keeping volunteers busy regardless of need",
-              "isCorrect": false
-            },
-            {
-              "text": "Designing an efficient activity that serves the community well",
-              "isCorrect": true
-            },
-            {
-              "text": "Extending the event for recognition",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_94",
-          "corpus": "Which question best tests whether a volunteering activity was truly community-centered?",
-          "options": [
-            {
-              "text": "How many leaders attended?",
-              "isCorrect": false
-            },
-            {
-              "text": "Did the activity address a need identified by or with the community/NGO?",
-              "isCorrect": true
-            },
-            {
-              "text": "Was the event heavily promoted?",
-              "isCorrect": false
-            },
-            {
-              "text": "Did every volunteer receive merchandise?",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_95",
-          "corpus": "What is the strongest reason to collect post-event feedback from volunteers and NGO partners?",
-          "options": [
-            {
-              "text": "To create a longer report",
-              "isCorrect": false
-            },
-            {
-              "text": "To identify what worked, what did not, and how future impact can improve",
-              "isCorrect": true
-            },
-            {
-              "text": "To compare individual volunteers",
-              "isCorrect": false
-            },
-            {
-              "text": "To increase registration numbers automatically",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_96",
-          "corpus": "If an event delivers the planned output but beneficiaries report that the support was not useful, what should organizers conclude?",
-          "options": [
-            {
-              "text": "The event succeeded because the output target was met",
-              "isCorrect": false
-            },
-            {
-              "text": "Beneficiary feedback can be ignored",
-              "isCorrect": false
-            },
-            {
-              "text": "The output was achieved, but the intended outcome or relevance was weak and should be reassessed",
-              "isCorrect": true
-            },
-            {
-              "text": "The NGO should simply increase participant numbers",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_97",
-          "corpus": "Which statement best distinguishes participation from impact?",
-          "options": [
-            {
-              "text": "Participation shows who took part; impact shows what meaningful change resulted",
-              "isCorrect": true
-            },
-            {
-              "text": "They are the same measure",
-              "isCorrect": false
-            },
-            {
-              "text": "Impact is always the number of hours logged",
-              "isCorrect": false
-            },
-            {
-              "text": "Participation matters only when an NGO is involved",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_98",
-          "corpus": "Which behavior best demonstrates an OSAAT mindset after a successful event?",
-          "options": [
-            {
-              "text": "Assume the same activity should always be repeated",
-              "isCorrect": false
-            },
-            {
-              "text": "Celebrate the contribution, capture learning and look for ways to strengthen future impact",
-              "isCorrect": true
-            },
-            {
-              "text": "Focus only on recognition",
-              "isCorrect": false
-            },
-            {
-              "text": "Stop measuring once attendance is confirmed",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_99",
-          "corpus": "What is the most meaningful interpretation of 'One Smile at a Time'?",
-          "options": [
-            {
-              "text": "Every event must focus on entertainment",
-              "isCorrect": false
-            },
-            {
-              "text": "Only individual actions matter",
-              "isCorrect": false
-            },
-            {
-              "text": "Thoughtful individual contributions can accumulate into wider positive change",
-              "isCorrect": true
-            },
-            {
-              "text": "Success is measured by the number of smiles photographed",
-              "isCorrect": false
-            }
-          ]
-        },
-        {
-          "questionId": "q_100",
-          "corpus": "Which statement best summarizes effective OSAAT volunteering?",
-          "options": [
-            {
-              "text": "Register for as many activities as possible",
-              "isCorrect": false
-            },
-            {
-              "text": "Choose visible activities and maximize attendance",
-              "isCorrect": false
-            },
-            {
-              "text": "Follow a consistent activity template everywhere",
-              "isCorrect": false
-            },
-            {
-              "text": "Understand the need, participate responsibly, collaborate with partners and focus on meaningful impact",
-              "isCorrect": true
             }
           ]
         }
