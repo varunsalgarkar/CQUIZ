@@ -55,7 +55,7 @@ export const GameStart = ({ onStart, questionsCount, onQuestionsCountChange, que
   return (
     <div className="min-h-screen flex items-center justify-center p-4 sting-bg relative">
       <div className="energy-particles"></div>
-      <BrandLogo src="/pep_logo.png" alt="Pep+ Logo"/>
+      <BrandLogo src={`${import.meta.env.BASE_URL}pep_logo.png`} alt="Pep+ Logo"/>
 
       <div className="electric-border max-w-2xl w-full bounce-entrance relative">
         

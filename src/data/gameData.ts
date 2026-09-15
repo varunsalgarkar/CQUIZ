@@ -20,7 +20,10 @@ export interface QuizData {
 // Function to fetch quiz data from JSON file
 export const fetchQuizData = async (): Promise<QuizData> => {
   try {
-    const response = await fetch('/questions.json');
+    // BASE_URL (not a hardcoded "/") so this still resolves correctly
+    // when the app is deployed under a subpath, e.g. GitHub Pages'
+    // /CQUIZ/ instead of the site root.
+    const response = await fetch(`${import.meta.env.BASE_URL}questions.json`);
     if (!response.ok) {
       throw new Error('Failed to fetch quiz data');
     }
