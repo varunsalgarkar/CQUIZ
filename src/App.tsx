@@ -13,7 +13,10 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      {/* basename must match Vite's `base` (see vite.config.ts) — BASE_URL
+          is "/" locally and "/CQUIZ/" in production, so this stays in
+          sync automatically instead of hardcoding it in two places. */}
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <Routes>
           <Route path="/" element={<Index />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
