@@ -1,0 +1,172 @@
+{
+  "quizTitle": "Sting Energy Knowledge Quiz",
+  "description": "Test your knowledge across 6 different categories related to energy drinks and general knowledge.",
+  "sections": [
+    {
+      "sectionId": "section_1",
+      "title": "Category: Energy Drinks",
+      "questions": [
+        {
+          "questionId": "q_1_1",
+          "corpus": "What year was Sting Energy Drink first launched?",
+          "options": [
+            {"text": "2002", "isCorrect": true},
+            {"text": "2004", "isCorrect": false},
+            {"text": "2006", "isCorrect": false},
+            {"text": "2008", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_1_2",
+          "corpus": "What is the main ingredient that gives Sting its energy boost?",
+          "options": [
+            {"text": "Taurine", "isCorrect": false},
+            {"text": "Caffeine", "isCorrect": false},
+            {"text": "Ginseng", "isCorrect": false},
+            {"text": "All of the above", "isCorrect": true}
+          ]
+        },
+        {
+          "questionId": "q_1_3",
+          "corpus": "Which company owns the Sting Energy brand?",
+          "options": [
+            {"text": "Red Bull", "isCorrect": false},
+            {"text": "PepsiCo", "isCorrect": true},
+            {"text": "Coca-Cola", "isCorrect": false},
+            {"text": "Monster", "isCorrect": false}
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_2",
+      "title": "Category: Science & Health",
+      "questions": [
+        {
+          "questionId": "q_2_1",
+          "corpus": "What is the caffeine content in a standard Sting Energy can?",
+          "options": [
+            {"text": "80mg", "isCorrect": false},
+            {"text": "100mg", "isCorrect": true},
+            {"text": "120mg", "isCorrect": false},
+            {"text": "140mg", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_2_2",
+          "corpus": "What makes Sting Energy different from other energy drinks?",
+          "options": [
+            {"text": "Unique flavor", "isCorrect": false},
+            {"text": "Higher caffeine", "isCorrect": false},
+            {"text": "Natural ingredients", "isCorrect": false},
+            {"text": "All of the above", "isCorrect": true}
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_3",
+      "title": "Category: Business & Marketing",
+      "questions": [
+        {
+          "questionId": "q_3_1",
+          "corpus": "What is Sting Energy's primary target demographic?",
+          "options": [
+            {"text": "Teenagers", "isCorrect": false},
+            {"text": "Young Adults", "isCorrect": false},
+            {"text": "Athletes", "isCorrect": false},
+            {"text": "All active individuals", "isCorrect": true}
+          ]
+        },
+        {
+          "questionId": "q_3_2",
+          "corpus": "In how many countries is Sting Energy available?",
+          "options": [
+            {"text": "Over 50", "isCorrect": false},
+            {"text": "Over 100", "isCorrect": false},
+            {"text": "Over 150", "isCorrect": true},
+            {"text": "Over 200", "isCorrect": false}
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_4",
+      "title": "Category: Sports & Lifestyle",
+      "questions": [
+        {
+          "questionId": "q_4_1",
+          "corpus": "Which sports event does Sting Energy commonly sponsor?",
+          "options": [
+            {"text": "Football", "isCorrect": false},
+            {"text": "Basketball", "isCorrect": false},
+            {"text": "Cricket", "isCorrect": false},
+            {"text": "All of the above", "isCorrect": true}
+          ]
+        },
+        {
+          "questionId": "q_4_2",
+          "corpus": "What is Sting's signature flavor profile?",
+          "options": [
+            {"text": "Tropical", "isCorrect": false},
+            {"text": "Berry", "isCorrect": false},
+            {"text": "Gold Rush", "isCorrect": true},
+            {"text": "Citrus", "isCorrect": false}
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_5",
+      "title": "Category: Geography & Culture",
+      "questions": [
+        {
+          "questionId": "q_5_1",
+          "corpus": "Which region was Sting Energy first launched in?",
+          "options": [
+            {"text": "North America", "isCorrect": false},
+            {"text": "Europe", "isCorrect": false},
+            {"text": "Asia Pacific", "isCorrect": true},
+            {"text": "South America", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_5_2",
+          "corpus": "What cultural aspect does Sting Energy emphasize in its branding?",
+          "options": [
+            {"text": "Adventure", "isCorrect": false},
+            {"text": "Energy and Performance", "isCorrect": true},
+            {"text": "Relaxation", "isCorrect": false},
+            {"text": "Traditional Values", "isCorrect": false}
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_6",
+      "title": "Category: Innovation & Future",
+      "questions": [
+        {
+          "questionId": "q_6_1",
+          "corpus": "What innovation trend is Sting Energy following in recent years?",
+          "options": [
+            {"text": "Sustainable packaging", "isCorrect": true},
+            {"text": "Artificial flavors", "isCorrect": false},
+            {"text": "Higher sugar content", "isCorrect": false},
+            {"text": "Smaller can sizes", "isCorrect": false}
+          ]
+        },
+        {
+          "questionId": "q_6_2",
+          "corpus": "Which aspect of Sting Energy focuses on environmental responsibility?",
+          "options": [
+            {"text": "Recyclable cans", "isCorrect": false},
+            {"text": "Reduced carbon footprint", "isCorrect": false},
+            {"text": "Sustainable sourcing", "isCorrect": false},
+            {"text": "All of the above", "isCorrect": true}
+          ]
+        }
+      ]
+    }
+  ]
+}

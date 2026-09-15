@@ -1,0 +1,92 @@
+/* Landing Page Specific Styles */
+.landing-container {
+  @apply min-h-screen flex items-center justify-center p-4 sting-bg relative;
+}
+
+.landing-particles {
+  @apply absolute inset-0 pointer-events-none;
+}
+
+.landing-main-card {
+  @apply electric-border max-w-2xl w-full bounce-entrance relative;
+}
+
+.landing-inner-content {
+  @apply electric-border-inner p-8 text-center energy-pulse;
+}
+
+.landing-title {
+  @apply text-6xl font-bold mb-4 sting-gradient bg-clip-text text-transparent;
+}
+
+.landing-subtitle {
+  @apply text-xl text-sting-gold mb-2;
+}
+
+.landing-revenue-info {
+  @apply flex items-center justify-center gap-2 text-electric-cyan;
+}
+
+.landing-features-grid {
+  @apply grid grid-cols-1 md:grid-cols-3 gap-4 mb-8;
+}
+
+.landing-feature-card {
+  @apply glass-card p-4;
+}
+
+.landing-feature-icon {
+  @apply w-8 h-8 mx-auto mb-2;
+}
+
+.landing-feature-title {
+  @apply font-semibold;
+}
+
+.landing-feature-description {
+  @apply text-sm text-sting-white/70;
+}
+
+.landing-start-button {
+  @apply sting-gradient text-sting-black hover:shadow-[var(--glow-sting)] transition-[var(--transition-bounce)] text-lg px-8 py-6 rounded-xl font-bold glass-button;
+}
+
+.landing-info-text {
+  @apply mt-6 text-sm text-sting-white/60;
+}
+
+.landing-settings-button {
+  @apply absolute top-4 right-4 glass-button border-sting-orange text-sting-orange hover:bg-sting-orange/10 px-3 py-2 text-sm;
+}
+
+.settings-modal {
+  @apply fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50;
+}
+
+.settings-content {
+  @apply glass-card p-6 max-w-md w-full;
+}
+
+.settings-title {
+  @apply text-xl font-bold text-sting-gold mb-4;
+}
+
+.settings-label {
+  @apply block text-sm font-medium text-sting-white mb-2;
+}
+
+.settings-input {
+  @apply w-full px-3 py-2 bg-sting-black/30 border border-sting-white/20 rounded-lg text-sting-white focus:border-sting-gold focus:outline-none;
+}
+
+.settings-buttons {
+  @apply flex gap-3 mt-6;
+}
+
+.settings-cancel-button {
+  @apply flex-1 px-4 py-2 bg-transparent border border-sting-white/30 text-sting-white rounded-lg hover:bg-sting-white/10 transition-colors;
+}
+
+.settings-save-button {
+  @apply flex-1 px-4 py-2 sting-gradient text-sting-black rounded-lg font-medium hover:shadow-lg transition-shadow;
+}

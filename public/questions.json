@@ -1,0 +1,2266 @@
+{
+  "quizTitle": "OSAAT & NGO Quiz",
+  "description": "OSAAT & NGO Quiz Bank - 100 Questions",
+  "sections": [
+    {
+      "sectionId": "section_1",
+      "title": "OSAAT & NGO Quiz",
+      "questions": [
+        {
+          "questionId": "q_1",
+          "corpus": "What does OSAAT stand for?",
+          "options": [
+            {
+              "text": "One Smile at a Time",
+              "isCorrect": true
+            },
+            {
+              "text": "One Step at a Time",
+              "isCorrect": false
+            },
+            {
+              "text": "Our Support at All Times",
+              "isCorrect": false
+            },
+            {
+              "text": "One Service Across All Teams",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_2",
+          "corpus": "Which description best captures OSAAT?",
+          "options": [
+            {
+              "text": "A product promotion campaign",
+              "isCorrect": false
+            },
+            {
+              "text": "A global volunteering program designed for associates",
+              "isCorrect": true
+            },
+            {
+              "text": "A sales-learning platform",
+              "isCorrect": false
+            },
+            {
+              "text": "An employee benefits portal",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_3",
+          "corpus": "What is the main purpose of OSAAT?",
+          "options": [
+            {
+              "text": "Increase product visibility",
+              "isCorrect": false
+            },
+            {
+              "text": "Support recruitment campaigns",
+              "isCorrect": false
+            },
+            {
+              "text": "Enable associates to volunteer and create community impact",
+              "isCorrect": true
+            },
+            {
+              "text": "Track sales performance",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_4",
+          "corpus": "Through OSAAT, associates can primarily contribute by...",
+          "options": [
+            {
+              "text": "Volunteering their time, effort and skills",
+              "isCorrect": true
+            },
+            {
+              "text": "Buying products",
+              "isCorrect": false
+            },
+            {
+              "text": "Attending only internal meetings",
+              "isCorrect": false
+            },
+            {
+              "text": "Completing mandatory surveys",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_5",
+          "corpus": "Which statement best reflects the spirit of OSAAT?",
+          "options": [
+            {
+              "text": "Only large events matter",
+              "isCorrect": false
+            },
+            {
+              "text": "Volunteering is mainly about recognition",
+              "isCorrect": false
+            },
+            {
+              "text": "Only specialists can create impact",
+              "isCorrect": false
+            },
+            {
+              "text": "Individual actions can combine to create meaningful collective impact",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_6",
+          "corpus": "What should be at the center of an OSAAT activity?",
+          "options": [
+            {
+              "text": "The volunteer photo opportunity",
+              "isCorrect": false
+            },
+            {
+              "text": "A genuine community need and meaningful contribution",
+              "isCorrect": true
+            },
+            {
+              "text": "The number of senior leaders attending",
+              "isCorrect": false
+            },
+            {
+              "text": "The length of the event",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_7",
+          "corpus": "Which outcome is most aligned with OSAAT?",
+          "options": [
+            {
+              "text": "Positive impact on people, communities or the environment",
+              "isCorrect": true
+            },
+            {
+              "text": "Increased market share",
+              "isCorrect": false
+            },
+            {
+              "text": "More advertising impressions",
+              "isCorrect": false
+            },
+            {
+              "text": "Higher product sales",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_8",
+          "corpus": "Which contribution can count as volunteering?",
+          "options": [
+            {
+              "text": "Only physical labor",
+              "isCorrect": false
+            },
+            {
+              "text": "Only financial donations",
+              "isCorrect": false
+            },
+            {
+              "text": "Time, skills or hands-on support that helps a cause",
+              "isCorrect": true
+            },
+            {
+              "text": "Only activities lasting a full day",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_9",
+          "corpus": "Why can a short volunteering activity still be meaningful?",
+          "options": [
+            {
+              "text": "Short events are always better",
+              "isCorrect": false
+            },
+            {
+              "text": "Impact depends on the value created, not only the duration",
+              "isCorrect": true
+            },
+            {
+              "text": "Short events automatically count as a full day",
+              "isCorrect": false
+            },
+            {
+              "text": "Because attendance matters more than impact",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_10",
+          "corpus": "What is the strongest sign that an OSAAT activity is meaningful?",
+          "options": [
+            {
+              "text": "It generates many photos",
+              "isCorrect": false
+            },
+            {
+              "text": "It has the largest possible crowd",
+              "isCorrect": false
+            },
+            {
+              "text": "It addresses an identified need and creates useful benefit",
+              "isCorrect": true
+            },
+            {
+              "text": "It lasts several hours",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_2",
+      "title": "OSAAT Portal",
+      "questions": [
+        {
+          "questionId": "q_11",
+          "corpus": "Which OSAAT portal feature helps associates discover available volunteering opportunities?",
+          "options": [
+            {
+              "text": "Search & Sign Up",
+              "isCorrect": true
+            },
+            {
+              "text": "Log Hours",
+              "isCorrect": false
+            },
+            {
+              "text": "Create an Event",
+              "isCorrect": false
+            },
+            {
+              "text": "Account Settings",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_12",
+          "corpus": "Which portal feature is most appropriate when an associate wants to organize a volunteering opportunity?",
+          "options": [
+            {
+              "text": "Areas to Give Back",
+              "isCorrect": false
+            },
+            {
+              "text": "Log Hours",
+              "isCorrect": false
+            },
+            {
+              "text": "Search & Sign Up",
+              "isCorrect": false
+            },
+            {
+              "text": "Create an Event",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_13",
+          "corpus": "Which OSAAT portal action is most relevant after completing a volunteering activity?",
+          "options": [
+            {
+              "text": "Create another profile",
+              "isCorrect": false
+            },
+            {
+              "text": "Log Hours",
+              "isCorrect": true
+            },
+            {
+              "text": "Search & Sign Up",
+              "isCorrect": false
+            },
+            {
+              "text": "Change location",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_14",
+          "corpus": "Why is the 'Areas to Give Back' section useful?",
+          "options": [
+            {
+              "text": "It helps associates explore different causes and ways to contribute",
+              "isCorrect": true
+            },
+            {
+              "text": "It records attendance automatically",
+              "isCorrect": false
+            },
+            {
+              "text": "It replaces NGO partners",
+              "isCorrect": false
+            },
+            {
+              "text": "It manages payroll",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_15",
+          "corpus": "An associate wants to volunteer but has no specific event in mind. What is the most logical first step?",
+          "options": [
+            {
+              "text": "Log hours immediately",
+              "isCorrect": false
+            },
+            {
+              "text": "Create an event without checking existing options",
+              "isCorrect": false
+            },
+            {
+              "text": "Explore Areas to Give Back or Search & Sign Up",
+              "isCorrect": true
+            },
+            {
+              "text": "Wait for an invitation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_16",
+          "corpus": "What should an associate review before signing up for an event?",
+          "options": [
+            {
+              "text": "Only the event title",
+              "isCorrect": false
+            },
+            {
+              "text": "Date, time, location, purpose and participation requirements",
+              "isCorrect": true
+            },
+            {
+              "text": "Only the organizer's name",
+              "isCorrect": false
+            },
+            {
+              "text": "Only the number of volunteers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_17",
+          "corpus": "Why is accurate event registration important?",
+          "options": [
+            {
+              "text": "It helps organizers plan capacity, materials and logistics",
+              "isCorrect": true
+            },
+            {
+              "text": "It guarantees recognition",
+              "isCorrect": false
+            },
+            {
+              "text": "It replaces attendance tracking",
+              "isCorrect": false
+            },
+            {
+              "text": "It creates a donation automatically",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_18",
+          "corpus": "Which sequence best represents a typical OSAAT volunteer journey?",
+          "options": [
+            {
+              "text": "Log Hours → Search → Sign Up → Participate",
+              "isCorrect": false
+            },
+            {
+              "text": "Search → Sign Up → Participate → Log Hours",
+              "isCorrect": true
+            },
+            {
+              "text": "Create Event → Log Hours → Participate → Search",
+              "isCorrect": false
+            },
+            {
+              "text": "Participate → Search → Sign Up → Log Hours",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_19",
+          "corpus": "Why should volunteer hours be logged accurately?",
+          "options": [
+            {
+              "text": "To increase compensation",
+              "isCorrect": false
+            },
+            {
+              "text": "To unlock travel benefits",
+              "isCorrect": false
+            },
+            {
+              "text": "To help capture participation and impact reliably",
+              "isCorrect": true
+            },
+            {
+              "text": "To replace event feedback",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_20",
+          "corpus": "An associate signs up for an event but does not participate. What should they do about volunteer hours?",
+          "options": [
+            {
+              "text": "Log the planned hours",
+              "isCorrect": false
+            },
+            {
+              "text": "Log half the planned hours",
+              "isCorrect": false
+            },
+            {
+              "text": "Ask another person to log on their behalf",
+              "isCorrect": false
+            },
+            {
+              "text": "Do not log hours that were not actually volunteered",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_3",
+      "title": "Volunteering Principles",
+      "questions": [
+        {
+          "questionId": "q_21",
+          "corpus": "What is skills-based volunteering?",
+          "options": [
+            {
+              "text": "Using professional or personal expertise to support a cause",
+              "isCorrect": true
+            },
+            {
+              "text": "Only performing physical work",
+              "isCorrect": false
+            },
+            {
+              "text": "Donating equipment",
+              "isCorrect": false
+            },
+            {
+              "text": "Attending a training course",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_22",
+          "corpus": "Which is the best example of skills-based volunteering?",
+          "options": [
+            {
+              "text": "Taking event photos for yourself",
+              "isCorrect": false
+            },
+            {
+              "text": "Teaching students coding or career skills",
+              "isCorrect": true
+            },
+            {
+              "text": "Buying lunch for colleagues",
+              "isCorrect": false
+            },
+            {
+              "text": "Watching an NGO presentation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_23",
+          "corpus": "Which is an example of hands-on volunteering?",
+          "options": [
+            {
+              "text": "Reading an NGO website",
+              "isCorrect": false
+            },
+            {
+              "text": "Completing an internal survey",
+              "isCorrect": false
+            },
+            {
+              "text": "Packing meals for distribution",
+              "isCorrect": true
+            },
+            {
+              "text": "Joining a status meeting",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_24",
+          "corpus": "What makes volunteering more impactful?",
+          "options": [
+            {
+              "text": "Working in isolation",
+              "isCorrect": false
+            },
+            {
+              "text": "Avoiding beneficiary interaction entirely",
+              "isCorrect": false
+            },
+            {
+              "text": "Only donating money",
+              "isCorrect": false
+            },
+            {
+              "text": "Working together toward a clear community need",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_25",
+          "corpus": "What should a volunteer do if they do not understand their assigned task?",
+          "options": [
+            {
+              "text": "Guess and continue",
+              "isCorrect": false
+            },
+            {
+              "text": "Ask the event organizer or NGO representative for guidance",
+              "isCorrect": true
+            },
+            {
+              "text": "Leave without telling anyone",
+              "isCorrect": false
+            },
+            {
+              "text": "Change the task independently",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_26",
+          "corpus": "What best describes responsible volunteering?",
+          "options": [
+            {
+              "text": "Doing whatever the volunteer prefers",
+              "isCorrect": false
+            },
+            {
+              "text": "Completing as many activities as possible",
+              "isCorrect": false
+            },
+            {
+              "text": "Contributing in a way that respects need, safety and dignity",
+              "isCorrect": true
+            },
+            {
+              "text": "Focusing primarily on recognition",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_27",
+          "corpus": "Which statement about volunteering is most accurate?",
+          "options": [
+            {
+              "text": "Different opportunities can require different skills, time commitments and forms of participation",
+              "isCorrect": true
+            },
+            {
+              "text": "Every event must be outdoors",
+              "isCorrect": false
+            },
+            {
+              "text": "Every volunteer must have specialist knowledge",
+              "isCorrect": false
+            },
+            {
+              "text": "Every event must last a full day",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_28",
+          "corpus": "Why is teamwork useful during a volunteer activity?",
+          "options": [
+            {
+              "text": "It removes the need for an NGO partner",
+              "isCorrect": false
+            },
+            {
+              "text": "It guarantees the event will end early",
+              "isCorrect": false
+            },
+            {
+              "text": "It lets people combine efforts and complete tasks more effectively",
+              "isCorrect": true
+            },
+            {
+              "text": "It eliminates planning",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_29",
+          "corpus": "Which approach best supports meaningful volunteering?",
+          "options": [
+            {
+              "text": "Choose only activities that are easy to organize",
+              "isCorrect": false
+            },
+            {
+              "text": "Understand the need before deciding how to help",
+              "isCorrect": true
+            },
+            {
+              "text": "Repeat the same activity for every community",
+              "isCorrect": false
+            },
+            {
+              "text": "Measure only volunteer headcount",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_30",
+          "corpus": "Which statement is most accurate about volunteer impact?",
+          "options": [
+            {
+              "text": "Longer events always create more impact",
+              "isCorrect": false
+            },
+            {
+              "text": "The number of volunteers alone proves success",
+              "isCorrect": false
+            },
+            {
+              "text": "Meaningful impact depends on what changes or improves because of the activity",
+              "isCorrect": true
+            },
+            {
+              "text": "Impact can only be measured financially",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_4",
+      "title": "NGO Partnerships",
+      "questions": [
+        {
+          "questionId": "q_31",
+          "corpus": "What does NGO stand for?",
+          "options": [
+            {
+              "text": "National Giving Office",
+              "isCorrect": false
+            },
+            {
+              "text": "Non-Governmental Organization",
+              "isCorrect": true
+            },
+            {
+              "text": "Network Growth Operation",
+              "isCorrect": false
+            },
+            {
+              "text": "New Global Organization",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_32",
+          "corpus": "Why does OSAAT collaborate with NGOs?",
+          "options": [
+            {
+              "text": "To reach and support communities more effectively",
+              "isCorrect": true
+            },
+            {
+              "text": "To conduct employee appraisals",
+              "isCorrect": false
+            },
+            {
+              "text": "To increase office space",
+              "isCorrect": false
+            },
+            {
+              "text": "To advertise products",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_33",
+          "corpus": "What is a common role of NGOs?",
+          "options": [
+            {
+              "text": "Managing stock markets",
+              "isCorrect": false
+            },
+            {
+              "text": "Setting corporate salaries",
+              "isCorrect": false
+            },
+            {
+              "text": "Supporting social causes and community needs",
+              "isCorrect": true
+            },
+            {
+              "text": "Manufacturing products",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_34",
+          "corpus": "Why can local NGO knowledge be especially valuable?",
+          "options": [
+            {
+              "text": "NGOs can approve employee leave",
+              "isCorrect": false
+            },
+            {
+              "text": "They often understand local needs, culture and practical challenges",
+              "isCorrect": true
+            },
+            {
+              "text": "They always have unlimited volunteers",
+              "isCorrect": false
+            },
+            {
+              "text": "They control corporate policies",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_35",
+          "corpus": "What should ideally drive the design of an NGO volunteering activity?",
+          "options": [
+            {
+              "text": "The easiest activity for employees",
+              "isCorrect": false
+            },
+            {
+              "text": "What looks best in photographs",
+              "isCorrect": false
+            },
+            {
+              "text": "Actual community needs and the NGO's subject-matter experience",
+              "isCorrect": true
+            },
+            {
+              "text": "The number of available T-shirts",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_36",
+          "corpus": "Which statement best describes a strong NGO partnership?",
+          "options": [
+            {
+              "text": "Both parties collaborate around shared goals and community needs",
+              "isCorrect": true
+            },
+            {
+              "text": "The corporate partner decides everything",
+              "isCorrect": false
+            },
+            {
+              "text": "The NGO works without discussing objectives",
+              "isCorrect": false
+            },
+            {
+              "text": "Volunteers operate independently from the NGO",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_37",
+          "corpus": "Before beginning an NGO-supported activity, what should volunteers understand?",
+          "options": [
+            {
+              "text": "The NGO's full financial history",
+              "isCorrect": false
+            },
+            {
+              "text": "The purpose, beneficiaries, task and expected conduct",
+              "isCorrect": true
+            },
+            {
+              "text": "Every other program run by the NGO",
+              "isCorrect": false
+            },
+            {
+              "text": "Only the event start time",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_38",
+          "corpus": "If an NGO asks volunteers to follow a specific distribution process, what should they normally do?",
+          "options": [
+            {
+              "text": "Create a new process on the spot",
+              "isCorrect": false
+            },
+            {
+              "text": "Ignore it if it takes longer",
+              "isCorrect": false
+            },
+            {
+              "text": "Follow the agreed process unless there is a safety or ethical concern",
+              "isCorrect": true
+            },
+            {
+              "text": "Let beneficiaries decide the process",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_39",
+          "corpus": "An NGO says the community needs educational materials rather than another clean-up drive. What is the best response?",
+          "options": [
+            {
+              "text": "Run the clean-up because it is easier",
+              "isCorrect": false
+            },
+            {
+              "text": "Listen to the need and explore appropriate educational support",
+              "isCorrect": true
+            },
+            {
+              "text": "Cancel all volunteering",
+              "isCorrect": false
+            },
+            {
+              "text": "Ask employees to vote without NGO input",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_40",
+          "corpus": "Which is NOT a reliable indicator of a successful NGO activity?",
+          "options": [
+            {
+              "text": "Useful outputs delivered",
+              "isCorrect": false
+            },
+            {
+              "text": "Beneficiary feedback",
+              "isCorrect": false
+            },
+            {
+              "text": "Community needs addressed",
+              "isCorrect": false
+            },
+            {
+              "text": "Number of photos posted online",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_5",
+      "title": "Community Impact",
+      "questions": [
+        {
+          "questionId": "q_41",
+          "corpus": "Which activity most directly addresses food insecurity?",
+          "options": [
+            {
+              "text": "Lake cleaning",
+              "isCorrect": false
+            },
+            {
+              "text": "Coding workshop",
+              "isCorrect": false
+            },
+            {
+              "text": "Meal packing or ration-kit distribution",
+              "isCorrect": true
+            },
+            {
+              "text": "Tree planting",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_42",
+          "corpus": "Which activity most directly supports environmental stewardship?",
+          "options": [
+            {
+              "text": "Lake or community clean-up",
+              "isCorrect": true
+            },
+            {
+              "text": "Resume mentoring",
+              "isCorrect": false
+            },
+            {
+              "text": "Meal packing",
+              "isCorrect": false
+            },
+            {
+              "text": "Reading support",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_43",
+          "corpus": "Which activity most directly supports education?",
+          "options": [
+            {
+              "text": "Waste segregation drive",
+              "isCorrect": false
+            },
+            {
+              "text": "Student mentoring or digital-skills training",
+              "isCorrect": true
+            },
+            {
+              "text": "Meal packing",
+              "isCorrect": false
+            },
+            {
+              "text": "Blood donation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_44",
+          "corpus": "Which activity most directly supports health and community welfare?",
+          "options": [
+            {
+              "text": "School wall painting",
+              "isCorrect": false
+            },
+            {
+              "text": "Tree planting",
+              "isCorrect": false
+            },
+            {
+              "text": "Coding mentorship",
+              "isCorrect": false
+            },
+            {
+              "text": "Blood donation",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_45",
+          "corpus": "Which activity can combine education and sustainability?",
+          "options": [
+            {
+              "text": "Teaching students about waste segregation and recycling",
+              "isCorrect": true
+            },
+            {
+              "text": "Meal packing only",
+              "isCorrect": false
+            },
+            {
+              "text": "Product sampling",
+              "isCorrect": false
+            },
+            {
+              "text": "Office decoration",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_46",
+          "corpus": "What is the difference between an output and an outcome?",
+          "options": [
+            {
+              "text": "They mean exactly the same thing",
+              "isCorrect": false
+            },
+            {
+              "text": "An output is what was delivered; an outcome is the resulting change or benefit",
+              "isCorrect": true
+            },
+            {
+              "text": "Outcomes are always financial",
+              "isCorrect": false
+            },
+            {
+              "text": "Outputs cannot be measured",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_47",
+          "corpus": "'5,000 meals packed' is primarily an example of...",
+          "options": [
+            {
+              "text": "A long-term outcome",
+              "isCorrect": false
+            },
+            {
+              "text": "A strategy",
+              "isCorrect": false
+            },
+            {
+              "text": "An output",
+              "isCorrect": true
+            },
+            {
+              "text": "A risk",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_48",
+          "corpus": "'Students demonstrate improved digital skills after mentoring' is primarily an example of...",
+          "options": [
+            {
+              "text": "An outcome",
+              "isCorrect": true
+            },
+            {
+              "text": "An attendance count",
+              "isCorrect": false
+            },
+            {
+              "text": "A registration metric",
+              "isCorrect": false
+            },
+            {
+              "text": "A volunteer input",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_49",
+          "corpus": "Why should programs consider outcomes and not only volunteer numbers?",
+          "options": [
+            {
+              "text": "Volunteer numbers never matter",
+              "isCorrect": false
+            },
+            {
+              "text": "High participation does not automatically mean meaningful community impact",
+              "isCorrect": true
+            },
+            {
+              "text": "Outcomes are always easier to measure",
+              "isCorrect": false
+            },
+            {
+              "text": "Only beneficiaries should be counted",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_50",
+          "corpus": "Which is the strongest impact statement?",
+          "options": [
+            {
+              "text": "100 volunteers attended",
+              "isCorrect": false
+            },
+            {
+              "text": "The event lasted four hours",
+              "isCorrect": false
+            },
+            {
+              "text": "Many photos were taken",
+              "isCorrect": false
+            },
+            {
+              "text": "100 volunteers packed 10,000 meals that were distributed to identified families",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_6",
+      "title": "Event Planning & Registration",
+      "questions": [
+        {
+          "questionId": "q_51",
+          "corpus": "What should come first when designing a volunteering activity?",
+          "options": [
+            {
+              "text": "Choosing T-shirt colors",
+              "isCorrect": false
+            },
+            {
+              "text": "Understanding the community need and desired impact",
+              "isCorrect": true
+            },
+            {
+              "text": "Designing invitations",
+              "isCorrect": false
+            },
+            {
+              "text": "Selecting photographers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_52",
+          "corpus": "Which planning sequence is strongest?",
+          "options": [
+            {
+              "text": "Community need → Objective → Activity → Measurement",
+              "isCorrect": true
+            },
+            {
+              "text": "Activity → Community need → Objective → Measurement",
+              "isCorrect": false
+            },
+            {
+              "text": "Measurement → Activity → Need → Objective",
+              "isCorrect": false
+            },
+            {
+              "text": "Volunteers → Photos → Activity → Objective",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_53",
+          "corpus": "Why should organizers define an objective before the event?",
+          "options": [
+            {
+              "text": "To make the invitation longer",
+              "isCorrect": false
+            },
+            {
+              "text": "To guarantee perfect results",
+              "isCorrect": false
+            },
+            {
+              "text": "To clarify what the activity is intended to accomplish",
+              "isCorrect": true
+            },
+            {
+              "text": "To replace NGO consultation",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_54",
+          "corpus": "Which objective is written most clearly?",
+          "options": [
+            {
+              "text": "Do something good",
+              "isCorrect": false
+            },
+            {
+              "text": "Have a volunteering event",
+              "isCorrect": false
+            },
+            {
+              "text": "Get maximum volunteers",
+              "isCorrect": false
+            },
+            {
+              "text": "Pack and prepare 5,000 meals for distribution through the NGO partner",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_55",
+          "corpus": "What should determine the number of volunteers required?",
+          "options": [
+            {
+              "text": "The largest number possible",
+              "isCorrect": false
+            },
+            {
+              "text": "Activity scope, capacity, safety and NGO requirements",
+              "isCorrect": true
+            },
+            {
+              "text": "The total office headcount",
+              "isCorrect": false
+            },
+            {
+              "text": "Social-media interest",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_56",
+          "corpus": "Why should materials be planned before the event?",
+          "options": [
+            {
+              "text": "Volunteers expect gifts",
+              "isCorrect": false
+            },
+            {
+              "text": "More materials always mean more impact",
+              "isCorrect": false
+            },
+            {
+              "text": "Insufficient or excessive materials can reduce efficiency and effectiveness",
+              "isCorrect": true
+            },
+            {
+              "text": "Materials are the only measure of success",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_57",
+          "corpus": "Why is an NGO or organizer briefing useful before volunteers begin?",
+          "options": [
+            {
+              "text": "It helps volunteers understand the cause, task, safety expectations and desired impact",
+              "isCorrect": true
+            },
+            {
+              "text": "It replaces all safety requirements",
+              "isCorrect": false
+            },
+            {
+              "text": "It is only useful for managers",
+              "isCorrect": false
+            },
+            {
+              "text": "It is mainly for taking attendance",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_58",
+          "corpus": "A registered volunteer can no longer attend. What is the responsible action?",
+          "options": [
+            {
+              "text": "Do nothing",
+              "isCorrect": false
+            },
+            {
+              "text": "Ask someone else to attend under their name",
+              "isCorrect": false
+            },
+            {
+              "text": "Inform the organizer or withdraw using the available process",
+              "isCorrect": true
+            },
+            {
+              "text": "Log the hours anyway",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_59",
+          "corpus": "Why can a no-show create problems for an event?",
+          "options": [
+            {
+              "text": "It changes the event logo",
+              "isCorrect": false
+            },
+            {
+              "text": "Organizers may have planned capacity, materials and roles based on registrations",
+              "isCorrect": true
+            },
+            {
+              "text": "It always cancels the event",
+              "isCorrect": false
+            },
+            {
+              "text": "It changes portal permissions",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_60",
+          "corpus": "An event has reached its stated volunteer capacity. What is the best assumption?",
+          "options": [
+            {
+              "text": "The limit may reflect venue, materials, supervision or safety constraints",
+              "isCorrect": true
+            },
+            {
+              "text": "The number is arbitrary",
+              "isCorrect": false
+            },
+            {
+              "text": "The portal cannot technically support more users",
+              "isCorrect": false
+            },
+            {
+              "text": "The NGO does not want additional help",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_7",
+      "title": "Volunteer Conduct & Safety",
+      "questions": [
+        {
+          "questionId": "q_61",
+          "corpus": "What should guide interactions with beneficiaries?",
+          "options": [
+            {
+              "text": "Personal curiosity",
+              "isCorrect": false
+            },
+            {
+              "text": "Respect, dignity and appropriate boundaries",
+              "isCorrect": true
+            },
+            {
+              "text": "The need for social-media content",
+              "isCorrect": false
+            },
+            {
+              "text": "The fastest possible interaction",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_62",
+          "corpus": "Before taking photographs of beneficiaries, what is the most responsible approach?",
+          "options": [
+            {
+              "text": "Take photos first and ask later",
+              "isCorrect": false
+            },
+            {
+              "text": "Assume event participation equals consent",
+              "isCorrect": false
+            },
+            {
+              "text": "Follow applicable consent and NGO/event guidance",
+              "isCorrect": true
+            },
+            {
+              "text": "Ask another volunteer instead of the organizer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_63",
+          "corpus": "A child shares personal information with a volunteer during an NGO activity. What should the volunteer do?",
+          "options": [
+            {
+              "text": "Post it in the volunteer chat",
+              "isCorrect": false
+            },
+            {
+              "text": "Share it with other participants",
+              "isCorrect": false
+            },
+            {
+              "text": "Use it in an event story",
+              "isCorrect": false
+            },
+            {
+              "text": "Handle it carefully and follow safeguarding/privacy guidance",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_64",
+          "corpus": "A volunteer notices an unsafe condition during an activity. What should they do first?",
+          "options": [
+            {
+              "text": "Raise it promptly with the coordinator and avoid unsafe action",
+              "isCorrect": true
+            },
+            {
+              "text": "Continue until the activity ends",
+              "isCorrect": false
+            },
+            {
+              "text": "Post about it online",
+              "isCorrect": false
+            },
+            {
+              "text": "Wait for someone else to notice",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_65",
+          "corpus": "Which approach is most appropriate when volunteering in a community different from your own?",
+          "options": [
+            {
+              "text": "Assume your approach is better",
+              "isCorrect": false
+            },
+            {
+              "text": "Be respectful and sensitive to local culture and practices",
+              "isCorrect": true
+            },
+            {
+              "text": "Avoid interacting with anyone",
+              "isCorrect": false
+            },
+            {
+              "text": "Correct local practices immediately",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_66",
+          "corpus": "A volunteer completes their assigned task early. What should they do next?",
+          "options": [
+            {
+              "text": "Leave without informing anyone",
+              "isCorrect": false
+            },
+            {
+              "text": "Start a new task independently",
+              "isCorrect": false
+            },
+            {
+              "text": "Check with the coordinator whether additional help is needed",
+              "isCorrect": true
+            },
+            {
+              "text": "Change other volunteers' assignments",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_67",
+          "corpus": "Why are event instructions important?",
+          "options": [
+            {
+              "text": "They help maintain safety, coordination and intended impact",
+              "isCorrect": true
+            },
+            {
+              "text": "They are only relevant to first-time volunteers",
+              "isCorrect": false
+            },
+            {
+              "text": "They are optional suggestions",
+              "isCorrect": false
+            },
+            {
+              "text": "They mainly make events longer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_68",
+          "corpus": "Which behavior is least appropriate at a volunteering event?",
+          "options": [
+            {
+              "text": "Asking for clarification",
+              "isCorrect": false
+            },
+            {
+              "text": "Helping teammates",
+              "isCorrect": false
+            },
+            {
+              "text": "Respecting beneficiaries",
+              "isCorrect": false
+            },
+            {
+              "text": "Prioritizing personal content creation over the activity",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_69",
+          "corpus": "If a volunteer disagrees with the NGO's process, what is the best approach?",
+          "options": [
+            {
+              "text": "Ignore the process",
+              "isCorrect": false
+            },
+            {
+              "text": "Discuss the concern constructively with the coordinator",
+              "isCorrect": true
+            },
+            {
+              "text": "Publicly criticize the NGO",
+              "isCorrect": false
+            },
+            {
+              "text": "Tell others to stop participating",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_70",
+          "corpus": "Why is reliability important when volunteering?",
+          "options": [
+            {
+              "text": "It increases compensation",
+              "isCorrect": false
+            },
+            {
+              "text": "Attendance is the only impact metric",
+              "isCorrect": false
+            },
+            {
+              "text": "Organizers may plan beneficiaries, materials and roles around confirmed volunteers",
+              "isCorrect": true
+            },
+            {
+              "text": "NGOs cannot operate without every individual volunteer",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_8",
+      "title": "Sustainability & Skills",
+      "questions": [
+        {
+          "questionId": "q_71",
+          "corpus": "What does sustainable community impact mean in volunteering?",
+          "options": [
+            {
+              "text": "Every activity must be environmental",
+              "isCorrect": false
+            },
+            {
+              "text": "Benefits should ideally continue beyond the immediate activity",
+              "isCorrect": true
+            },
+            {
+              "text": "Every activity must repeat weekly",
+              "isCorrect": false
+            },
+            {
+              "text": "Every activity must involve donations",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_72",
+          "corpus": "Which example is most likely to create longer-term impact?",
+          "options": [
+            {
+              "text": "Taking photographs with students",
+              "isCorrect": false
+            },
+            {
+              "text": "Distributing event badges",
+              "isCorrect": false
+            },
+            {
+              "text": "Teaching a useful skill participants can continue applying",
+              "isCorrect": true
+            },
+            {
+              "text": "Increasing volunteer attendance only",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_73",
+          "corpus": "Why can mentoring create lasting impact?",
+          "options": [
+            {
+              "text": "Knowledge and skills can continue benefiting participants after the session",
+              "isCorrect": true
+            },
+            {
+              "text": "Mentoring requires no preparation",
+              "isCorrect": false
+            },
+            {
+              "text": "Mentoring always guarantees employment",
+              "isCorrect": false
+            },
+            {
+              "text": "Mentoring is always easy to measure",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_74",
+          "corpus": "Which pair best represents environmental volunteering?",
+          "options": [
+            {
+              "text": "Meal packing + mentoring",
+              "isCorrect": false
+            },
+            {
+              "text": "Career coaching + blood donation",
+              "isCorrect": false
+            },
+            {
+              "text": "Coding + food distribution",
+              "isCorrect": false
+            },
+            {
+              "text": "Clean-up + waste-segregation awareness",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_75",
+          "corpus": "Why might awareness be paired with a clean-up activity?",
+          "options": [
+            {
+              "text": "To make the event longer",
+              "isCorrect": false
+            },
+            {
+              "text": "Cleaning addresses the immediate issue while awareness may help reduce recurrence",
+              "isCorrect": true
+            },
+            {
+              "text": "Awareness completely replaces physical action",
+              "isCorrect": false
+            },
+            {
+              "text": "Clean-ups have no impact",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_76",
+          "corpus": "Which approach is more likely to address the root cause of improper waste disposal?",
+          "options": [
+            {
+              "text": "Cleaning one location once",
+              "isCorrect": false
+            },
+            {
+              "text": "Taking before-and-after photos",
+              "isCorrect": false
+            },
+            {
+              "text": "Combining clean-up with education and appropriate waste-management practices",
+              "isCorrect": true
+            },
+            {
+              "text": "Increasing volunteer headcount",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_77",
+          "corpus": "An associate cannot participate physically but has strong technical expertise. What can be an effective option?",
+          "options": [
+            {
+              "text": "They cannot volunteer",
+              "isCorrect": false
+            },
+            {
+              "text": "A suitable skills-based or virtual volunteering opportunity",
+              "isCorrect": true
+            },
+            {
+              "text": "Logging hours without participating",
+              "isCorrect": false
+            },
+            {
+              "text": "Registering for a physical event anyway",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_78",
+          "corpus": "Which activity best uses professional knowledge for social impact?",
+          "options": [
+            {
+              "text": "A finance professional teaching basic financial literacy",
+              "isCorrect": true
+            },
+            {
+              "text": "An employee attending a routine meeting",
+              "isCorrect": false
+            },
+            {
+              "text": "Buying branded merchandise",
+              "isCorrect": false
+            },
+            {
+              "text": "Watching an online advertisement",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_79",
+          "corpus": "What makes skills-based volunteering valuable to an NGO?",
+          "options": [
+            {
+              "text": "It always replaces paid staff",
+              "isCorrect": false
+            },
+            {
+              "text": "It can provide expertise the NGO may otherwise have limited access to",
+              "isCorrect": true
+            },
+            {
+              "text": "It requires no planning",
+              "isCorrect": false
+            },
+            {
+              "text": "It is always faster than hands-on volunteering",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_80",
+          "corpus": "Which statement best describes sustainable volunteering?",
+          "options": [
+            {
+              "text": "Focus only on one-day outputs",
+              "isCorrect": false
+            },
+            {
+              "text": "Repeat the same activity regardless of results",
+              "isCorrect": false
+            },
+            {
+              "text": "Consider whether the activity can create lasting benefit or strengthen capability",
+              "isCorrect": true
+            },
+            {
+              "text": "Avoid measuring outcomes",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_9",
+      "title": "Applied Scenarios",
+      "questions": [
+        {
+          "questionId": "q_81",
+          "corpus": "An OSAAT event attracts 150 volunteers, but the NGO says it can effectively accommodate only 80. What is the best approach?",
+          "options": [
+            {
+              "text": "Send all 150 anyway",
+              "isCorrect": false
+            },
+            {
+              "text": "Ask the NGO to manage somehow",
+              "isCorrect": false
+            },
+            {
+              "text": "Respect capacity and explore another session or activity for the remaining volunteers",
+              "isCorrect": true
+            },
+            {
+              "text": "Cancel the partnership",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_82",
+          "corpus": "An activity has excellent attendance but delivers only half of its intended output. How should it be viewed?",
+          "options": [
+            {
+              "text": "A complete success because attendance was high",
+              "isCorrect": false
+            },
+            {
+              "text": "Participation was strong, but delivery and root causes should be reviewed",
+              "isCorrect": true
+            },
+            {
+              "text": "A total failure because attendance does not matter",
+              "isCorrect": false
+            },
+            {
+              "text": "No evaluation is needed",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_83",
+          "corpus": "Volunteers want to distribute items directly, but the NGO asks them to use an established beneficiary-selection process. What is the best response?",
+          "options": [
+            {
+              "text": "Follow the NGO's agreed process because it is designed around identified needs and responsible distribution",
+              "isCorrect": true
+            },
+            {
+              "text": "Ignore the NGO",
+              "isCorrect": false
+            },
+            {
+              "text": "Select beneficiaries randomly",
+              "isCorrect": false
+            },
+            {
+              "text": "Give items to whoever arrives first",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_84",
+          "corpus": "You find an event you like, but it conflicts with another commitment. What is the best choice?",
+          "options": [
+            {
+              "text": "Register anyway and decide later",
+              "isCorrect": false
+            },
+            {
+              "text": "Register so the event looks full",
+              "isCorrect": false
+            },
+            {
+              "text": "Ask someone else to use your registration",
+              "isCorrect": false
+            },
+            {
+              "text": "Choose an opportunity you can realistically commit to",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_85",
+          "corpus": "Two opportunities are available: one is highly visible but addresses a limited need; the other is less visible but urgently requested by an NGO. Which is more meaningful?",
+          "options": [
+            {
+              "text": "The more visible activity",
+              "isCorrect": false
+            },
+            {
+              "text": "The activity addressing the stronger identified need",
+              "isCorrect": true
+            },
+            {
+              "text": "Whichever produces better photos",
+              "isCorrect": false
+            },
+            {
+              "text": "Whichever has more senior leaders",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_86",
+          "corpus": "A school-painting event is well executed, but the school had identified digital literacy as its highest priority. What lesson does this illustrate?",
+          "options": [
+            {
+              "text": "Painting should never be a volunteer activity",
+              "isCorrect": false
+            },
+            {
+              "text": "Schools do not need volunteers",
+              "isCorrect": false
+            },
+            {
+              "text": "Activities should be aligned with actual beneficiary needs, not only what is easy to organize",
+              "isCorrect": true
+            },
+            {
+              "text": "Digital literacy is always more important than infrastructure",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_87",
+          "corpus": "Which event demonstrates deeper impact?",
+          "options": [
+            {
+              "text": "500 register and 150 attend",
+              "isCorrect": false
+            },
+            {
+              "text": "300 attend but no outcome is captured",
+              "isCorrect": false
+            },
+            {
+              "text": "600 people receive the invitation",
+              "isCorrect": false
+            },
+            {
+              "text": "100 volunteers complete a defined activity addressing an identified need and the impact is measured",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionId": "q_88",
+          "corpus": "After an event, the NGO says the activity was useful but recommends a different approach next time. What should organizers do?",
+          "options": [
+            {
+              "text": "Capture the feedback and use it to improve future activities",
+              "isCorrect": true
+            },
+            {
+              "text": "Ignore it because the event is complete",
+              "isCorrect": false
+            },
+            {
+              "text": "Avoid the NGO next time",
+              "isCorrect": false
+            },
+            {
+              "text": "Remove the feedback from the report",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_89",
+          "corpus": "A volunteer wants to post a beneficiary's story online because it is inspiring. What should happen first?",
+          "options": [
+            {
+              "text": "Post it quickly while the event is trending",
+              "isCorrect": false
+            },
+            {
+              "text": "Follow consent, privacy and organizer/NGO guidance before sharing",
+              "isCorrect": true
+            },
+            {
+              "text": "Ask another volunteer for permission",
+              "isCorrect": false
+            },
+            {
+              "text": "Remove the beneficiary's first name and post everything else",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_90",
+          "corpus": "An activity produces a large number of kits, but many contain items the community does not need. What is the strongest lesson?",
+          "options": [
+            {
+              "text": "More kits always mean more impact",
+              "isCorrect": false
+            },
+            {
+              "text": "The activity needs better alignment with beneficiary needs and NGO guidance",
+              "isCorrect": true
+            },
+            {
+              "text": "Volunteer count should be increased",
+              "isCorrect": false
+            },
+            {
+              "text": "Only distribution speed matters",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "section_10",
+      "title": "Challenge Round",
+      "questions": [
+        {
+          "questionId": "q_91",
+          "corpus": "Which metric combination gives the most balanced view of a volunteering event?",
+          "options": [
+            {
+              "text": "Registrations only",
+              "isCorrect": false
+            },
+            {
+              "text": "Volunteer hours only",
+              "isCorrect": false
+            },
+            {
+              "text": "Participation, outputs, beneficiary reach and meaningful outcomes",
+              "isCorrect": true
+            },
+            {
+              "text": "Photos and social-media reactions",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_92",
+          "corpus": "Why is 'beneficiaries reached' useful but not sufficient by itself?",
+          "options": [
+            {
+              "text": "It tells us reach, but not necessarily the quality or outcome of the support",
+              "isCorrect": true
+            },
+            {
+              "text": "It is never useful",
+              "isCorrect": false
+            },
+            {
+              "text": "It only applies to environmental activities",
+              "isCorrect": false
+            },
+            {
+              "text": "It always measures long-term impact",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_93",
+          "corpus": "A team wants to maximize volunteer hours even though the task can be completed effectively in less time. What should take priority?",
+          "options": [
+            {
+              "text": "Maximizing recorded hours",
+              "isCorrect": false
+            },
+            {
+              "text": "Keeping volunteers busy regardless of need",
+              "isCorrect": false
+            },
+            {
+              "text": "Designing an efficient activity that serves the community well",
+              "isCorrect": true
+            },
+            {
+              "text": "Extending the event for recognition",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_94",
+          "corpus": "Which question best tests whether a volunteering activity was truly community-centered?",
+          "options": [
+            {
+              "text": "How many leaders attended?",
+              "isCorrect": false
+            },
+            {
+              "text": "Did the activity address a need identified by or with the community/NGO?",
+              "isCorrect": true
+            },
+            {
+              "text": "Was the event heavily promoted?",
+              "isCorrect": false
+            },
+            {
+              "text": "Did every volunteer receive merchandise?",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_95",
+          "corpus": "What is the strongest reason to collect post-event feedback from volunteers and NGO partners?",
+          "options": [
+            {
+              "text": "To create a longer report",
+              "isCorrect": false
+            },
+            {
+              "text": "To identify what worked, what did not, and how future impact can improve",
+              "isCorrect": true
+            },
+            {
+              "text": "To compare individual volunteers",
+              "isCorrect": false
+            },
+            {
+              "text": "To increase registration numbers automatically",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_96",
+          "corpus": "If an event delivers the planned output but beneficiaries report that the support was not useful, what should organizers conclude?",
+          "options": [
+            {
+              "text": "The event succeeded because the output target was met",
+              "isCorrect": false
+            },
+            {
+              "text": "Beneficiary feedback can be ignored",
+              "isCorrect": false
+            },
+            {
+              "text": "The output was achieved, but the intended outcome or relevance was weak and should be reassessed",
+              "isCorrect": true
+            },
+            {
+              "text": "The NGO should simply increase participant numbers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_97",
+          "corpus": "Which statement best distinguishes participation from impact?",
+          "options": [
+            {
+              "text": "Participation shows who took part; impact shows what meaningful change resulted",
+              "isCorrect": true
+            },
+            {
+              "text": "They are the same measure",
+              "isCorrect": false
+            },
+            {
+              "text": "Impact is always the number of hours logged",
+              "isCorrect": false
+            },
+            {
+              "text": "Participation matters only when an NGO is involved",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_98",
+          "corpus": "Which behavior best demonstrates an OSAAT mindset after a successful event?",
+          "options": [
+            {
+              "text": "Assume the same activity should always be repeated",
+              "isCorrect": false
+            },
+            {
+              "text": "Celebrate the contribution, capture learning and look for ways to strengthen future impact",
+              "isCorrect": true
+            },
+            {
+              "text": "Focus only on recognition",
+              "isCorrect": false
+            },
+            {
+              "text": "Stop measuring once attendance is confirmed",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_99",
+          "corpus": "What is the most meaningful interpretation of 'One Smile at a Time'?",
+          "options": [
+            {
+              "text": "Every event must focus on entertainment",
+              "isCorrect": false
+            },
+            {
+              "text": "Only individual actions matter",
+              "isCorrect": false
+            },
+            {
+              "text": "Thoughtful individual contributions can accumulate into wider positive change",
+              "isCorrect": true
+            },
+            {
+              "text": "Success is measured by the number of smiles photographed",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionId": "q_100",
+          "corpus": "Which statement best summarizes effective OSAAT volunteering?",
+          "options": [
+            {
+              "text": "Register for as many activities as possible",
+              "isCorrect": false
+            },
+            {
+              "text": "Choose visible activities and maximize attendance",
+              "isCorrect": false
+            },
+            {
+              "text": "Follow a consistent activity template everywhere",
+              "isCorrect": false
+            },
+            {
+              "text": "Understand the need, participate responsibly, collaborate with partners and focus on meaningful impact",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

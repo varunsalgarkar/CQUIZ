@@ -1,0 +1,578 @@
+{
+  "questions": [
+    {
+      "questionId": "q_3_1_E",
+      "corpus": "What is the mission of Safe Water Network?",
+      "options": [
+        {"text": "Provide bottled water to rural areas", "isCorrect": false},
+        {"text": "Ensure communities manage their own safe water sustainably", "isCorrect": true},
+        {"text": "Build dams in urban cities", "isCorrect": false},
+        {"text": "Promote desalination", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_2_E",
+      "corpus": "By 2026, how many people does Safe Water Network aim to reach?",
+      "options": [
+        {"text": "5 million", "isCorrect": false},
+        {"text": "20 million", "isCorrect": false},
+        {"text": "50 million", "isCorrect": true},
+        {"text": "100 million", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_3_E",
+      "corpus": "Which countries are key focus areas for Safe Water Network?",
+      "options": [
+        {"text": "Brazil and Kenya", "isCorrect": false},
+        {"text": "Ghana and India", "isCorrect": true},
+        {"text": "USA and UK", "isCorrect": false},
+        {"text": "China and South Africa", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_4_E",
+      "corpus": "What are some challenges Safe Water Network addresses?",
+      "options": [
+        {"text": "Water privatization", "isCorrect": false},
+        {"text": "High operating costs and weak enabling environments", "isCorrect": true},
+        {"text": "Climate change", "isCorrect": false},
+        {"text": "Urban migration", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_5_E",
+      "corpus": "What is the name of the digital water station initiative in Telangana?",
+      "options": [
+        {"text": "JalNet", "isCorrect": false},
+        {"text": "iJal Stations", "isCorrect": true},
+        {"text": "AquaSafe", "isCorrect": false},
+        {"text": "WaterLink", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_6_E",
+      "corpus": "Which of the following is a key principle of Safe Water Network’s approach?",
+      "options": [
+        {"text": "Centralized water distribution", "isCorrect": false},
+        {"text": "Community-led water management", "isCorrect": true},
+        {"text": "Free water for all", "isCorrect": false},
+        {"text": "Government-only control", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_7_E",
+      "corpus": "What does “iJal” stand for in Safe Water Network’s India initiative?",
+      "options": [
+        {"text": "Intelligent Jal", "isCorrect": false},
+        {"text": "Internet Jal", "isCorrect": false},
+        {"text": "Innovative Jal", "isCorrect": true},
+        {"text": "Inclusive Jal", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_8_E",
+      "corpus": "Which technology is commonly used in Safe Water Network’s water stations?",
+      "options": [
+        {"text": "Reverse osmosis", "isCorrect": true},
+        {"text": "UV filtration", "isCorrect": false},
+        {"text": "Boiling", "isCorrect": false},
+        {"text": "Chlorination", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_9_E",
+      "corpus": "What is one major benefit of decentralized water systems promoted by Safe Water Network?",
+      "options": [
+        {"text": "Lower water pressure", "isCorrect": false},
+        {"text": "Reduced community involvement", "isCorrect": false},
+        {"text": "Increased sustainability", "isCorrect": true},
+        {"text": "Higher government dependency", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_10_E",
+      "corpus": "Which of the following is a challenge Safe Water Network aims to overcome?",
+      "options": [
+        {"text": "Overuse of bottled water", "isCorrect": false},
+        {"text": "Lack of community awareness", "isCorrect": true},
+        {"text": "Excess rainfall", "isCorrect": false},
+        {"text": "Urban water surplus", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_11_E",
+      "corpus": "Which of the following is a key metric used by Safe Water Network to measure impact?",
+      "options": [
+        {"text": "Number of water stations built", "isCorrect": false},
+        {"text": "Liters of water distributed", "isCorrect": false},
+        {"text": "People reached with safe water", "isCorrect": true},
+        {"text": "Number of government partnerships", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_12_E",
+      "corpus": "What is one way Safe Water Network ensures long-term sustainability of water stations?",
+      "options": [
+        {"text": "Outsourcing operations to private companies", "isCorrect": false},
+        {"text": "Training local entrepreneurs", "isCorrect": true},
+        {"text": "Providing free maintenance forever", "isCorrect": false},
+        {"text": "Relying solely on donations", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_13_E",
+      "corpus": "Which of the following is a benefit of using digital monitoring in water stations?",
+      "options": [
+        {"text": "Reduces water quality", "isCorrect": false},
+        {"text": "Increases downtime", "isCorrect": false},
+        {"text": "Enables real-time performance tracking", "isCorrect": true},
+        {"text": "Eliminates the need for local staff", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_14_E",
+      "corpus": "What is the role of community engagement in Safe Water Network’s model?",
+      "options": [
+        {"text": "Minimal involvement", "isCorrect": false},
+        {"text": "Full ownership and participation", "isCorrect": true},
+        {"text": "Occasional feedback", "isCorrect": false},
+        {"text": "Only during setup", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_15_E",
+      "corpus": "Which of the following is a common source of contamination in rural water supplies?",
+      "options": [
+        {"text": "Rainwater", "isCorrect": false},
+        {"text": "Groundwater", "isCorrect": false},
+        {"text": "Open defecation near water sources", "isCorrect": true},
+        {"text": "Chlorination", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_16_E",
+      "corpus": "Which of the following best describes Safe Water Network’s model of water delivery?",
+      "options": [
+        {"text": "Free water distribution", "isCorrect": false},
+        {"text": "Government-run water plants", "isCorrect": false},
+        {"text": "Decentralized, small-scale water enterprises", "isCorrect": true},
+        {"text": "Rainwater harvesting only", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_17_E",
+      "corpus": "What is a key benefit of Safe Water Network’s public-private partnership approach?",
+      "options": [
+        {"text": "Reduces community involvement", "isCorrect": false},
+        {"text": "Ensures long-term financial sustainability", "isCorrect": true},
+        {"text": "Limits innovation", "isCorrect": false},
+        {"text": "Focuses only on urban areas", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_18_E",
+      "corpus": "Which of the following is a common barrier to safe water access in rural India?",
+      "options": [
+        {"text": "Excess water supply", "isCorrect": false},
+        {"text": "Lack of mobile phones", "isCorrect": false},
+        {"text": "Poor infrastructure and maintenance", "isCorrect": true},
+        {"text": "High literacy rates", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_19_E",
+      "corpus": "How does Safe Water Network promote transparency in operations?",
+      "options": [
+        {"text": "Avoids public reporting", "isCorrect": false},
+        {"text": "Uses digital dashboards and data sharing", "isCorrect": true},
+        {"text": "Keeps data private", "isCorrect": false},
+        {"text": "Relies on verbal updates", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_20_E",
+      "corpus": "What is one way Safe Water Network supports gender inclusion?",
+      "options": [
+        {"text": "Hiring only male technicians", "isCorrect": false},
+        {"text": "Ignoring gender roles", "isCorrect": false},
+        {"text": "Empowering women as water station operators", "isCorrect": true},
+        {"text": "Avoiding women in leadership roles", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_21_E",
+      "corpus": "Which of the following best describes the “last mile” challenge in water access?",
+      "options": [
+        {"text": "Delivering water to urban centers", "isCorrect": false},
+        {"text": "Reaching remote and underserved communities", "isCorrect": true},
+        {"text": "Building large dams", "isCorrect": false},
+        {"text": "Reducing water tariffs", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_22_E",
+      "corpus": "What is one way Safe Water Network ensures affordability of water?",
+      "options": [
+        {"text": "Government subsidies only", "isCorrect": false},
+        {"text": "Tiered pricing models based on usage", "isCorrect": true},
+        {"text": "Free water for all", "isCorrect": false},
+        {"text": "Monthly subscription plans", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_23_E",
+      "corpus": "Which of the following is a key outcome of Safe Water Network’s monitoring systems?",
+      "options": [
+        {"text": "Reduced water consumption", "isCorrect": false},
+        {"text": "Improved operational efficiency", "isCorrect": true},
+        {"text": "Elimination of water stations", "isCorrect": false},
+        {"text": "Increased water waste", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_24_E",
+      "corpus": "What role do local entrepreneurs play in Safe Water Network’s model?",
+      "options": [
+        {"text": "They fund the entire project", "isCorrect": false},
+        {"text": "They manage and operate water stations", "isCorrect": true},
+        {"text": "They act as government liaisons", "isCorrect": false},
+        {"text": "They provide bottled water", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_25_E",
+      "corpus": "Which of the following is a long-term goal of Safe Water Network?",
+      "options": [
+        {"text": "Privatize all water systems", "isCorrect": false},
+        {"text": "Scale sustainable water solutions globally", "isCorrect": true},
+        {"text": "Focus only on emergency relief", "isCorrect": false},
+        {"text": "Replace traditional water sources", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_26_E",
+      "corpus": "How long should you wash your hands to ensure they are properly cleaned?",
+      "options": [
+        {"text": "20 Seconds", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_27_E",
+      "corpus": "How long should you wash your hands to ensure they are properly cleaned?",
+      "options": [
+        {"text": "20 Seconds", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_28_E",
+      "corpus": "What is the recommended minimum amount of water an adult person should drink daily?",
+      "options": [
+        {"text": "2 Litres", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_29_E",
+      "corpus": "What is the most common symptom of waterborne disease?",
+      "options": [
+        {"text": "Diarrhea", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_30_E",
+      "corpus": "How much water is there on earth’s surface?",
+      "options": [
+        {"text": "71%", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_31_E",
+      "corpus": "Out of total water on earth, how many percent is the fresh water?",
+      "options": [
+        {"text": "3%", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_32_E",
+      "corpus": "Out of total fresh water on earth, how much water is accessible for drinking?",
+      "options": [
+        {"text": "0.5%", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_33_E",
+      "corpus": "How many people on earth do not have access to safely managed drinking water services?",
+      "options": [
+        {"text": "2.2 billion", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_34_E",
+      "corpus": "Which industry consumes the highest amount of fresh water?",
+      "options": [
+        {"text": "Agriculture", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_35_E",
+      "corpus": "What is grey water?",
+      "options": [
+        {"text": "Waste water generated from houses from dishwashing, kitchen etc.", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_36_E",
+      "corpus": "What is black water?",
+      "options": [
+        {"text": "Waste water generated from toilets that contains faecal matter and urine", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_37_E",
+      "corpus": "How much water is used in creating a pair of jeans?",
+      "options": [
+        {"text": "7,600 litres", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_38_E",
+      "corpus": "What does “safely managed drinking water” mean according to WHO/UNICEF?",
+      "options": [
+        {"text": "Water supplied in bottles", "isCorrect": false},
+        {"text": "Water available on premises, available when needed, and free from contamination", "isCorrect": true},
+        {"text": "Water from any nearby source", "isCorrect": false},
+        {"text": "Water that is boiled before drinking", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_39_E",
+      "corpus": "Which of the following is NOT part of Safe Water Network’s focus?",
+      "options": [
+        {"text": "Affordability of water", "isCorrect": false},
+        {"text": "Community ownership", "isCorrect": false},
+        {"text": "Digital monitoring", "isCorrect": false},
+        {"text": "Luxury bottled water branding", "isCorrect": true}
+      ]
+    },
+    {
+      "questionId": "q_3_40_E",
+      "corpus": "Which waterborne disease is often linked to contaminated drinking water?",
+      "options": [
+        {"text": "Cholera", "isCorrect": true},
+        {"text": "Asthma", "isCorrect": false},
+        {"text": "Arthritis", "isCorrect": false},
+        {"text": "Diabetes", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_41_E",
+      "corpus": "Which renewable energy is sometimes used to power water purification systems?",
+      "options": [
+        {"text": "Solar energy", "isCorrect": true},
+        {"text": "Nuclear energy", "isCorrect": false},
+        {"text": "Wind tunnels", "isCorrect": false},
+        {"text": "Diesel engines only", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_42_E",
+      "corpus": "Safe Water Network promotes which type of water solutions?",
+      "options": [
+        {"text": "Short-term emergency only", "isCorrect": false},
+        {"text": "Long-term sustainable solutions", "isCorrect": true},
+        {"text": "Luxury solutions", "isCorrect": false},
+        {"text": "Exclusive private networks", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_43_E",
+      "corpus": "What is one of the Sustainable Development Goals (SDG 6) related to water?",
+      "options": [
+        {"text": "Affordable housing", "isCorrect": false},
+        {"text": "Clean water and sanitation for all", "isCorrect": true},
+        {"text": "Free bottled water in cities", "isCorrect": false},
+        {"text": "Global electricity supply", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_44_E",
+      "corpus": "Which of these is an example of water reuse?",
+      "options": [
+        {"text": "Using treated wastewater for irrigation", "isCorrect": true},
+        {"text": "Throwing wastewater into rivers", "isCorrect": false},
+        {"text": "Allowing leakage in pipelines", "isCorrect": false},
+        {"text": "Storing rainwater in open drains", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_45_E",
+      "corpus": "Which factor most affects the quality of groundwater in rural India?",
+      "options": [
+        {"text": "Plastic pollution", "isCorrect": false},
+        {"text": "Industrial discharge and poor sanitation", "isCorrect": true},
+        {"text": "Internet usage", "isCorrect": false},
+        {"text": "Air conditioning units", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_46_E",
+      "corpus": "Which is a common method for rainwater harvesting?",
+      "options": [
+        {"text": "Storing in overhead tanks", "isCorrect": true},
+        {"text": "Collecting in open fields", "isCorrect": false},
+        {"text": "Allowing it to evaporate", "isCorrect": false},
+        {"text": "Pumping into sewage", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_47_E",
+      "corpus": "Which global day is observed to highlight the importance of water?",
+      "options": [
+        {"text": "World Water Day (March 22)", "isCorrect": true},
+        {"text": "Earth Hour", "isCorrect": false},
+        {"text": "World Food Day", "isCorrect": false},
+        {"text": "World Environment Day", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_48_E",
+      "corpus": "Why is community training important in Safe Water Network’s model?",
+      "options": [
+        {"text": "To reduce electricity bills", "isCorrect": false},
+        {"text": "To empower locals to manage water stations", "isCorrect": true},
+        {"text": "To outsource work abroad", "isCorrect": false},
+        {"text": "To avoid using technology", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_49_E",
+      "corpus": "Which of the following is a benefit of household water connections from community stations?",
+      "options": [
+        {"text": "Increases wastage", "isCorrect": false},
+        {"text": "Saves time spent on fetching water", "isCorrect": true},
+        {"text": "Reduces community involvement", "isCorrect": false},
+        {"text": "Makes water more expensive", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_50_E",
+      "corpus": "Which of these contaminants is most dangerous in drinking water?",
+      "options": [
+        {"text": "Calcium", "isCorrect": false},
+        {"text": "Fluoride in excess", "isCorrect": true},
+        {"text": "Oxygen", "isCorrect": false},
+        {"text": "Magnesium", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_51_E",
+      "corpus": "Which age group is most vulnerable to unsafe water?",
+      "options": [
+        {"text": "Children under 5 years", "isCorrect": true},
+        {"text": "Adults aged 40–60", "isCorrect": false},
+        {"text": "Teenagers", "isCorrect": false},
+        {"text": "Elderly above 70 only", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_52_E",
+      "corpus": "Which natural resource is most directly linked to safe water availability?",
+      "options": [
+        {"text": "Forest cover", "isCorrect": true},
+        {"text": "Gold deposits", "isCorrect": false},
+        {"text": "Coal mines", "isCorrect": false},
+        {"text": "Petroleum reserves", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_53_E",
+      "corpus": "What is the average percentage of household income often spent on water in rural poor communities?",
+      "options": [
+        {"text": "Less than 1%", "isCorrect": false},
+        {"text": "5–10%", "isCorrect": true},
+        {"text": "50%", "isCorrect": false},
+        {"text": "No expenditure", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_54_E",
+      "corpus": "What is a common cause of water station failures in rural areas?",
+      "options": [
+        {"text": "Strong community ownership", "isCorrect": false},
+        {"text": "Lack of maintenance and funding", "isCorrect": true},
+        {"text": "Government support", "isCorrect": false},
+        {"text": "Abundant water supply", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_55_E",
+      "corpus": "Safe Water Network’s digital dashboards are primarily used for:",
+      "options": [
+        {"text": "Social media promotions", "isCorrect": false},
+        {"text": "Real-time monitoring and data sharing", "isCorrect": true},
+        {"text": "Selling bottled water", "isCorrect": false},
+        {"text": "Online advertisements", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_56_E",
+      "corpus": "Which of these actions can individuals take to save water at home?",
+      "options": [
+        {"text": "Fixing leaking taps", "isCorrect": true},
+        {"text": "Using washing machines for half-loads", "isCorrect": false},
+        {"text": "Leaving taps open while brushing", "isCorrect": false},
+        {"text": "Wasting rainwater", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_57_E",
+      "corpus": "Why are decentralized water systems more effective in rural areas?",
+      "options": [
+        {"text": "They are easier to manage locally and require lower infrastructure costs", "isCorrect": true},
+        {"text": "They depend only on big cities", "isCorrect": false},
+        {"text": "They always use bottled water", "isCorrect": false},
+        {"text": "They are controlled only by central governments", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_58_E",
+      "corpus": "What role does technology play in safe water networks?",
+      "options": [
+        {"text": "Spreads entertainment", "isCorrect": false},
+        {"text": "Monitors and manages water systems", "isCorrect": true},
+        {"text": "Provides online shopping", "isCorrect": false},
+        {"text": "Stops rainfall", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_59_E",
+      "corpus": "Which of these is a benefit of community-managed water systems?",
+      "options": [
+        {"text": "High cost of water", "isCorrect": false},
+        {"text": "Greater sustainability", "isCorrect": true},
+        {"text": "Limited access for people", "isCorrect": false},
+        {"text": "Water wastage", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_60_E",
+      "corpus": "Which natural disaster often contaminates safe water sources?",
+      "options": [
+        {"text": "Earthquake", "isCorrect": false},
+        {"text": "Flood", "isCorrect": true},
+        {"text": "Volcano", "isCorrect": false},
+        {"text": "Sandstorm", "isCorrect": false}
+      ]
+    },
+    {
+      "questionId": "q_3_61_E",
+      "corpus": "Why is safe water important for children?",
+      "options": [
+        {"text": "Improves internet access", "isCorrect": false},
+        {"text": "Reduces waterborne diseases", "isCorrect": true},
+        {"text": "Provides better play areas", "isCorrect": false},
+        {"text": "Increases entertainment", "isCorrect": false}
+      ]
+    }
+  ]
+}
