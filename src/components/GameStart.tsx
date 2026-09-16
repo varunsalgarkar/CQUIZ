@@ -3,6 +3,22 @@ import { Button } from "@/components/ui/button";
 import { Trophy, Zap, Target, Settings, X } from "lucide-react";
 import { BrandLogo } from "./brandlogo";
 
+// Decorative only — the 6 cube faces don't represent any particular
+// section (there are 7 of those, one more than a cube has faces).
+const DICE_FACE_COLORS = ["#ff6b6b", "#4ecdc4", "#45b7d1", "#96ceb4", "#feca57", "#a29bfe"];
+
+// One resting orientation per face, purely for visual variety so the
+// cube doesn't land on the same face every time — picked independently
+// of (and unrelated to) which section the roll actually lands on.
+const DICE_REST_ORIENTATIONS = [
+  "rotateX(0deg) rotateY(0deg)",
+  "rotateX(0deg) rotateY(90deg)",
+  "rotateX(0deg) rotateY(180deg)",
+  "rotateX(0deg) rotateY(-90deg)",
+  "rotateX(90deg) rotateY(0deg)",
+  "rotateX(-90deg) rotateY(0deg)",
+];
+
 interface GameStartProps {
   onStart: (sectionId?: string) => void;
   questionsCount: number;
@@ -17,6 +33,7 @@ export const GameStart = ({ onStart, questionsCount, onQuestionsCountChange, que
   const [tempCount, setTempCount] = useState(questionsCount);
   const [tempTime, setTempTime] = useState(questionTime);
   const [diceRolling, setDiceRolling] = useState(false);
+  const [diceRestOrientation, setDiceRestOrientation] = useState(DICE_REST_ORIENTATIONS[0]);
   const [selectedSection, setSelectedSection] = useState<string | null>(null);
   const [selectedEnergySection, setSelectedEnergySection] = useState<string | null>(null);
   const [showEnergySelector, setShowEnergySelector] = useState(false);
@@ -27,22 +44,32 @@ export const GameStart = ({ onStart, questionsCount, onQuestionsCountChange, que
     setShowSettings(false);
   };
 
+  // Real section names/ids from public/questions.json.
   const sections = [
-    { id: "section_1", title: "DANCE DASH", color: "#ff6b6b" },
-    { id: "section_2", title: "MEMORY NUGGETS", color: "#4ecdc4" },
-    { id: "section_3", title: "JIGSAW QUIZ", color: "#45b7d1" },
-    { id: "section_4", title: "WELLNESS QUIZ", color: "#96ceb4" },
-    { id: "section_5", title: "JIGSAW QUIZ", color: "#feca57" },
-    { id: "section_6", title: "MEMORY NUGGETS", color: "#ff9ff3" }    
+    { id: "section_1", title: "NPI Tool & Process Knowledge Check", color: "#ff6b6b" },
+    { id: "section_2", title: "Migration Team", color: "#4ecdc4" },
+    { id: "section_3", title: "Platform Engineering", color: "#45b7d1" },
+    { id: "section_4", title: "Data Engineering", color: "#96ceb4" },
+    { id: "section_5", title: "Finops & Modernisation", color: "#feca57" },
+    { id: "section_6", title: "D&AI Platform Architecture", color: "#ff9ff3" },
+    { id: "section_7", title: "PE DevSecOps", color: "#a29bfe" },
   ];
-
+  // The cube prop below only has 6 physical faces, but there are 7
+  // sections to pick from — so the cube can no longer represent "which
+  // one landed" by rotating to a matching face (that's also what made
+  // the previous version buggy: a face's own resting rotation and the
+  // container rotation meant to reveal it didn't actually agree, so
+  // the wrong face turned up front). Faces are decorative only now;
+  // the outcome is picked independently from the full list of 7 and
+  // shown as plain text below, which is the only source of truth.
   const rollDice = () => {
     setDiceRolling(true);
     setTimeout(() => {
-      const randomSection = sections[Math.floor(Math.random() * 6)];
+      const randomSection = sections[Math.floor(Math.random() * sections.length)];
       setSelectedSection(randomSection.id);
+      setDiceRestOrientation(DICE_REST_ORIENTATIONS[Math.floor(Math.random() * DICE_REST_ORIENTATIONS.length)]);
       setDiceRolling(false);
-      
+
       // Just show the result, don't auto-start
     }, 2000);
   };
@@ -108,7 +135,7 @@ export const GameStart = ({ onStart, questionsCount, onQuestionsCountChange, que
           </div>
 
           <Button
-            onClick={() => onStart(selectedEnergySection || selectedSection || undefined)}
+            onClick={() => onStart(selectedEnergySection || undefined)}
             size="lg"
             className="sting-gradient text-sting-black hover:bg-sting-black hover:text-sting-white hover:shadow-[var(--glow-sting)] transition-[var(--transition-bounce)] text-lg px-8 py-6 rounded-xl font-bold glass-button"
           >
@@ -202,42 +229,39 @@ export const GameStart = ({ onStart, questionsCount, onQuestionsCountChange, que
             </div>
             
             <div className="relative mx-auto mb-6" style={{width: '120px', height: '120px', perspective: '200px'}}>
-              <div 
+              {/* Purely decorative spin — faces are blank numbered panels,
+                  not tied to any section, so there's nothing here that can
+                  disagree with the text result below. The actual outcome
+                  is picked independently (see rollDice) from all 7
+                  sections and is only ever shown as that text. */}
+              <div
                 className={`dice ${diceRolling ? 'rolling' : ''}`}
                 style={{
                   width: '100%',
                   height: '100%',
                   position: 'relative',
                   transformStyle: 'preserve-3d',
-                  transform: diceRolling ? 'rotateX(720deg) rotateY(720deg)' : 
-                    selectedSection === 'section_1' ? 'rotateX(0deg) rotateY(0deg)' :
-                    selectedSection === 'section_2' ? 'rotateX(-90deg) rotateY(0deg)' :
-                    selectedSection === 'section_3' ? 'rotateX(0deg) rotateY(90deg)' :
-                    selectedSection === 'section_4' ? 'rotateX(0deg) rotateY(-90deg)' :
-                    selectedSection === 'section_5' ? 'rotateX(90deg) rotateY(0deg)' :
-                    'rotateX(180deg) rotateY(0deg)',
+                  transform: diceRolling ? 'rotateX(720deg) rotateY(720deg)' : diceRestOrientation,
                   transition: 'transform 2s ease-out'
                 }}
               >
-                {sections.map((section, index) => (
+                {DICE_FACE_COLORS.map((color, index) => (
                   <div
-                    key={section.id}
+                    key={index}
                     className="dice-face"
                     style={{
                       position: 'absolute',
                       width: '100%',
                       height: '100%',
                       border: '2px solid #ffd700',
-                      backgroundColor: section.color,
+                      backgroundColor: color,
                       display: 'flex',
                       alignItems: 'center',
                       justifyContent: 'center',
-                      fontSize: '10px',
+                      fontSize: '28px',
                       fontWeight: 'bold',
                       color: 'white',
-                      textAlign: 'center',
-                      padding: '8px',
-                      transform: 
+                      transform:
                         index === 0 ? 'rotateY(0deg) translateZ(60px)' :
                         index === 1 ? 'rotateY(90deg) translateZ(60px)' :
                         index === 2 ? 'rotateY(180deg) translateZ(60px)' :
@@ -246,19 +270,20 @@ export const GameStart = ({ onStart, questionsCount, onQuestionsCountChange, que
                         'rotateX(-90deg) translateZ(60px)'
                     }}
                   >
-                    {section.title}
+                    {index + 1}
                   </div>
                 ))}
               </div>
             </div>
-            
+
             {!diceRolling && selectedSection && (
               <div className="space-y-4">
                 <div className="text-xl font-bold text-electric-cyan">
-                  {/* {sections.find(s => s.id === selectedSection)?.title} */}
+                  {sections.find(s => s.id === selectedSection)?.title}
                 </div>
                 <p className="text-sting-white/70">
-                  Category selected! Click "Start Energy Quest" to begin.
+                  Just for fun! Use "Energy Boost" below to actually choose your quiz category —
+                  otherwise questions are picked at random from every category.
                 </p>
               </div>
             )}
